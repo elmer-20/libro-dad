@@ -1,0 +1,11 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {part}{I\hspace {1em}Proceso de Admisión 2024}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Examen General 2024-I}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}CEPREUNA 2024-I}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Examen General 2024-II}{8}{chapter.3}%
+\contentsline {chapter}{\numberline {4}CEPREUNA 2024-II}{11}{chapter.4}%
+\contentsline {part}{II\hspace {1em}Proceso de Admisión 2025}{14}{part.2}%
+\contentsline {chapter}{\numberline {5}Examen General 2025-I}{15}{chapter.5}%
+\contentsline {chapter}{\numberline {6}CEPREUNA 2025-I}{18}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Examen General 2025-II}{21}{chapter.7}%
+\contentsline {chapter}{\numberline {8}CEPREUNA 2025-II}{24}{chapter.8}%

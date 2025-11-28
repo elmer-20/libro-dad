@@ -1,0 +1,81 @@
+\documentclass[12pt, a4paper,openany]{book}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath, amssymb}
+\usepackage{enumitem}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{color}
+\usepackage{multicol}
+\usepackage{hyperref}
+
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	urlcolor=blue
+}
+
+
+\geometry{
+	paper=a4paper,
+	inner=25mm,   
+	outer=20mm,   
+	top=22mm,
+	bottom=22mm
+}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt}
+
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textbf{\small UNA-Puno}}
+\fancyhead[R]{\textit{\small Dirección de Admisión}}
+\fancyfoot[C]{\thepage}
+
+
+\titlespacing*{\chapter}{0pt}{-10pt}{15pt}
+
+\titleformat{\chapter}[display]
+{\normalfont\bfseries\filcenter}
+{\Large \chaptername~\thechapter}
+{0pt}
+{\Huge}
+
+\titleformat{name=\chapter,numberless}[display]
+{\normalfont\bfseries\filcenter}
+{}
+{0pt}
+{\Large}
+
+
+\begin{document}
+	
+	\frontmatter
+	\include{portada}
+	\include{preliminares}
+	\include{autores}
+	\tableofcontents
+	
+	\mainmatter
+	
+	\part{Proceso de Admisión 2024}
+	\include{examenes/2024/general-2024-I}
+	\include{examenes/2024/cepre-2024-I}
+	\include{examenes/2024/general-2024-II}
+	\include{examenes/2024/cepre-2024-II}
+	
+	\part{Proceso de Admisión 2025}
+	\include{examenes/2025/general-2025-I}
+	\include{examenes/2025/cepre-2025-I}
+	\include{examenes/2025/general-2025-II}
+	\include{examenes/2025/cepre-2025-II}
+	
+\end{document}
