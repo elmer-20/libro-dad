@@ -1,3 +1,4 @@
+
 \chapter{Examen General 2024-I}
 
 
@@ -85,43 +86,184 @@
 \section*{Área: Biomédicas}
 
 
-\subsection*{Biología}
+\subsection*{Aritmética}
 
 \begin{enumerate}
 	
-	\item Primera pregunta del área Biomédicas...
+	\item Determine el esquema mólecular simplificado del siguiente circuito:
+	
+	\[
+	\begin{array}{c}
+		\text{Circuito:}\\[4pt]
+		\left[
+		\begin{array}{c}
+			p \rightarrow q \\[-2pt]
+			\neg p \rightarrow q \\[-2pt]
+			\neg p \rightarrow \neg q
+		\end{array}
+		\right]
+	\end{array}
+	\]
+	
+	
+	
+		
+			
 	\begin{enumerate}[label=\alph*)]
-		\item A
-		\item B
-		\item C
-		\item D
-		\item E
-	\end{enumerate}
-	
-	\textbf{Respuesta correcta:} b)
-	
-	\vspace{2mm}
-	\textbf{Solucionario:}\\
-	Explicación...
-	
-	\vspace{6mm}
-	
-	\item Segunda pregunta...
-	\begin{enumerate}[label=\alph*)]
-		\item A
-		\item B
-		\item C
-		\item D
-		\item E
+		\item p $\land$ q
+		\item p $\lor$ q
+		\item $\sim$ p $\land$ $\sim$ q
+		\item $\sim$ p $\lor$ $\sim$ q
+		\item $\sim$ p $\land$ q
 	\end{enumerate}
 	
 	\textbf{Respuesta correcta:} d)
 	
 	\vspace{2mm}
 	\textbf{Solucionario:}\\
-	Explicación...
+	Del circuito inicial podemos formar lo siguiente, reduciendo:
+	
+	\[
+	\left[
+	\begin{array}{c}
+		p \land \neg q \\[-2pt]
+		\neg p \land q \\[-2pt]
+		\neg p \land \neg q
+	\end{array}
+	\right]
+	\]
+	
+	De ahí tendremos la siguiente expresión lógica:
+		
+	\[
+	\begin{aligned}
+		&\equiv [(p \land \neg q) \lor (\neg p \land q)] \lor (\neg p \land \neg q) \\[6pt]
+		&\equiv \big[(p \lor \neg p)(\neg q \lor q)\big] \lor (\neg p \land \neg q) \\[6pt]
+		&\equiv (p \lor q) \land (\neg q \lor p) \lor (\neg p \land q) \\[6pt]
+		&\equiv (\neg q \lor p) \lor (\neg p \land q) \\[6pt]
+		&\equiv \neg q \lor [\neg p \lor (p \land \neg q)] \\[6pt]
+		&\equiv \neg q \lor p \\[6pt]
+		&\equiv \neg p \lor \neg q
+	\end{aligned}
+	\]
 	
 	\vspace{6mm}
+	
+	\item Un cilindro de 60L de capacidad, fue llenado completamente por 4 recipientes donde el volumen del primero es al segundo como el del tercero es al cuarto como 2 es a 1. Halle la suma de los volúmenes del segundo y cuarto recipiente.
+	\begin{enumerate}[label=\alph*)]
+		\item 20L
+		\item 30L
+		\item 40L
+		\item 15L
+		\item 25L
+	\end{enumerate}
+	
+	\textbf{Respuesta correcta:} a)
+	
+	\vspace{2mm}
+	\textbf{Solucionario:}\\
+	$V_1$ + $V_2$ + $V_3$ + $V_4$ = 60\\
+	
+	$\displaystyle\frac{V_1}{V_2} = \frac{V_3}{V_4} = \frac{2}{1}$\\
+	
+	$\displaystyle\frac{V_1+V_3}{V_2+V_4} = \frac{2}{1}$\\
+	
+	Propiedad   $\displaystyle\frac{V_1+V_2+V_3+V_4}{V_2+V_4} = \frac{2+1}{1}$\\
+	
+	Reemplazando   $\displaystyle\frac{60}{V_2+V_4} = \frac{3}{1}$\\
+	
+	Donde $V_2$ + $V_4$ = 20L
+	
+	\vspace{6mm}
+	
+	\item El dinero de A excede al de B en 20\% del dinero de C y el exceso de B a C equivaleal 10\% del dinero de A. Si A tiene S/.200 ¿Cuantos tiene C y B juntos? 
+	
+	
+	
+	
+		\begin{enumerate}[label=\alph*)]
+		\item 280
+		\item 300
+		\item 420
+		\item 360
+		\item 320
+	\end{enumerate}
+	
+	\textbf{Respuesta correcta:} e)
+	
+	\vspace{2mm}
+	\textbf{Solucionario:}\\
+	
+		A = S/.200 B=3 C=?\\
+		
+		A - B = 20\%C ...... (1)\\
+		B - C = 10\%A ...... (2)\\
+		A - C = 20\%C + 10\%A
+		
+		100\%A - 100\%C = 20\%C + 10\%A\\
+		90\%A = 120\%C\\
+		90\%A = 120\%C
+		
+		90(200) = 120C => C = S/.150
+		
+		En(1) 200 - B =  $\displaystyle\frac{20}{100}$(150) = S/.170 = B
+		
+		A + B = 150 + 170 = 320
+	
+	
+	
+	\vspace{6mm}
+	
+\end{enumerate}
+
+
+
+\subsection*{Álgebra}
+
+\begin{enumerate}[resume]
+	
+	\item En el polinomio P(x)=$(1+2x)^n$+$(1+3x)^n$, la suma de coeficientes excede en 23 al término independiente. Según ello, establezca el valor de verdad de las siguientes proposiciones:
+	\begin{enumerate}[label=\Roman*.]
+		\item El polinomio es de grado 2
+		\item La suma de sus coeficientes es 25
+		\item El término cuadrático es $12x^2$
+	\end{enumerate}
+	
+	
+	\begin{enumerate}[label=\alph*)]
+		\item VVV
+		\item VFV
+		\item VVF
+		\item FVV
+		\item FFV
+	\end{enumerate}
+	
+	\textbf{Respuesta correcta:} a)
+	
+	\vspace{2mm}
+	\textbf{Solucionario:}\\
+	P(1)=$3^n$+$4^n$ ; $P(0)$=1+1=2\\
+	P(1)=P(0)+23\\
+	$3^n$+$4^n$=2+23=25    
+	
+\end{enumerate}
+
+\begin{enumerate}[resume]
+	
+	\item Tercera pregunta en esta área...
+	\begin{enumerate}[label=\alph*)]
+		\item A
+		\item B
+		\item C
+		\item D
+		\item E
+	\end{enumerate}
+	
+	\textbf{Respuesta correcta:} a)
+	
+	\vspace{2mm}
+	\textbf{Solucionario:}\\
+	Explicación...
 	
 \end{enumerate}
 
