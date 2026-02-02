@@ -1,0 +1,4 @@
+# Archivos generados por LaTeX
+*.log
+*.pdf
+*.synctex.gz
