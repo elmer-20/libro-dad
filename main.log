@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.20)  9 APR 2026 10:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.20)  9 APR 2026 13:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1010,10 +1010,8 @@ LaTeX Info: Redefining \% on input line 8.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
 (babel)             Reported on input line 8.
  (preliminares.aux) (autores.aux)
-(examenes/2024/general-2024-I.aux) (examenes/2024/cepre-2024-I.aux)
-(examenes/2024/general-2024-II.aux) (examenes/2024/cepre-2024-II.aux)
-(examenes/2025/general-2025-I.aux) (examenes/2025/cepre-2025-I.aux)
-(examenes/2025/general-2025-II.aux) (examenes/2025/cepre-2025-II.aux))
+(examenes/2024/general-2024-I.aux) (examenes/2024/general-2024-II.aux)
+(examenes/2024/cepre-2024-I.aux) (examenes/2024/cepre-2024-II.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
@@ -1157,14 +1155,14 @@ Overfull \hbox (52.01245pt too wide) in paragraph at lines 5--9
  [][][][][][] 
  []
 
-<logotiny.png, id=30, 556.0775pt x 601.24625pt>
+<logotiny.png, id=10, 556.0775pt x 601.24625pt>
 File: logotiny.png Graphic file (type png)
 <use logotiny.png>
 Package pdftex.def Info: logotiny.png  used on input line 11.
 (pdftex.def)             Requested size: 113.81102pt x 123.05444pt.
 
-Overfull \hbox (52.01245pt too wide) in paragraph at lines 32--36
- [][][][][][] 
+Overfull \hbox (52.01245pt too wide) in paragraph at lines 37--38
+ [][][][][][][] 
  []
 
 [1
@@ -1182,40 +1180,23 @@ Overfull \hbox (52.01245pt too wide) in paragraph at lines 32--36
 
 
 
-]) [3
+] [3
 
-]
+]) [4]
 \openout2 = `autores.aux'.
 
- (autores.tex [4
-
-
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+ (autores.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56 	
-       [1]
-Overfull \hbox (15.30913pt too wide) in paragraph at lines 62--62
-\T1/lmr/bx/n/10 .....................................  
- []
+l.24 		\newpage
+                [1
 
 
-Overfull \hbox (15.30913pt too wide) in paragraph at lines 68--68
-\T1/lmr/bx/n/10 .....................................  
- []
 
 
-Overfull \hbox (15.30913pt too wide) in paragraph at lines 74--74
-\T1/lmr/bx/n/10 .....................................  
- []
-
+]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 89.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1256,151 +1237,121 @@ l.105 	\mainmatter
 ]
 \openout2 = `examenes/2024/general-2024-I.aux'.
 
- (examenes/2024/general-2024-I.tex
-Cap\'{\i }tulo 1.
-[2
+ (examenes/2024/general-2024-I.tex [2
 
+
+] [3
 
 {C:/Users/DAD 2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}
 {C:/Users/DAD 2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/
 Users/DAD 2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-[4{C:/Users/DAD 2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.en
-c}]
-Overfull \hbox (3.2603pt too wide) in paragraph at lines 181--182
+[4] [5{C:/Users/DAD 2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathe
+x.enc}]
+Overfull \hbox (3.2603pt too wide) in paragraph at lines 184--185
 []\T1/lmr/m/n/10 Del in-ter-va-lo $\OT1/lmr/m/n/10 [220; 240\OMS/lmsy/m/n/10 i$
 \T1/lmr/m/n/10 , to-ma-mos la mi-tad (de 230 a 240): $\OT1/lmr/m/n/10 40\OML/lm
 m/m/it/10 =\OT1/lmr/m/n/10 2 =
  []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 263--265
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 266--268
 
  []
 
-[6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 320--322
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+[7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 323--325
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--334
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
 
  []
 
-[8]
-<imagenes/general2024-I/etapa1/ing/geo1g24-I.png, id=176, 150.3216pt x 130.086p
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--337
+
+ []
+
+<imagenes/general2024-I/etapa1/ing/geo1g24-I.png, id=145, 150.3216pt x 130.086p
 t>
 File: imagenes/general2024-I/etapa1/ing/geo1g24-I.png Graphic file (type png)
 <use imagenes/general2024-I/etapa1/ing/geo1g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/geo1g24-I.png  used 
-on input line 349.
+on input line 352.
 (pdftex.def)             Requested size: 128.0374pt x 110.80783pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 368--370
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 371--373
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--379
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--382
 \OML/lmm/m/it/10 d\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 G; p\OT1/lmr/m/n/10 ) =
  []
 
-<imagenes/general2024-I/etapa1/ing/geo1g24r-I.png, id=178, 177.7842pt x 138.035
+<imagenes/general2024-I/etapa1/ing/geo1g24r-I.png, id=158, 177.7842pt x 138.035
 7pt>
 File: imagenes/general2024-I/etapa1/ing/geo1g24r-I.png Graphic file (type png)
 <use imagenes/general2024-I/etapa1/ing/geo1g24r-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/geo1g24r-I.png  used
- on input line 383.
+ on input line 386.
 (pdftex.def)             Requested size: 156.49014pt x 121.50337pt.
 
-Overfull \hbox (11.80885pt too wide) in paragraph at lines 383--384
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 386--387
  [][] 
  []
 
-[9 <./imagenes/general2024-I/etapa1/ing/geo1g24-I.png> <./imagenes/general2024-
-I/etapa1/ing/geo1g24r-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 407--408
+[10 <./imagenes/general2024-I/etapa1/ing/geo1g24-I.png> <./imagenes/general2024
+-I/etapa1/ing/geo1g24r-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 410--411
 
  []
 
-<imagenes/general2024-I/etapa1/ing/geo2g24-I.png, id=191, 191.0337pt x 171.2799
+<imagenes/general2024-I/etapa1/ing/geo2g24-I.png, id=171, 191.0337pt x 171.2799
 pt>
 File: imagenes/general2024-I/etapa1/ing/geo2g24-I.png Graphic file (type png)
 <use imagenes/general2024-I/etapa1/ing/geo2g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/geo2g24-I.png  used 
-on input line 409.
+on input line 412.
 (pdftex.def)             Requested size: 128.0374pt x 114.79875pt.
-<imagenes/general2024-I/etapa1/ing/geo3g24-I.png, id=192, 109.8504pt x 147.4308
+<imagenes/general2024-I/etapa1/ing/geo3g24-I.png, id=172, 109.8504pt x 147.4308
 pt>
 File: imagenes/general2024-I/etapa1/ing/geo3g24-I.png Graphic file (type png)
 <use imagenes/general2024-I/etapa1/ing/geo3g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/geo3g24-I.png  used 
-on input line 421.
+on input line 424.
 (pdftex.def)             Requested size: 128.0374pt x 171.84769pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10 <./imagenes/general2024-I/etapa1/ing/geo2g24-I.png>]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
-25.
-
+28.
 (C:\Users\DAD 2\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
+) [11 <./imagenes/general2024-I/etapa1/ing/geo2g24-I.png> <./imagenes/general20
+24-I/etapa1/ing/geo3g24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
 
  []
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 442.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 442.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 445.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 445.
-
-
 LaTeX Warning: Command \textdegree invalid in math mode on input line 445.
 
 
@@ -1419,1797 +1370,992 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 446.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 446.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 447.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 448.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 447.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 448.
 
-<imagenes/general2024-I/etapa1/ing/geo3g24r-I.png, id=205, 129.1224pt x 174.652
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 448.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 448.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 449.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 449.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 449.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 449.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 450.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 450.
+
+<imagenes/general2024-I/etapa1/ing/geo3g24r-I.png, id=186, 129.1224pt x 174.652
 5pt>
 File: imagenes/general2024-I/etapa1/ing/geo3g24r-I.png Graphic file (type png)
 <use imagenes/general2024-I/etapa1/ing/geo3g24r-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/geo3g24r-I.png  used
- on input line 453.
+ on input line 456.
 (pdftex.def)             Requested size: 128.0374pt x 173.19965pt.
-[11{C:/Users/DAD 2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}
- <./imagenes/general2024-I/etapa1/ing/geo3g24-I.png> <./imagenes/general2024-I/
-etapa1/ing/geo3g24r-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 473--474
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
 
  []
 
-<imagenes/general2024-I/etapa1/ing/geometria4g24-I.png, id=219, 162.1257pt x 15
+[12{C:/Users/DAD 2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}
+ <./imagenes/general2024-I/etapa1/ing/geo3g24r-I.png>]
+<imagenes/general2024-I/etapa1/ing/geometria4g24-I.png, id=203, 162.1257pt x 15
 1.5261pt>
 File: imagenes/general2024-I/etapa1/ing/geometria4g24-I.png Graphic file (type 
 png)
 <use imagenes/general2024-I/etapa1/ing/geometria4g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/geometria4g24-I.png 
- used on input line 486.
+ used on input line 489.
 (pdftex.def)             Requested size: 128.0374pt x 119.66498pt.
-<imagenes/general2024-I/etapa1/ing/trigonometria1g24-I.png, id=220, 188.6247pt 
+<imagenes/general2024-I/etapa1/ing/trigonometria1g24-I.png, id=204, 188.6247pt 
 x 65.043pt>
 File: imagenes/general2024-I/etapa1/ing/trigonometria1g24-I.png Graphic file (t
 ype png)
 <use imagenes/general2024-I/etapa1/ing/trigonometria1g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/trigonometria1g24-I.
-png  used on input line 503.
+png  used on input line 506.
 (pdftex.def)             Requested size: 128.0374pt x 44.1542pt.
-[12 <./imagenes/general2024-I/etapa1/ing/geometria4g24-I.png> <./imagenes/gener
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+
+ []
+
+[13 <./imagenes/general2024-I/etapa1/ing/geometria4g24-I.png> <./imagenes/gener
 al2024-I/etapa1/ing/trigonometria1g24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 517--518
-
- []
-
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 549--550
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--552
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--554
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
 
  []
 
-<imagenes/general2024-I/etapa1/ing/trigonometria3g24-I.png, id=247, 179.2296pt 
+[14]
+<imagenes/general2024-I/etapa1/ing/trigonometria3g24-I.png, id=228, 179.2296pt 
 x 125.268pt>
 File: imagenes/general2024-I/etapa1/ing/trigonometria3g24-I.png Graphic file (t
 ype png)
 <use imagenes/general2024-I/etapa1/ing/trigonometria3g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/trigonometria3g24-I.
-png  used on input line 564.
+png  used on input line 567.
 (pdftex.def)             Requested size: 156.49014pt x 109.37985pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 579--580
+Underfull \hbox (badness 10000) in paragraph at lines 582--583
 
  []
 
-<imagenes/general2024-I/etapa1/ing/trigonometria3g24r-I.png, id=248, 171.5208pt
+<imagenes/general2024-I/etapa1/ing/trigonometria3g24r-I.png, id=229, 171.5208pt
  x 125.268pt>
 File: imagenes/general2024-I/etapa1/ing/trigonometria3g24r-I.png Graphic file (
 type png)
 <use imagenes/general2024-I/etapa1/ing/trigonometria3g24r-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/trigonometria3g24r-I
-.png  used on input line 596.
+.png  used on input line 599.
 (pdftex.def)             Requested size: 156.49014pt x 114.29222pt.
 
-Overfull \hbox (11.80885pt too wide) in paragraph at lines 596--597
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 599--600
  [][] 
  []
 
-[14 <./imagenes/general2024-I/etapa1/ing/trigonometria3g24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 615--616
+[15 <./imagenes/general2024-I/etapa1/ing/trigonometria3g24-I.png> <./imagenes/g
+eneral2024-I/etapa1/ing/trigonometria3g24r-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 620--623
+Underfull \hbox (badness 10000) in paragraph at lines 623--626
 []$\OML/lmm/m/it/10 g\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 x\OT1/lmr/m/n/10 ) = \OM
 S/lmsy/m/n/10 j\OT1/lmr/m/n/10 ([][] \OML/lmm/m/it/10 x \OMS/lmsy/m/n/10 ^^@
  []
 
-<imagenes/general2024-I/etapa1/ing/trigonometria4g24-I.png, id=262, 177.7842pt 
+<imagenes/general2024-I/etapa1/ing/trigonometria4g24-I.png, id=242, 177.7842pt 
 x 109.8504pt>
 File: imagenes/general2024-I/etapa1/ing/trigonometria4g24-I.png Graphic file (t
 ype png)
 <use imagenes/general2024-I/etapa1/ing/trigonometria4g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/trigonometria4g24-I.
-png  used on input line 629.
+png  used on input line 632.
 (pdftex.def)             Requested size: 156.49014pt x 96.69377pt.
 
-Overfull \hbox (11.80885pt too wide) in paragraph at lines 629--630
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 632--633
  [][] 
  []
 
-[15 <./imagenes/general2024-I/etapa1/ing/trigonometria3g24r-I.png> <./imagenes/
-general2024-I/etapa1/ing/trigonometria4g24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 659--660
+[16 <./imagenes/general2024-I/etapa1/ing/trigonometria4g24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 662--663
 
  []
 
-<imagenes/general2024-I/etapa1/ing/fisica1g24-I .png, id=275, 146.7081pt x 161.
+<imagenes/general2024-I/etapa1/ing/fisica1g24-I .png, id=259, 146.7081pt x 161.
 1621pt>
 File: imagenes/general2024-I/etapa1/ing/fisica1g24-I .png Graphic file (type pn
 g)
 <use imagenes/general2024-I/etapa1/ing/fisica1g24-I .png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/fisica1g24-I .png  u
-sed on input line 676.
-(pdftex.def)             Requested size: 170.71652pt x 187.5408pt.
-
-Overfull \hbox (26.03523pt too wide) in paragraph at lines 676--677
- [][] 
- []
-
-<imagenes/general2024-I/etapa1/ing/fisica2g24-I.png, id=276, 198.9834pt x 112.5
+sed on input line 679.
+(pdftex.def)             Requested size: 142.26378pt x 156.28278pt.
+<imagenes/general2024-I/etapa1/ing/fisica2g24-I.png, id=260, 198.9834pt x 112.5
 003pt>
 File: imagenes/general2024-I/etapa1/ing/fisica2g24-I.png Graphic file (type png
 )
 <use imagenes/general2024-I/etapa1/ing/fisica2g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/fisica2g24-I.png  us
-ed on input line 683.
-(pdftex.def)             Requested size: 184.9429pt x 104.56924pt.
-[16 <./imagenes/general2024-I/etapa1/ing/fisica1g24-I .png>]
-Underfull \hbox (badness 10000) in paragraph at lines 698--699
+ed on input line 686.
+(pdftex.def)             Requested size: 170.71652pt x 96.52519pt.
+[17 <./imagenes/general2024-I/etapa1/ing/fisica1g24-I .png> <./imagenes/general
+2024-I/etapa1/ing/fisica2g24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
 
  []
 
-<imagenes/general2024-I/etapa1/ing/fisica2g24r-I.png, id=289, 135.1449pt x 187.
+<imagenes/general2024-I/etapa1/ing/fisica2g24r-I.png, id=273, 135.1449pt x 187.
 1793pt>
 File: imagenes/general2024-I/etapa1/ing/fisica2g24r-I.png Graphic file (type pn
 g)
 <use imagenes/general2024-I/etapa1/ing/fisica2g24r-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/fisica2g24r-I.png  u
-sed on input line 703.
+sed on input line 706.
 (pdftex.def)             Requested size: 142.26378pt x 197.04388pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--714
-
- []
-
-[17 <./imagenes/general2024-I/etapa1/ing/fisica2g24-I.png> <./imagenes/general2
-024-I/etapa1/ing/fisica2g24r-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 733--740
+Underfull \hbox (badness 10000) in paragraph at lines 712--717
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 760--763
+Underfull \hbox (badness 10000) in paragraph at lines 736--743
 
  []
 
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 764--766
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 767--768
+[18 <./imagenes/general2024-I/etapa1/ing/fisica2g24r-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 763--766
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 769--770
+Underfull \hbox (badness 10000) in paragraph at lines 767--769
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 771--772
+Underfull \hbox (badness 10000) in paragraph at lines 770--771
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 823--825
+Underfull \hbox (badness 10000) in paragraph at lines 772--773
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 846--851
+Underfull \hbox (badness 10000) in paragraph at lines 774--775
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--828
 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 879--880
+Underfull \hbox (badness 10000) in paragraph at lines 849--854
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 900--901
-
- []
-
-[22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33]
-Underfull \hbox (badness 10000) in paragraph at lines 1457--1458
+Underfull \hbox (badness 10000) in paragraph at lines 882--883
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
+Underfull \hbox (badness 10000) in paragraph at lines 903--904
+
+ []
+
+[22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
+Underfull \hbox (badness 10000) in paragraph at lines 1460--1461
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1469
+Underfull \hbox (badness 10000) in paragraph at lines 1466--1467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1470--1475
+Underfull \hbox (badness 10000) in paragraph at lines 1468--1472
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1476--1478
+Underfull \hbox (badness 10000) in paragraph at lines 1473--1478
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1479--1480
+Underfull \hbox (badness 10000) in paragraph at lines 1479--1481
 
  []
 
-<imagenes/general2024-I/etapa1/ing/RM3g24-I.png, id=537, 158.2713pt x 157.0668p
+
+Underfull \hbox (badness 10000) in paragraph at lines 1482--1483
+
+ []
+
+<imagenes/general2024-I/etapa1/ing/RM3g24-I.png, id=516, 158.2713pt x 157.0668p
 t>
 File: imagenes/general2024-I/etapa1/ing/RM3g24-I.png Graphic file (type png)
 <use imagenes/general2024-I/etapa1/ing/RM3g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/RM3g24-I.png  used o
-n input line 1484.
+n input line 1487.
 (pdftex.def)             Requested size: 128.0374pt x 127.06522pt.
 
-Underfull \vbox (badness 1496) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34]
-<imagenes/general2024-I/etapa1/ing/RM4g24-I.png, id=548, 187.6611pt x 187.6611p
+ [35]
+<imagenes/general2024-I/etapa1/ing/RM4g24-I.png, id=528, 187.6611pt x 187.6611p
 t>
 File: imagenes/general2024-I/etapa1/ing/RM4g24-I.png Graphic file (type png)
 <use imagenes/general2024-I/etapa1/ing/RM4g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/RM4g24-I.png  used o
-n input line 1498.
+n input line 1501.
 (pdftex.def)             Requested size: 128.0374pt x 128.04024pt.
 
-[35 <./imagenes/general2024-I/etapa1/ing/RM3g24-I.png> <./imagenes/general2024-
+[36 <./imagenes/general2024-I/etapa1/ing/RM3g24-I.png> <./imagenes/general2024-
 I/etapa1/ing/RM4g24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1512--1513
+Underfull \hbox (badness 10000) in paragraph at lines 1515--1516
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1517--1518
+Underfull \hbox (badness 10000) in paragraph at lines 1520--1521
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1518--1520
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1523
 
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 1520--1528
+Underfull \hbox (badness 1152) in paragraph at lines 1523--1531
 [] [] \OT1/lmr/m/n/10 =
  []
 
-<imagenes/general2024-I/etapa1/ing/RM4g24r-I.png, id=561, 174.6525pt x 145.7445
+<imagenes/general2024-I/etapa1/ing/RM4g24r-I.png, id=540, 174.6525pt x 145.7445
 pt>
 File: imagenes/general2024-I/etapa1/ing/RM4g24r-I.png Graphic file (type png)
 <use imagenes/general2024-I/etapa1/ing/RM4g24r-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/ing/RM4g24r-I.png  used 
-on input line 1537.
+on input line 1540.
 (pdftex.def)             Requested size: 136.5733pt x 113.9738pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1558
+Underfull \hbox (badness 10000) in paragraph at lines 1559--1561
 
  []
 
-[36 <./imagenes/general2024-I/etapa1/ing/RM4g24r-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1558--1561
+[37 <./imagenes/general2024-I/etapa1/ing/RM4g24r-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1561--1564
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1562--1565
+Underfull \hbox (badness 10000) in paragraph at lines 1565--1568
 
  []
 
-[37] [38] [39] [40] [41] [42]
-<imagenes/general2024-I/etapa1/bio/aritmetica1g24-I.png, id=655, 230.7822pt x 4
+[38] [39] [40] [41] [42] [43]
+<imagenes/general2024-I/etapa1/bio/aritmetica1g24-I.png, id=634, 230.7822pt x 4
 3.8438pt>
 File: imagenes/general2024-I/etapa1/bio/aritmetica1g24-I.png Graphic file (type
  png)
 <use imagenes/general2024-I/etapa1/bio/aritmetica1g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/aritmetica1g24-I.png
-  used on input line 1844.
+  used on input line 1847.
 (pdftex.def)             Requested size: 192.91165pt x 36.64856pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[43]
-<imagenes/general2024-I/etapa1/bio/aritmetica1soluciong24-I.png, id=672, 225.48
+[44]
+<imagenes/general2024-I/etapa1/bio/aritmetica1soluciong24-I.png, id=651, 225.48
 24pt x 43.8438pt>
 File: imagenes/general2024-I/etapa1/bio/aritmetica1soluciong24-I.png Graphic fi
 le (type png)
 <use imagenes/general2024-I/etapa1/bio/aritmetica1soluciong24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/aritmetica1soluciong
-24-I.png  used on input line 1868.
+24-I.png  used on input line 1871.
 (pdftex.def)             Requested size: 192.91165pt x 37.51224pt.
- [44 <./imagenes/general2024-I/etapa1/bio/aritmetica1g24-I.png> <./imagenes/gen
+ [45 <./imagenes/general2024-I/etapa1/bio/aritmetica1g24-I.png> <./imagenes/gen
 eral2024-I/etapa1/bio/aritmetica1soluciong24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1899--1901
+Underfull \hbox (badness 10000) in paragraph at lines 1902--1904
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1903
+Underfull \hbox (badness 10000) in paragraph at lines 1905--1906
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1904--1905
+Underfull \hbox (badness 10000) in paragraph at lines 1907--1908
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1906--1907
+Underfull \hbox (badness 10000) in paragraph at lines 1909--1910
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1908--1909
+Underfull \hbox (badness 10000) in paragraph at lines 1911--1912
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
+Underfull \hbox (badness 10000) in paragraph at lines 1933--1934
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1932--1933
-
- []
-
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 1979--1980
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1981--1987
+Underfull \hbox (badness 10000) in paragraph at lines 1935--1936
 
  []
 
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 2017--2018
+Underfull \hbox (badness 10000) in paragraph at lines 1982--1983
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2019--2023
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2042--2043
+Underfull \hbox (badness 10000) in paragraph at lines 1984--1990
 
  []
 
 [47]
-<imagenes/general2024-I/etapa1/bio/geometria1g24-I.png, id=730, 218.7372pt x 15
+Underfull \hbox (badness 10000) in paragraph at lines 2020--2021
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2022--2026
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2045--2046
+
+ []
+
+[48]
+<imagenes/general2024-I/etapa1/bio/geometria1g24-I.png, id=709, 218.7372pt x 15
 9.9576pt>
 File: imagenes/general2024-I/etapa1/bio/geometria1g24-I.png Graphic file (type 
 png)
 <use imagenes/general2024-I/etapa1/bio/geometria1g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/geometria1g24-I.png 
- used on input line 2068.
+ used on input line 2071.
 (pdftex.def)             Requested size: 128.60449pt x 94.04465pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2088--2089
+Underfull \hbox (badness 10000) in paragraph at lines 2091--2092
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2090--2091
+Underfull \hbox (badness 10000) in paragraph at lines 2093--2094
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2092--2094
+Underfull \hbox (badness 10000) in paragraph at lines 2095--2097
 
  []
 
-<imagenes/general2024-I/etapa1/bio/geometria1soluciong24-I.png, id=731, 315.097
+<imagenes/general2024-I/etapa1/bio/geometria1soluciong24-I.png, id=710, 315.097
 2pt x 166.9437pt>
 File: imagenes/general2024-I/etapa1/bio/geometria1soluciong24-I.png Graphic fil
 e (type png)
 <use imagenes/general2024-I/etapa1/bio/geometria1soluciong24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/geometria1soluciong2
-4-I.png  used on input line 2104.
+4-I.png  used on input line 2107.
 (pdftex.def)             Requested size: 180.04893pt x 95.39323pt.
 
-Overfull \hbox (27.22223pt too wide) in paragraph at lines 2085--2106
+Overfull \hbox (27.22223pt too wide) in paragraph at lines 2088--2109
 []  [] 
  []
 
-<imagenes/general2024-I/etapa1/bio/geometria2g24-I.png, id=732, 185.0112pt x 14
+<imagenes/general2024-I/etapa1/bio/geometria2g24-I.png, id=711, 185.0112pt x 14
 4.0582pt>
 File: imagenes/general2024-I/etapa1/bio/geometria2g24-I.png Graphic file (type 
 png)
 <use imagenes/general2024-I/etapa1/bio/geometria2g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/geometria2g24-I.png 
- used on input line 2123.
+ used on input line 2126.
 (pdftex.def)             Requested size: 144.68129pt x 112.66168pt.
-[48 <./imagenes/general2024-I/etapa1/bio/geometria1g24-I.png> <./imagenes/gener
+[49 <./imagenes/general2024-I/etapa1/bio/geometria1g24-I.png> <./imagenes/gener
 al2024-I/etapa1/bio/geometria1soluciong24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2148--2149
+Underfull \hbox (badness 10000) in paragraph at lines 2151--2152
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2150--2154
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2157
 
  []
 
-<imagenes/general2024-I/etapa1/bio/geometria2soluciong24-I.png, id=745, 185.011
+<imagenes/general2024-I/etapa1/bio/geometria2soluciong24-I.png, id=724, 185.011
 2pt x 144.0582pt>
 File: imagenes/general2024-I/etapa1/bio/geometria2soluciong24-I.png Graphic fil
 e (type png)
 <use imagenes/general2024-I/etapa1/bio/geometria2soluciong24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/geometria2soluciong2
-4-I.png  used on input line 2160.
+4-I.png  used on input line 2163.
 (pdftex.def)             Requested size: 146.28783pt x 113.91241pt.
 
-Overfull \hbox (27.22223pt too wide) in paragraph at lines 2145--2162
+Overfull \hbox (27.22223pt too wide) in paragraph at lines 2148--2165
 []  [] 
  []
 
-[49 <./imagenes/general2024-I/etapa1/bio/geometria2g24-I.png> <./imagenes/gener
+[50 <./imagenes/general2024-I/etapa1/bio/geometria2g24-I.png> <./imagenes/gener
 al2024-I/etapa1/bio/geometria2soluciong24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2181--2182
+Underfull \hbox (badness 10000) in paragraph at lines 2184--2185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2183--2187
+Underfull \hbox (badness 10000) in paragraph at lines 2186--2190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2190--2191
+Underfull \hbox (badness 10000) in paragraph at lines 2193--2194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2199--2200
+Underfull \hbox (badness 10000) in paragraph at lines 2202--2203
 
  []
 
-<imagenes/general2024-I/etapa1/bio/trigonometria1g24-I.png, id=762, 277.9986pt 
+<imagenes/general2024-I/etapa1/bio/trigonometria1g24-I.png, id=741, 277.9986pt 
 x 191.9973pt>
 File: imagenes/general2024-I/etapa1/bio/trigonometria1g24-I.png Graphic file (t
 ype png)
 <use imagenes/general2024-I/etapa1/bio/trigonometria1g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/trigonometria1g24-I.
-png  used on input line 2217.
+png  used on input line 2220.
 (pdftex.def)             Requested size: 186.47995pt x 128.7957pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[50]
-Underfull \hbox (badness 10000) in paragraph at lines 2238--2242
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 2241--2245
 
  []
 
-<imagenes/general2024-I/etapa1/bio/trigonometria1soluciong24-I.png, id=775, 271
+<imagenes/general2024-I/etapa1/bio/trigonometria1soluciong24-I.png, id=754, 271
 .0125pt x 197.0562pt>
 File: imagenes/general2024-I/etapa1/bio/trigonometria1soluciong24-I.png Graphic
  file (type png)
 <use imagenes/general2024-I/etapa1/bio/trigonometria1soluciong24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/trigonometria1soluci
-ong24-I.png  used on input line 2248.
+ong24-I.png  used on input line 2251.
 (pdftex.def)             Requested size: 168.79523pt x 122.73586pt.
 
-Overfull \hbox (27.22223pt too wide) in paragraph at lines 2235--2250
+Overfull \hbox (27.22223pt too wide) in paragraph at lines 2238--2253
 []  [] 
  []
 
-[51 <./imagenes/general2024-I/etapa1/bio/trigonometria1g24-I.png> <./imagenes/g
+[52 <./imagenes/general2024-I/etapa1/bio/trigonometria1g24-I.png> <./imagenes/g
 eneral2024-I/etapa1/bio/trigonometria1soluciong24-I.png>]
-<imagenes/general2024-I/etapa1/bio/trigonometria3g24-I.png, id=788, 278.7213pt 
+<imagenes/general2024-I/etapa1/bio/trigonometria3g24-I.png, id=767, 278.7213pt 
 x 147.1899pt>
 File: imagenes/general2024-I/etapa1/bio/trigonometria3g24-I.png Graphic file (t
 ype png)
 <use imagenes/general2024-I/etapa1/bio/trigonometria3g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/trigonometria3g24-I.
-png  used on input line 2295.
+png  used on input line 2298.
 (pdftex.def)             Requested size: 192.91165pt x 101.8733pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2315--2316
+Underfull \hbox (badness 10000) in paragraph at lines 2318--2319
 
  []
 
-[52 <./imagenes/general2024-I/etapa1/bio/trigonometria3g24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2320--2321
+[53 <./imagenes/general2024-I/etapa1/bio/trigonometria3g24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2323--2324
 
  []
 
-<imagenes/general2024-I/etapa1/bio/trigonometria3soluciong24-I.png, id=800, 278
+<imagenes/general2024-I/etapa1/bio/trigonometria3soluciong24-I.png, id=780, 278
 .7213pt x 156.1032pt>
 File: imagenes/general2024-I/etapa1/bio/trigonometria3soluciong24-I.png Graphic
  file (type png)
 <use imagenes/general2024-I/etapa1/bio/trigonometria3soluciong24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/trigonometria3soluci
-ong24-I.png  used on input line 2338.
+ong24-I.png  used on input line 2341.
 (pdftex.def)             Requested size: 188.0839pt x 105.3389pt.
 
-Overfull \hbox (27.22223pt too wide) in paragraph at lines 2317--2340
+Overfull \hbox (27.22223pt too wide) in paragraph at lines 2320--2343
 []  [] 
  []
 
-<imagenes/general2024-I/etapa1/bio/fisica1g24-I.png, id=801, 185.493pt x 187.17
+<imagenes/general2024-I/etapa1/bio/fisica1g24-I.png, id=781, 185.493pt x 187.17
 93pt>
 File: imagenes/general2024-I/etapa1/bio/fisica1g24-I.png Graphic file (type png
 )
 <use imagenes/general2024-I/etapa1/bio/fisica1g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/fisica1g24-I.png  us
-ed on input line 2357.
+ed on input line 2360.
 (pdftex.def)             Requested size: 128.60449pt x 129.77649pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2383--2384
+Underfull \hbox (badness 10000) in paragraph at lines 2386--2387
 
  []
 
-[53 <./imagenes/general2024-I/etapa1/bio/trigonometria3soluciong24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2402--2405
+[54 <./imagenes/general2024-I/etapa1/bio/trigonometria3soluciong24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2405--2408
 
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 2413--2416
+Underfull \hbox (badness 7667) in paragraph at lines 2416--2419
 []$[] \OT1/lmr/m/n/10 = [] = \OML/lmm/m/it/10 C \OMS/lmsy/m/n/10 ^^@ \OML/lmm/m
 /it/10 A \OT1/lmr/m/n/10 =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2413--2416
+Underfull \hbox (badness 10000) in paragraph at lines 2416--2419
 
  []
 
-<imagenes/general2024-I/etapa1/bio/fisica1soluciong24-I.png, id=814, 185.493pt 
+<imagenes/general2024-I/etapa1/bio/fisica1soluciong24-I.png, id=793, 185.493pt 
 x 187.1793pt>
 File: imagenes/general2024-I/etapa1/bio/fisica1soluciong24-I.png Graphic file (
 type png)
 <use imagenes/general2024-I/etapa1/bio/fisica1soluciong24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/fisica1soluciong24-I
-.png  used on input line 2430.
+.png  used on input line 2433.
 (pdftex.def)             Requested size: 128.60693pt x 129.77934pt.
 
-Overfull \hbox (27.22223pt too wide) in paragraph at lines 2410--2432
+Overfull \hbox (27.22223pt too wide) in paragraph at lines 2413--2435
 []  [] 
  []
 
-[54 <./imagenes/general2024-I/etapa1/bio/fisica1g24-I.png> <./imagenes/general2
+[55 <./imagenes/general2024-I/etapa1/bio/fisica1g24-I.png> <./imagenes/general2
 024-I/etapa1/bio/fisica1soluciong24-I.png>]
-<imagenes/general2024-I/etapa1/bio/fisica2g24-I.png, id=821, 157.3077pt x 108.6
+<imagenes/general2024-I/etapa1/bio/fisica2g24-I.png, id=800, 157.3077pt x 108.6
 459pt>
 File: imagenes/general2024-I/etapa1/bio/fisica2g24-I.png Graphic file (type png
 )
 <use imagenes/general2024-I/etapa1/bio/fisica2g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/fisica2g24-I.png  us
-ed on input line 2446.
+ed on input line 2449.
 (pdftex.def)             Requested size: 96.45583pt x 66.61871pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2464--2465
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 2467--2468
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2469--2472
-
- []
-
-[55 <./imagenes/general2024-I/etapa1/bio/fisica2g24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2502--2503
+Underfull \hbox (badness 10000) in paragraph at lines 2470--2471
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2504--2509
+Underfull \hbox (badness 10000) in paragraph at lines 2472--2475
+
+ []
+
+[56 <./imagenes/general2024-I/etapa1/bio/fisica2g24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2505--2506
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2507--2512
 \OML/lmm/m/it/10 x \OT1/lmr/m/n/10 =
  []
 
 
-Underfull \hbox (badness 3209) in paragraph at lines 2504--2509
+Underfull \hbox (badness 3209) in paragraph at lines 2507--2512
 \OML/lmm/m/it/10 x \OT1/lmr/m/n/10 = [] =
  []
 
-<imagenes/general2024-I/etapa1/bio/fisica3soluciong24-I.png, id=836, 102.6234pt
+<imagenes/general2024-I/etapa1/bio/fisica3soluciong24-I.png, id=815, 102.6234pt
  x 138.2766pt>
 File: imagenes/general2024-I/etapa1/bio/fisica3soluciong24-I.png Graphic file (
 type png)
 <use imagenes/general2024-I/etapa1/bio/fisica3soluciong24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/bio/fisica3soluciong24-I
-.png  used on input line 2515.
+.png  used on input line 2518.
 (pdftex.def)             Requested size: 78.77248pt x 106.14415pt.
 
-Overfull \hbox (27.22223pt too wide) in paragraph at lines 2499--2517
+Overfull \hbox (27.22223pt too wide) in paragraph at lines 2502--2520
 []  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2542--2543
+Underfull \hbox (badness 10000) in paragraph at lines 2545--2546
 
  []
 
-[56 <./imagenes/general2024-I/etapa1/bio/fisica3soluciong24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2550--2551
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2552--2554
+[57 <./imagenes/general2024-I/etapa1/bio/fisica3soluciong24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2553--2554
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2557--2560
+Underfull \hbox (badness 10000) in paragraph at lines 2555--2557
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2564--2565
-
- []
-
-[57]
-Underfull \hbox (badness 10000) in paragraph at lines 2598--2599
+Underfull \hbox (badness 10000) in paragraph at lines 2560--2563
 
  []
 
 
-Overfull \hbox (61.6783pt too wide) in paragraph at lines 2608--2609
-[]$[] \OMS/lmsy/m/n/10 ! []$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2629--2630
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2636--2639
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2640--2643
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2640--2643
+Underfull \hbox (badness 10000) in paragraph at lines 2567--2568
 
  []
 
 [58]
-Underfull \hbox (badness 10000) in paragraph at lines 2644--2647
+Underfull \hbox (badness 10000) in paragraph at lines 2601--2602
+
+ []
+
+
+Overfull \hbox (61.6783pt too wide) in paragraph at lines 2611--2612
+[]$[] \OMS/lmsy/m/n/10 ! []$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2611--2612
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2632--2633
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2639--2642
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2643--2646
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2643--2646
 
  []
 
 [59]
-Underfull \hbox (badness 10000) in paragraph at lines 2700--2701
+Underfull \hbox (badness 10000) in paragraph at lines 2647--2650
 
  []
 
 [60]
-Overfull \hbox (9.81755pt too wide) in paragraph at lines 2764--2765
+Underfull \hbox (badness 10000) in paragraph at lines 2703--2704
+
+ []
+
+[61]
+Overfull \hbox (9.81755pt too wide) in paragraph at lines 2767--2768
 []\T1/lmr/m/n/10 El sín-dro-me de Kli-ne-fel-ter se pre-sen-ta en va-ro-nes con
  ca-rio-ti-po 47,XXY.
  []
 
-[61] [62] [63]
-Underfull \hbox (badness 10000) in paragraph at lines 2901--2903
+[62] [63] [64]
+Underfull \hbox (badness 10000) in paragraph at lines 2904--2906
 
  []
 
-[64]
-Underfull \hbox (badness 10000) in paragraph at lines 2926--2928
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 2929--2931
 
  []
 
-[65] [66]
-Overfull \hbox (39.46346pt too wide) in paragraph at lines 3020--3021
+[66] [67]
+Overfull \hbox (39.46346pt too wide) in paragraph at lines 3023--3024
 []\T1/lmr/m/n/10 En 1856, el Dr. Ca-ye-tano He-re-dia im-pul-só la crea-ción de
  la $[][][][][][][][][][][]$,
  []
 
-[67] [68] [69] [70]
-Underfull \hbox (badness 10000) in paragraph at lines 3227--3230
+[68] [69] [70] [71]
+Underfull \hbox (badness 10000) in paragraph at lines 3230--3233
 
  []
 
-[71]
-Underfull \hbox (badness 10000) in paragraph at lines 3250--3256
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 3253--3259
 
  []
 
-[72] [73] [74]
-Overfull \hbox (10.31891pt too wide) in paragraph at lines 3416--3417
+[73] [74] [75]
+Overfull \hbox (10.31891pt too wide) in paragraph at lines 3419--3420
 []\T1/lmr/m/n/10 Iskay pa-chak is-kay-ni-yuq tu-llu-ku-na / pä pa-ta-ka pa-ya-n
 i ch'akanaka. 
  []
 
 
-Overfull \hbox (10.09598pt too wide) in paragraph at lines 3417--3418
+Overfull \hbox (10.09598pt too wide) in paragraph at lines 3420--3421
 []\T1/lmr/m/n/10 Iskay pa-chak kim-sa-yuq tu-llu-ku-na / pä pa-ta-ka kim-sa-ni 
 ch'akanaka. 
  []
 
 
-Overfull \hbox (6.76349pt too wide) in paragraph at lines 3420--3421
+Overfull \hbox (6.76349pt too wide) in paragraph at lines 3423--3424
 []\T1/lmr/m/n/10 Iskay pa-chak suq-ta-yuq tu-llu-ku-na / pä pa-ta-ka sux-ta-ni 
 ch'akanaka. 
  []
 
-[75]
-Underfull \hbox (badness 10000) in paragraph at lines 3453--3454
-
- []
-
 [76]
-Underfull \hbox (badness 10000) in paragraph at lines 3476--3477
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3527--3528
+Underfull \hbox (badness 10000) in paragraph at lines 3456--3457
 
  []
 
 [77]
-Underfull \hbox (badness 10000) in paragraph at lines 3590--3591
+Underfull \hbox (badness 10000) in paragraph at lines 3479--3480
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3530--3531
 
  []
 
 [78]
-Underfull \hbox (badness 10000) in paragraph at lines 3617--3618
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3647--3648
+Underfull \hbox (badness 10000) in paragraph at lines 3593--3594
 
  []
 
 [79]
-<imagenes/general2024-I/etapa1/soc/geo1g24-I.png, id=1206, 186.2157pt x 87.6876
+Underfull \hbox (badness 10000) in paragraph at lines 3620--3621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3650--3651
+
+ []
+
+[80]
+<imagenes/general2024-I/etapa1/soc/geo1g24-I.png, id=1185, 186.2157pt x 87.6876
 pt>
 File: imagenes/general2024-I/etapa1/soc/geo1g24-I.png Graphic file (type png)
 <use imagenes/general2024-I/etapa1/soc/geo1g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/soc/geo1g24-I.png  used 
-on input line 3672.
+on input line 3675.
 (pdftex.def)             Requested size: 128.0374pt x 60.29576pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3685--3686
+Underfull \hbox (badness 10000) in paragraph at lines 3688--3689
 
  []
 
-<imagenes/general2024-I/etapa1/soc/geo1g24-Ir.png, id=1207, 184.7703pt x 87.446
+<imagenes/general2024-I/etapa1/soc/geo1g24-Ir.png, id=1186, 184.7703pt x 87.446
 7pt>
 File: imagenes/general2024-I/etapa1/soc/geo1g24-Ir.png Graphic file (type png)
 <use imagenes/general2024-I/etapa1/soc/geo1g24-Ir.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/soc/geo1g24-Ir.png  used
- on input line 3705.
+ on input line 3708.
 (pdftex.def)             Requested size: 128.0374pt x 60.59714pt.
-[80 <./imagenes/general2024-I/etapa1/soc/geo1g24-I.png> <./imagenes/general2024
+[81 <./imagenes/general2024-I/etapa1/soc/geo1g24-I.png> <./imagenes/general2024
 -I/etapa1/soc/geo1g24-Ir.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3729--3730
+Underfull \hbox (badness 10000) in paragraph at lines 3732--3733
 
  []
 
-<imagenes/general2024-I/etapa1/soc/trigo1g24-I.png, id=1220, 160.1985pt x 95.63
+<imagenes/general2024-I/etapa1/soc/trigo1g24-I.png, id=1199, 160.1985pt x 95.63
 73pt>
 File: imagenes/general2024-I/etapa1/soc/trigo1g24-I.png Graphic file (type png)
 
 <use imagenes/general2024-I/etapa1/soc/trigo1g24-I.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/soc/trigo1g24-I.png  use
-d on input line 3753.
+d on input line 3756.
 (pdftex.def)             Requested size: 128.0374pt x 76.44133pt.
-[81 <./imagenes/general2024-I/etapa1/soc/trigo1g24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3766--3767
+[82 <./imagenes/general2024-I/etapa1/soc/trigo1g24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3769--3770
 
  []
 
-<imagenes/general2024-I/etapa1/soc/trigo1g24-Ir.png, id=1234, 160.1985pt x 114.
+<imagenes/general2024-I/etapa1/soc/trigo1g24-Ir.png, id=1213, 160.1985pt x 114.
 4275pt>
 File: imagenes/general2024-I/etapa1/soc/trigo1g24-Ir.png Graphic file (type png
 )
 <use imagenes/general2024-I/etapa1/soc/trigo1g24-Ir.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/soc/trigo1g24-Ir.png  us
-ed on input line 3785.
+ed on input line 3788.
 (pdftex.def)             Requested size: 128.0374pt x 91.46005pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3806--3807
+Underfull \hbox (badness 10000) in paragraph at lines 3809--3810
 
  []
 
-<imagenes/general2024-I/etapa1/soc/trigo2g24-Ir.png, id=1235, 164.5347pt x 137.
+<imagenes/general2024-I/etapa1/soc/trigo2g24-Ir.png, id=1214, 164.5347pt x 137.
 0721pt>
 File: imagenes/general2024-I/etapa1/soc/trigo2g24-Ir.png Graphic file (type png
 )
 <use imagenes/general2024-I/etapa1/soc/trigo2g24-Ir.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa1/soc/trigo2g24-Ir.png  us
-ed on input line 3826.
+ed on input line 3829.
 (pdftex.def)             Requested size: 156.49014pt x 130.37251pt.
 
-Overfull \hbox (11.80885pt too wide) in paragraph at lines 3826--3827
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 3829--3830
  [][] 
  []
 
-[82 <./imagenes/general2024-I/etapa1/soc/trigo1g24-Ir.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3855--3856
+[83 <./imagenes/general2024-I/etapa1/soc/trigo1g24-Ir.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3858--3859
 
  []
 
 
 Underfull \vbox (badness 3148) has occurred while \output is active []
 
- [83 <./imagenes/general2024-I/etapa1/soc/trigo2g24-Ir.png>] [84]
-Underfull \hbox (badness 10000) in paragraph at lines 3944--3945
+ [84 <./imagenes/general2024-I/etapa1/soc/trigo2g24-Ir.png>] [85]
+Underfull \hbox (badness 10000) in paragraph at lines 3947--3948
 
  []
 
-[85]
-Underfull \hbox (badness 10000) in paragraph at lines 4012--4013
+[86]
+Underfull \hbox (badness 10000) in paragraph at lines 4015--4016
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4036--4037
+Underfull \hbox (badness 10000) in paragraph at lines 4039--4040
 
  []
 
-[86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99]
-Underfull \hbox (badness 10000) in paragraph at lines 4620--4621
-
- []
-
-[100]
-Underfull \hbox (badness 10000) in paragraph at lines 4660--4661
+[87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100]
+Underfull \hbox (badness 10000) in paragraph at lines 4623--4624
 
  []
 
 [101]
-Underfull \hbox (badness 10000) in paragraph at lines 4715--4716
+Underfull \hbox (badness 10000) in paragraph at lines 4663--4664
 
  []
 
 [102]
-Underfull \hbox (badness 10000) in paragraph at lines 4746--4747
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4788--4789
+Underfull \hbox (badness 10000) in paragraph at lines 4718--4719
 
  []
 
 [103]
-Underfull \hbox (badness 10000) in paragraph at lines 4814--4815
+Underfull \hbox (badness 10000) in paragraph at lines 4749--4750
 
  []
 
-[104] [105] [106] [107] [108]
-Overfull \hbox (57.14459pt too wide) in paragraph at lines 5012--5014
+
+Underfull \hbox (badness 10000) in paragraph at lines 4791--4792
+
+ []
+
+[104]
+Underfull \hbox (badness 10000) in paragraph at lines 4817--4818
+
+ []
+
+[105] [106] [107] [108] [109]
+Overfull \hbox (57.14459pt too wide) in paragraph at lines 5015--5017
 \T1/lmr/m/n/10 La va-ca co-me pas-to o hier-ba, por ello la res-pues-ta mar-ca-
 da es \T1/lmr/bx/n/10 Q'achuta/Chuxlla\T1/lmr/m/n/10 . 
  []
 
-) [109]
-\openout2 = `examenes/2024/cepre-2024-I.aux'.
+) [110]
+\openout2 = `examenes/2024/general-2024-II.aux'.
 
- (examenes/2024/cepre-2024-I.tex
-Cap\'{\i }tulo 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--37
-
- []
-
-[110
+ (examenes/2024/general-2024-II.tex [111
 
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 73--92
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--92
+Underfull \hbox (badness 10000) in paragraph at lines 35--39
 
  []
 
-[111] [112]
-Underfull \hbox (badness 10000) in paragraph at lines 141--152
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--175
-
- []
-
-[113]
-Underfull \hbox (badness 10000) in paragraph at lines 190--201
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--201
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--224
-
- []
-
-[114]
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-I.png, id=1734, 143.3355pt x 81.42
-42pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-I.png  use
-d on input line 239.
-(pdftex.def)             Requested size: 213.39566pt x 121.22777pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-Ir.png, id=1735, 171.5208pt x 81.4
-242pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-Ir.png  us
-ed on input line 274.
-(pdftex.def)             Requested size: 184.9429pt x 87.79767pt.
-
-Overfull \hbox (40.26161pt too wide) in paragraph at lines 274--275
- [][] 
- []
-
-
-Underfull \vbox (badness 1902) has occurred while \output is active []
-
- [115 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-I.png>]
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-I.png, id=1747, 155.3805pt x 125.5
-089pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-I.png  use
-d on input line 284.
-(pdftex.def)             Requested size: 213.39566pt x 172.3751pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--300
-
- []
-
-[116 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-Ir.png> <./imagenes/CEPRE-U
-NA2024-I/etapa1/ing/geo2c24-I.png>]
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-Ir.png, id=1760, 173.448pt x 119.2
-455pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-Ir.png  us
-ed on input line 315.
-(pdftex.def)             Requested size: 184.9429pt x 127.15471pt.
-
-Overfull \hbox (40.26161pt too wide) in paragraph at lines 315--316
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/geo3c24-I.png, id=1761, 154.8987pt x 103.3
-461pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo3c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/geo3c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo3c24-I.png  use
-d on input line 350.
-(pdftex.def)             Requested size: 184.9429pt x 123.39653pt.
-
-Overfull \hbox (40.26161pt too wide) in paragraph at lines 350--351
- [][] 
- []
-
-
-Underfull \vbox (badness 1803) has occurred while \output is active []
-
- [117 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-Ir.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 373--374
-
- []
-
-[118 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/geo3c24-I.png>]
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-I.png, id=1784, 132.9768
-pt x 152.2488pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-I.png Graphic file 
-(type png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-
-I.png  used on input line 425.
-(pdftex.def)             Requested size: 156.49014pt x 179.17809pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [119]
-Underfull \hbox (badness 10000) in paragraph at lines 440--441
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-Ir.png, id=1797, 177.543
-3pt x 152.0079pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-Ir.png Graphic file
- (type png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-
-Ir.png  used on input line 442.
-(pdftex.def)             Requested size: 184.9429pt x 158.35353pt.
-[120 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-I.png> <./imagene
-s/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-Ir.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 459--460
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 467--473
-[]$\OML/lmm/m/it/10 d\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 A; B\OT1/lmr/m/n/10 ) =
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria3c24-Ir.png, id=1809, 171.761
-7pt x 138.9993pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria3c24-Ir.png Graphic file
- (type png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria3c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria3c24-
-Ir.png  used on input line 479.
-(pdftex.def)             Requested size: 184.9429pt x 149.67583pt.
-
-Overfull \hbox (40.26161pt too wide) in paragraph at lines 479--480
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 497--498
-
- []
-
-[121 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria3c24-Ir.png>]
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria4c24-Ir.png, id=1826, 175.857
-pt x 103.1052pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria4c24-Ir.png Graphic file
- (type png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria4c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria4c24-
-Ir.png  used on input line 520.
-(pdftex.def)             Requested size: 213.39566pt x 125.12265pt.
-
-Overfull \hbox (68.71437pt too wide) in paragraph at lines 520--521
- [][] 
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-I.png, id=1827, 133.4586pt x 
-40.7121pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-I.png Graphic file (type
- png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-I.png
-  used on input line 537.
-(pdftex.def)             Requested size: 213.39566pt x 65.09964pt.
-
-Underfull \vbox (badness 2384) has occurred while \output is active []
-
- [122 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria4c24-Ir.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 551--552
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-Ir.png, id=1835, 142.3719pt x
- 56.1297pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-Ir.png Graphic file (typ
-e png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-Ir.pn
-g  used on input line 566.
-(pdftex.def)             Requested size: 156.49014pt x 61.70087pt.
-
-Overfull \hbox (11.80885pt too wide) in paragraph at lines 566--567
- [][] 
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica2c2024-I.png, id=1836, 138.7584pt x 
-82.6287pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica2c2024-I.png Graphic file (type
- png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica2c2024-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica2c2024-I.png
-  used on input line 577.
-(pdftex.def)             Requested size: 213.39566pt x 127.08084pt.
-
-Underfull \vbox (badness 3199) has occurred while \output is active []
-
- [123 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-I.png> <./imagenes/CE
-PRE-UNA2024-I/etapa1/ing/Fisica1c2024-Ir.png>]
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-I.png, id=1849, 157.7895pt x 
-56.3706pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-I.png Graphic file (type
- png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-I.png
-  used on input line 604.
-(pdftex.def)             Requested size: 213.39566pt x 76.23894pt.
-
-Underfull \vbox (badness 2717) has occurred while \output is active []
-
- [124 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica2c2024-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 618--619
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-Ir.png, id=1861, 67.452pt x 1
-05.5142pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-Ir.png Graphic file (typ
-e png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-Ir.pn
-g  used on input line 638.
-(pdftex.def)             Requested size: 68.28644pt x 106.82932pt.
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica4c2024-I.png, id=1862, 159.2349pt x 
-127.9179pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica4c2024-I.png Graphic file (type
- png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica4c2024-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica4c2024-I.png
-  used on input line 649.
-(pdftex.def)             Requested size: 213.39566pt x 171.42664pt.
-
-Underfull \vbox (badness 3735) has occurred while \output is active []
-
- [125 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-I.png> <./imagenes/CE
-PRE-UNA2024-I/etapa1/ing/Fisica3c2024-Ir.png>] [126 <./imagenes/CEPRE-UNA2024-I
-/etapa1/ing/Fisica4c2024-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 723--724
-
- []
-
-[127]
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-I.png, id=1902, 230.7822pt x 7
-1.0655pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-I.png Graphic file (type 
-png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-I.png 
- used on input line 755.
-(pdftex.def)             Requested size: 239.00298pt x 73.59622pt.
- [128 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 769--770
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-Ir.png, id=1916, 183.3249pt x 
-119.4864pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-Ir.png Graphic file (type
- png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-Ir.png
-  used on input line 771.
-(pdftex.def)             Requested size: 210.55022pt x 137.23872pt.
-[129 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-Ir.png>] [130] [131]
-[132] [133] [134] [135] [136] [137]
-Underfull \hbox (badness 10000) in paragraph at lines 1181--1182
-
- []
-
-
-Overfull \hbox (88.10588pt too wide) in paragraph at lines 1235--1236
-[][] 
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-I.png, id=2083, 145.5036pt x 97.082
-7pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-I.png Graphic file (type png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-I.png  used
- on input line 1244.
-(pdftex.def)             Requested size: 156.49014pt x 104.41518pt.
-[138 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1259--1260
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1263--1265
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1270--1272
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1276
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-Ir.png, id=2095, 145.5036pt x 97.08
-27pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-Ir.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-Ir.png  use
-d on input line 1286.
-(pdftex.def)             Requested size: 184.9429pt x 123.3988pt.
-
-Overfull \hbox (40.26161pt too wide) in paragraph at lines 1286--1287
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1305
-
- []
-
-[139 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-Ir.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1369--1370
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1371--1379
-
- []
-
-[140]
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1403
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1407
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1412
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1416
-
- []
-
-[141]
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1444
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/ing/rm6c24-I.png, id=2131, 87.4467pt x 84.0741
-pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm6c24-I.png Graphic file (type png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/ing/rm6c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm6c24-I.png  used
- on input line 1453.
-(pdftex.def)             Requested size: 156.49014pt x 150.46985pt.
-[142 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/rm6c24-I.png>] [143] [144] [145]
-[146] [147]
-Underfull \hbox (badness 10000) in paragraph at lines 1716--1717
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1771
-
- []
-
-[148]
-Underfull \hbox (badness 10000) in paragraph at lines 1806--1807
-
- []
-
-[149]
-Underfull \hbox (badness 10000) in paragraph at lines 1870--1871
-
- []
-
-[150]
-Underfull \hbox (badness 10000) in paragraph at lines 1896--1897
-
- []
-
-[151]
-Underfull \hbox (badness 10000) in paragraph at lines 1923--1924
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-I.png, id=2273, 119.4864pt x 98.28
-72pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-I.png  use
-d on input line 1949.
-(pdftex.def)             Requested size: 128.0374pt x 105.32222pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
-
- []
-
-[152 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-I.png>]
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-Ir.png, id=2289, 127.4361pt x 99.2
-508pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-Ir.png  us
-ed on input line 1988.
-(pdftex.def)             Requested size: 128.0374pt x 99.7291pt.
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-I.png, id=2290, 170.5572pt x 149.1
-171pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-I.png  use
-d on input line 1997.
-(pdftex.def)             Requested size: 119.50148pt x 104.47908pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2010--2011
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-Ir.png, id=2291, 170.5572pt x 156.
-8259pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-Ir.png  us
-ed on input line 2038.
-(pdftex.def)             Requested size: 128.0374pt x 117.73398pt.
-[153 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-Ir.png> <./imagenes/CEPRE-U
-NA2024-I/etapa1/bio/geo2c24-I.png>]
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-I.png, id=2304, 192.72pt x 165.257
-4pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-I.png  use
-d on input line 2046.
-(pdftex.def)             Requested size: 128.0374pt x 109.79138pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2059--2060
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-Ir.png, id=2305, 172.4844pt x 70.1
-019pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-Ir.png  us
-ed on input line 2080.
-(pdftex.def)             Requested size: 128.0374pt x 52.04144pt.
-[154 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-Ir.png> <./imagenes/CEPRE-U
-NA2024-I/etapa1/bio/geo3c24-I.png>]
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-I.png, id=2318, 124.7862pt x 163
-.0893pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-I.png Graphic file (type pn
-g)
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-I.png  u
-sed on input line 2099.
-(pdftex.def)             Requested size: 128.0374pt x 167.34427pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2112--2113
-
- []
-
-[155 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-Ir.png> <./imagenes/CEPRE-U
-NA2024-I/etapa1/bio/trigo1c24-I.png>]
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-Ir.png, id=2332, 129.1224pt x 17
-3.2071pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-Ir.png Graphic file (type p
-ng)
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-Ir.png  
-used on input line 2127.
-(pdftex.def)             Requested size: 128.0374pt x 171.76628pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2146--2147
-
- []
-
-[156 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-Ir.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2174--2175
-
- []
-
-[157]
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-I.png, id=2354, 162.1257pt x 65
-.5248pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-I.png Graphic file (type p
-ng)
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-I.png  
-used on input line 2225.
-(pdftex.def)             Requested size: 128.0374pt x 51.74701pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2238--2239
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-Ir.png, id=2355, 161.6439pt x 7
-4.1972pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-Ir.png Graphic file (type 
-png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-Ir.png 
- used on input line 2257.
-(pdftex.def)             Requested size: 128.0374pt x 58.77136pt.
-[158 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-I.png> <./imagenes/CEPRE
--UNA2024-I/etapa1/bio/fisica1c24-Ir.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2278--2279
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica3c24-I.png, id=2371, 190.0701pt x 13
-5.8676pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica3c24-I.png Graphic file (type p
-ng)
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica3c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica3c24-I.png  
-used on input line 2309.
-(pdftex.def)             Requested size: 128.0374pt x 91.52629pt.
-[159]
-Underfull \hbox (badness 10000) in paragraph at lines 2322--2323
-
- []
-
-[160 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica3c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2365--2366
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2391--2392
-
- []
-
-[161]
-Underfull \hbox (badness 10000) in paragraph at lines 2421--2422
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2443--2444
-
- []
-
-[162]
-Underfull \hbox (badness 10000) in paragraph at lines 2483--2484
-
- []
-
-[163] [164] [165] [166] [167] [168] [169] [170] [171]
-Overfull \hbox (69.09874pt too wide) in paragraph at lines 2857--2860
-\T1/lmr/m/n/10 La cla-si-fi-ca-ción ge-ne-ral de los tri-bu-tos en el Pe-rú es:
- $[]\OML/lmm/m/it/10 ; [][][]$ 
- []
-
-[172] [173]
-Overfull \hbox (187.46587pt too wide) in paragraph at lines 2933--2937
-\T1/lmr/m/n/10 La co-ma elíp-ti-ca sus-ti-tu-ye un ver-bo omi-ti-do. En: $[]$
- []
-
-[174]
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-I.png, id=2616, 53.2389pt x 63.1158
-pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-I.png Graphic file (type png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-I.png  used
- on input line 2997.
-(pdftex.def)             Requested size: 71.13188pt x 84.3349pt.
- [175 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3011--3012
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-Ir.png, id=2630, 53.2389pt x 69.138
-3pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-Ir.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-Ir.png  use
-d on input line 3014.
-(pdftex.def)             Requested size: 71.13188pt x 92.38214pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3043--3044
-
- []
-
-[176 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-Ir.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3091--3092
-
- []
-
-[177]
-Underfull \hbox (badness 10000) in paragraph at lines 3127--3128
-
- []
-
-[178]
-Underfull \hbox (badness 10000) in paragraph at lines 3173--3174
-
- []
-
-[179]
-Underfull \hbox (badness 10000) in paragraph at lines 3212--3213
-
- []
-
-[180] [181] [182] [183] [184]
-Overfull \hbox (8.294pt too wide) in paragraph at lines 3497--3498
-[]\T1/lmr/m/n/10 ¾Imatataq qu-wi-ku-na-ri mikhun-ku? / ¾Kun-sa wank'unakaxa man
-q'apxi? 
- []
-
-[185] [186] [187]
-Underfull \hbox (badness 10000) in paragraph at lines 3643--3644
-
- []
-
-[188]
-Underfull \hbox (badness 10000) in paragraph at lines 3689--3696
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/soc/geo1c24-I.png, id=2811, 172.9662pt x 72.27
-pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo1c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa1/soc/geo1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo1c24-I.png  use
-d on input line 3711.
-(pdftex.def)             Requested size: 213.39566pt x 89.16833pt.
-[189 <./imagenes/CEPRE-UNA2024-I/etapa1/soc/geo1c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3724--3731
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-I.png, id=2828, 185.493pt x 167.66
-64pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-I.png  use
-d on input line 3737.
-(pdftex.def)             Requested size: 184.9429pt x 167.17476pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3750--3751
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3758--3759
-[]\T1/lmr/m/n/10 El $\OMS/lmsy/m/n/10 4\OML/lmm/m/it/10 ABD$ \T1/lmr/m/n/10 es 
-isós-ce-les
- []
-
-
-Underfull \hbox (badness 1275) in paragraph at lines 3758--3759
-\T1/lmr/m/n/10 ($\OML/lmm/m/it/10 AB \OT1/lmr/m/n/10 = \OML/lmm/m/it/10 BD$\T1/
-lmr/m/n/10 ), de don-de
- []
-
-
-Underfull \hbox (badness 2932) in paragraph at lines 3759--3760
-\OT1/lmr/m/n/10 50[] + 50[] = 180[] \OMS/lmsy/m/n/10 )
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-Ir.png, id=2829, 185.493pt x 167.6
-664pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-Ir.png  us
-ed on input line 3772.
-(pdftex.def)             Requested size: 184.9429pt x 167.17476pt.
-
-Overfull \hbox (40.26161pt too wide) in paragraph at lines 3772--3773
- [][] 
- []
-
-[190 <./imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-I.png>] [191 <./imagenes/CE
-PRE-UNA2024-I/etapa1/soc/geo2c24-Ir.png>] [192]
-<imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica1c24-I.png, id=2864, 158.0304pt x 10
-8.1641pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica1c24-I.png Graphic file (type p
-ng)
-<use imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica1c24-I.png  
-used on input line 3864.
-(pdftex.def)             Requested size: 213.39566pt x 146.07132pt.
- [193 <./imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica1c24-I.png>]
-<imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-I.png, id=2876, 156.1032pt x 11
-2.2594pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-I.png Graphic file (type p
-ng)
-<use imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-I.png  
-used on input line 3896.
-(pdftex.def)             Requested size: 128.0374pt x 92.08069pt.
-<imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-II.png, id=2877, 156.1032pt x 1
-10.5731pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-II.png Graphic file (type 
-png)
-<use imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-II.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-II.png 
- used on input line 3902.
-(pdftex.def)             Requested size: 128.0374pt x 90.69751pt.
- [194 <./imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-I.png> <./imagenes/CEPR
-E-UNA2024-I/etapa1/soc/fisica2c24-II.png>]
-[195] [196] [197]
-Underfull \hbox (badness 10000) in paragraph at lines 4089--4091
-
- []
-
-[198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209]
-[210]
-Overfull \hbox (16.70499pt too wide) detected at line 4549
-\OT1/lmr/m/n/10 ([]) \OMS/lmsy/m/n/10 ^^B \OT1/lmr/m/n/10 ([])
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4577--4578
-
- []
-
-[211]
-Underfull \hbox (badness 10000) in paragraph at lines 4636--4637
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4640--4641
-
- []
-
-[212]
-Underfull \hbox (badness 10000) in paragraph at lines 4644--4645
-
- []
-
-[213] [214] [215] [216]
-<imagenes/CEPRE-UNA2024-I/etapa1/soc/ingles1c24-I.png, id=3240, 77.8107pt x 77.
-8107pt>
-File: imagenes/CEPRE-UNA2024-I/etapa1/soc/ingles1c24-I.png Graphic file (type p
-ng)
-<use imagenes/CEPRE-UNA2024-I/etapa1/soc/ingles1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/ingles1c24-I.png  
-used on input line 4841.
-(pdftex.def)             Requested size: 99.58464pt x 99.5914pt.
-
-Underfull \vbox (badness 1748) has occurred while \output is active []
-
- [217]
-[218 <./imagenes/CEPRE-UNA2024-I/etapa1/soc/ingles1c24-I.png>]) [219]
-\openout2 = `examenes/2024/general-2024-II.aux'.
-
-
-(examenes/2024/general-2024-II.tex
-Cap\'{\i }tulo 3.
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--30
-
- []
-
-
-Overfull \hbox (117.88165pt too wide) in paragraph at lines 41--43
+Overfull \hbox (117.88165pt too wide) in paragraph at lines 50--52
 [] $[] \OMS/lmsy/m/n/10 ! []$  $^^Q$  $[] _ []$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
 
  []
 
 
-Overfull \hbox (7.00029pt too wide) in paragraph at lines 43--45
+Overfull \hbox (7.00029pt too wide) in paragraph at lines 52--54
 [] $[] []$  $\OMS/lmsy/m/n/10 ^^Q$  $[] _ []$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--45
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
 
  []
 
-[220
 
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
+ []
 
+[112
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+[113]
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+[114]
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \vbox (badness 3312) has occurred while \output is active []
 
- []
-
-[221] [222]
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
-
- []
-
-[223]
-Underfull \hbox (badness 10000) in paragraph at lines 226--227
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
+ [115]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
 
  []
 
@@ -3218,1419 +2364,625 @@ Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
-[224]
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
 
  []
 
-[225]
-Underfull \hbox (badness 10000) in paragraph at lines 297--298
+[116]
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
  []
 
-[226]
-<imagenes/general2024-I/etapa2/ing/Enunciado-1.png, id=3364, 350.9913pt x 363.9
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+[118]
+<imagenes/general2024-I/etapa2/ing/Enunciado-1.png, id=1728, 350.9913pt x 363.9
 999pt>
 File: imagenes/general2024-I/etapa2/ing/Enunciado-1.png Graphic file (type png)
 
 <use imagenes/general2024-I/etapa2/ing/Enunciado-1.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/Enunciado-1.png  use
-d on input line 353.
+d on input line 362.
 (pdftex.def)             Requested size: 142.26378pt x 147.53578pt.
-<imagenes/general2024-I/etapa2/ing/Pgeometria1.png, id=3365, 303.7749pt x 342.3
+<imagenes/general2024-I/etapa2/ing/Pgeometria1.png, id=1729, 303.7749pt x 342.3
 189pt>
 File: imagenes/general2024-I/etapa2/ing/Pgeometria1.png Graphic file (type png)
 
 <use imagenes/general2024-I/etapa2/ing/Pgeometria1.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/Pgeometria1.png  use
-d on input line 376.
+d on input line 385.
 (pdftex.def)             Requested size: 142.26378pt x 160.31532pt.
- [227 <./imagenes/general2024-I/etapa2/ing/Enunciado-1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 404--405
+ [119 <./imagenes/general2024-I/etapa2/ing/Enunciado-1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
 
  []
 
-<imagenes/general2024-I/etapa2/ing/problema-2.png, id=3378, 406.8801pt x 467.82
+<imagenes/general2024-I/etapa2/ing/problema-2.png, id=1742, 406.8801pt x 467.82
 78pt>
 File: imagenes/general2024-I/etapa2/ing/problema-2.png Graphic file (type png)
 <use imagenes/general2024-I/etapa2/ing/problema-2.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/problema-2.png  used
- on input line 420.
+ on input line 429.
 (pdftex.def)             Requested size: 142.26378pt x 163.57086pt.
 
 Underfull \vbox (badness 1226) has occurred while \output is active []
 
- [228 <./imagenes/general2024-I/etapa2/ing/Pgeometria1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 438--439
+ [120 <./imagenes/general2024-I/etapa2/ing/Pgeometria1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 447--449
+Underfull \hbox (badness 10000) in paragraph at lines 456--458
 
  []
 
-<imagenes/general2024-I/etapa2/ing/problema 3 geometris.png, id=3390, 180.9159p
+<imagenes/general2024-I/etapa2/ing/problema 3 geometris.png, id=1754, 180.9159p
 t x 183.3249pt>
 File: imagenes/general2024-I/etapa2/ing/problema 3 geometris.png Graphic file (
 type png)
 <use imagenes/general2024-I/etapa2/ing/problema 3 geometris.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/problema 3 geometris
-.png  used on input line 458.
+.png  used on input line 467.
 (pdftex.def)             Requested size: 199.16928pt x 201.83144pt.
 
-Overfull \hbox (54.48799pt too wide) in paragraph at lines 458--459
+Overfull \hbox (54.48799pt too wide) in paragraph at lines 467--468
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [229 <./imagenes/general2024-I/etapa2/ing/problema-2.png>]
-<imagenes/general2024-I/etapa2/ing/probgeometria4.png, id=3402, 163.812pt x 136
+ [121 <./imagenes/general2024-I/etapa2/ing/problema-2.png>]
+<imagenes/general2024-I/etapa2/ing/probgeometria4.png, id=1766, 163.812pt x 136
 .1085pt>
 File: imagenes/general2024-I/etapa2/ing/probgeometria4.png Graphic file (type p
 ng)
 <use imagenes/general2024-I/etapa2/ing/probgeometria4.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/probgeometria4.png  
-used on input line 475.
+used on input line 484.
 (pdftex.def)             Requested size: 156.49014pt x 130.03545pt.
- [230 <./imagenes/general2024-I/etapa2/ing/problema 3 geometris.png> <./imagene
+ [122 <./imagenes/general2024-I/etapa2/ing/problema 3 geometris.png> <./imagene
 s/general2024-I/etapa2/ing/probgeometria4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
+Underfull \hbox (badness 10000) in paragraph at lines 501--502
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 537--538
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
 
  []
 
-[231]
-<imagenes/general2024-I/etapa2/ing/trigonometria-1.png, id=3426, 203.5605pt x 1
+[123]
+<imagenes/general2024-I/etapa2/ing/trigonometria-1.png, id=1790, 203.5605pt x 1
 20.9318pt>
 File: imagenes/general2024-I/etapa2/ing/trigonometria-1.png Graphic file (type 
 png)
 <use imagenes/general2024-I/etapa2/ing/trigonometria-1.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/trigonometria-1.png 
- used on input line 553.
+ used on input line 562.
 (pdftex.def)             Requested size: 213.39566pt x 126.78282pt.
 
-Overfull \hbox (68.71437pt too wide) in paragraph at lines 553--554
+Overfull \hbox (68.71437pt too wide) in paragraph at lines 562--563
  [][] 
  []
 
-<imagenes/general2024-I/etapa2/ing/trigonometria-2.png, id=3427, 212.7147pt x 1
+<imagenes/general2024-I/etapa2/ing/trigonometria-2.png, id=1791, 212.7147pt x 1
 33.2177pt>
 File: imagenes/general2024-I/etapa2/ing/trigonometria-2.png Graphic file (type 
 png)
 <use imagenes/general2024-I/etapa2/ing/trigonometria-2.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/trigonometria-2.png 
- used on input line 563.
+ used on input line 572.
 (pdftex.def)             Requested size: 213.39566pt x 133.65033pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--578
+Underfull \hbox (badness 10000) in paragraph at lines 586--587
 
  []
 
-[232 <./imagenes/general2024-I/etapa2/ing/trigonometria-1.png> <./imagenes/gene
+[124 <./imagenes/general2024-I/etapa2/ing/trigonometria-1.png> <./imagenes/gene
 ral2024-I/etapa2/ing/trigonometria-2.png>]
-<imagenes/general2024-I/etapa2/ing/trigonometria-2.2.png, id=3440, 183.084pt x 
+<imagenes/general2024-I/etapa2/ing/trigonometria-2.2.png, id=1804, 183.084pt x 
 73.2336pt>
 File: imagenes/general2024-I/etapa2/ing/trigonometria-2.2.png Graphic file (typ
 e png)
 <use imagenes/general2024-I/etapa2/ing/trigonometria-2.2.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/trigonometria-2.2.pn
-g  used on input line 598.
+g  used on input line 607.
 (pdftex.def)             Requested size: 213.39566pt x 85.35999pt.
 
-Overfull \hbox (68.71437pt too wide) in paragraph at lines 598--599
+Overfull \hbox (68.71437pt too wide) in paragraph at lines 607--608
  [][] 
  []
 
-<imagenes/general2024-I/etapa2/ing/trigonometria-3.png, id=3441, 195.129pt x 69
+<imagenes/general2024-I/etapa2/ing/trigonometria-3.png, id=1805, 195.129pt x 69
 .1383pt>
 File: imagenes/general2024-I/etapa2/ing/trigonometria-3.png Graphic file (type 
 png)
 <use imagenes/general2024-I/etapa2/ing/trigonometria-3.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/trigonometria-3.png 
- used on input line 606.
+ used on input line 615.
 (pdftex.def)             Requested size: 213.39566pt x 75.61137pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 621--622
+Underfull \hbox (badness 10000) in paragraph at lines 630--631
 
  []
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 625.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 634.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 625.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 634.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 626.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 635.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 626.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 635.
 
-<imagenes/general2024-I/etapa2/ing/trigonometria-3.3.png, id=3442, 195.3699pt x
+<imagenes/general2024-I/etapa2/ing/trigonometria-3.3.png, id=1806, 195.3699pt x
  74.4381pt>
 File: imagenes/general2024-I/etapa2/ing/trigonometria-3.3.png Graphic file (typ
 e png)
 <use imagenes/general2024-I/etapa2/ing/trigonometria-3.3.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/trigonometria-3.3.pn
-g  used on input line 636.
+g  used on input line 645.
 (pdftex.def)             Requested size: 213.39566pt x 81.30968pt.
 
-Overfull \hbox (68.71437pt too wide) in paragraph at lines 636--637
+Overfull \hbox (68.71437pt too wide) in paragraph at lines 645--646
  [][] 
  []
 
-[233 <./imagenes/general2024-I/etapa2/ing/trigonometria-2.2.png> <./imagenes/ge
+[125 <./imagenes/general2024-I/etapa2/ing/trigonometria-2.2.png> <./imagenes/ge
 neral2024-I/etapa2/ing/trigonometria-3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 645--647
+Underfull \hbox (badness 10000) in paragraph at lines 654--656
 
  []
 
-[234 <./imagenes/general2024-I/etapa2/ing/trigonometria-3.3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 693--694
+[126 <./imagenes/general2024-I/etapa2/ing/trigonometria-3.3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
 
  []
 
-<imagenes/general2024-I/etapa2/ing/fisica-1.png, id=3467, 161.6439pt x 105.996p
+<imagenes/general2024-I/etapa2/ing/fisica-1.png, id=1831, 161.6439pt x 105.996p
 t>
 File: imagenes/general2024-I/etapa2/ing/fisica-1.png Graphic file (type png)
 <use imagenes/general2024-I/etapa2/ing/fisica-1.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/fisica-1.png  used o
-n input line 709.
+n input line 718.
 (pdftex.def)             Requested size: 213.39566pt x 139.93292pt.
 
-Overfull \hbox (68.71437pt too wide) in paragraph at lines 709--710
+Overfull \hbox (68.71437pt too wide) in paragraph at lines 718--719
  [][] 
  []
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 722.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 731.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 722.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 731.
 
-<imagenes/general2024-I/etapa2/ing/fisica-1.1.png, id=3468, 146.949pt x 112.259
+<imagenes/general2024-I/etapa2/ing/fisica-1.1.png, id=1832, 146.949pt x 112.259
 4pt>
 File: imagenes/general2024-I/etapa2/ing/fisica-1.1.png Graphic file (type png)
 <use imagenes/general2024-I/etapa2/ing/fisica-1.1.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/fisica-1.1.png  used
- on input line 728.
+ on input line 737.
 (pdftex.def)             Requested size: 213.39566pt x 163.0323pt.
 
-Overfull \hbox (68.71437pt too wide) in paragraph at lines 728--729
+Overfull \hbox (68.71437pt too wide) in paragraph at lines 737--738
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [235 <./imagenes/general2024-I/etapa2/ing/fisica-1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 749--750
+ [127 <./imagenes/general2024-I/etapa2/ing/fisica-1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 758--759
 
  []
 
-[236 <./imagenes/general2024-I/etapa2/ing/fisica-1.1.png>] [237]
-Underfull \hbox (badness 10000) in paragraph at lines 853--854
+[128 <./imagenes/general2024-I/etapa2/ing/fisica-1.1.png>] [129]
+Underfull \hbox (badness 10000) in paragraph at lines 862--863
 
  []
 
-<imagenes/general2024-I/etapa2/ing/quimica-1.png, id=3507, 120.2091pt x 132.254
+<imagenes/general2024-I/etapa2/ing/quimica-1.png, id=1871, 120.2091pt x 132.254
 1pt>
 File: imagenes/general2024-I/etapa2/ing/quimica-1.png Graphic file (type png)
 <use imagenes/general2024-I/etapa2/ing/quimica-1.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/quimica-1.png  used 
-on input line 859.
-(pdftex.def)             Requested size: 184.9429pt x 203.48224pt.
-
-Overfull \hbox (40.26161pt too wide) in paragraph at lines 859--861
- [][] 
- []
-
-<imagenes/general2024-I/etapa2/ing/quimica-1.1.png, id=3508, 120.2091pt x 135.1
+on input line 868.
+(pdftex.def)             Requested size: 128.0374pt x 140.87277pt.
+<imagenes/general2024-I/etapa2/ing/quimica-1.1.png, id=1872, 120.2091pt x 135.1
 449pt>
 File: imagenes/general2024-I/etapa2/ing/quimica-1.1.png Graphic file (type png)
 
 <use imagenes/general2024-I/etapa2/ing/quimica-1.1.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/quimica-1.1.png  use
-d on input line 865.
+d on input line 874.
 (pdftex.def)             Requested size: 71.13188pt x 79.97194pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [238]
-[239 <./imagenes/general2024-I/etapa2/ing/quimica-1.png> <./imagenes/general202
+[130 <./imagenes/general2024-I/etapa2/ing/quimica-1.png> <./imagenes/general202
 4-I/etapa2/ing/quimica-1.1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 915--916
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 924--925
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 926--927
+Underfull \hbox (badness 10000) in paragraph at lines 933--934
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 945--946
+Underfull \hbox (badness 10000) in paragraph at lines 935--936
+
+ []
+
+[131]
+Underfull \hbox (badness 10000) in paragraph at lines 954--955
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 949--957
-
- []
-
-[240]
-Underfull \hbox (badness 10000) in paragraph at lines 958--961
+Underfull \hbox (badness 10000) in paragraph at lines 958--966
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 962--963
+Underfull \hbox (badness 10000) in paragraph at lines 967--970
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 993--994
+Underfull \hbox (badness 10000) in paragraph at lines 971--972
 
  []
 
-[241]
-Underfull \hbox (badness 10000) in paragraph at lines 1012--1013
-
- []
-
-[242]
-Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
+[132]
+Underfull \hbox (badness 10000) in paragraph at lines 1002--1003
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1059--1060
+Underfull \hbox (badness 10000) in paragraph at lines 1021--1022
+
+ []
+
+[133]
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1049
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1080--1081
+Underfull \hbox (badness 10000) in paragraph at lines 1068--1069
 
  []
 
-[243]
-Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
-
- []
-
-[244] [245]
-Underfull \hbox (badness 10000) in paragraph at lines 1177--1178
-
- []
-
-[246]
-Underfull \hbox (badness 10000) in paragraph at lines 1244--1245
-
- []
-
-[247]
-Underfull \hbox (badness 10000) in paragraph at lines 1271--1272
-
- []
-
-[248] [249] [250]
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+[134]
+Underfull \hbox (badness 10000) in paragraph at lines 1089--1090
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1432--1433
+Underfull \hbox (badness 10000) in paragraph at lines 1110--1111
 
  []
 
-[251] [252]
-Underfull \hbox (badness 10000) in paragraph at lines 1521--1524
+[135] [136]
+Underfull \hbox (badness 10000) in paragraph at lines 1186--1187
 
  []
 
-[253]
-<imagenes/general2024-I/etapa2/ing/rm5.png, id=3734, 167.6664pt x 145.2627pt>
+[137] [138]
+Underfull \hbox (badness 10000) in paragraph at lines 1253--1254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1280--1281
+
+ []
+
+[139] [140] [141] [142]
+Underfull \hbox (badness 10000) in paragraph at lines 1422--1423
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
+
+ []
+
+[143] [144]
+Underfull \hbox (badness 10000) in paragraph at lines 1530--1533
+
+ []
+
+[145]
+<imagenes/general2024-I/etapa2/ing/rm5.png, id=2101, 167.6664pt x 145.2627pt>
 File: imagenes/general2024-I/etapa2/ing/rm5.png Graphic file (type png)
 <use imagenes/general2024-I/etapa2/ing/rm5.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/rm5.png  used on inp
-ut line 1553.
-(pdftex.def)             Requested size: 142.26378pt x 123.26108pt.
+ut line 1562.
+(pdftex.def)             Requested size: 128.0374pt x 110.93497pt.
 
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
- [254]
-Underfull \hbox (badness 10000) in paragraph at lines 1569--1570
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1579
 
  []
 
-
-Underfull \hbox (badness 4726) in paragraph at lines 1573--1577
+[146 <./imagenes/general2024-I/etapa2/ing/rm5.png>]
+Underfull \hbox (badness 4726) in paragraph at lines 1582--1586
 \T1/lmr/m/n/10 re-gio-nes equi-va-len-tes a cu-yas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1573--1577
+Underfull \hbox (badness 10000) in paragraph at lines 1582--1586
 
  []
 
-<imagenes/general2024-I/etapa2/ing/rrm5.png, id=3746, 169.5936pt x 156.1032pt>
+<imagenes/general2024-I/etapa2/ing/rrm5.png, id=2116, 169.5936pt x 156.1032pt>
 File: imagenes/general2024-I/etapa2/ing/rrm5.png Graphic file (type png)
 <use imagenes/general2024-I/etapa2/ing/rrm5.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/ing/rrm5.png  used on in
-put line 1583.
-(pdftex.def)             Requested size: 142.26378pt x 130.95665pt.
-[255 <./imagenes/general2024-I/etapa2/ing/rm5.png> <./imagenes/general2024-I/et
-apa2/ing/rrm5.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1602--1607
+put line 1592.
+(pdftex.def)             Requested size: 128.0374pt x 117.86075pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1616
 
  []
 
-[256]
-Overfull \hbox (17.01009pt too wide) in paragraph at lines 1655--1657
+[147 <./imagenes/general2024-I/etapa2/ing/rrm5.png>]
+Overfull \hbox (17.01009pt too wide) in paragraph at lines 1664--1666
 \T1/lmr/m/n/10 A par-tir de la fa-bri-ca-ción de la pri-me-ra bom-ba ató-mi-ca,
  ...............se
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1669--1670
-
- []
-
-[257] [258]
-Underfull \hbox (badness 10000) in paragraph at lines 1723--1730
+[148]
+Underfull \hbox (badness 10000) in paragraph at lines 1678--1679
 
  []
 
-[259]
-Overfull \hbox (19.74005pt too wide) in paragraph at lines 1816--1817
+[149]
+Underfull \hbox (badness 10000) in paragraph at lines 1732--1739
+
+ []
+
+[150] [151]
+Overfull \hbox (19.74005pt too wide) in paragraph at lines 1825--1826
 []\T1/lmr/m/n/10 ¾Hayk'a k'uchukunayuqtaq wa-si pun-ku-ri kan? / ¾Qawqha k'uchu
 kananisa
  []
 
-[260] [261] [262]
-Underfull \hbox (badness 10000) in paragraph at lines 1934--1935
+[152] [153] [154]
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1944
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1936--1938
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1947
 
  []
 
-[263] [264]
-<imagenes/general2024-I/etapa2/bio/geo1g24-II.png, id=3892, 90.5784pt x 110.091
+[155] [156]
+<imagenes/general2024-I/etapa2/bio/geo1g24-II.png, id=2262, 90.5784pt x 110.091
 3pt>
 File: imagenes/general2024-I/etapa2/bio/geo1g24-II.png Graphic file (type png)
 <use imagenes/general2024-I/etapa2/bio/geo1g24-II.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/geo1g24-II.png  used
- on input line 2034.
+ on input line 2043.
 (pdftex.def)             Requested size: 128.0374pt x 155.61844pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [265]
-Underfull \hbox (badness 10000) in paragraph at lines 2049--2050
+Underfull \hbox (badness 10000) in paragraph at lines 2058--2059
 
  []
 
-<imagenes/general2024-I/etapa2/bio/geo1g24r-II.png, id=3904, 122.859pt x 141.89
+<imagenes/general2024-I/etapa2/bio/geo1g24r-II.png, id=2263, 122.859pt x 141.89
 01pt>
 File: imagenes/general2024-I/etapa2/bio/geo1g24r-II.png Graphic file (type png)
 
 <use imagenes/general2024-I/etapa2/bio/geo1g24r-II.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/geo1g24r-II.png  use
-d on input line 2065.
+d on input line 2074.
 (pdftex.def)             Requested size: 128.0374pt x 147.88696pt.
-[266 <./imagenes/general2024-I/etapa2/bio/geo1g24-II.png> <./imagenes/general20
-24-I/etapa2/bio/geo1g24r-II.png>]
-<imagenes/general2024-I/etapa2/bio/geo2g24-II.png, id=3916, 172.2435pt x 142.61
+
+Underfull \vbox (badness 1448) has occurred while \output is active []
+
+ [157 <./imagenes/general2024-I/etapa2/bio/geo1g24-II.png>]
+<imagenes/general2024-I/etapa2/bio/geo2g24-II.png, id=2275, 172.2435pt x 142.61
 28pt>
 File: imagenes/general2024-I/etapa2/bio/geo2g24-II.png Graphic file (type png)
 <use imagenes/general2024-I/etapa2/bio/geo2g24-II.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/geo2g24-II.png  used
- on input line 2078.
+ on input line 2087.
 (pdftex.def)             Requested size: 128.0374pt x 106.0149pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2091--2092
+Underfull \hbox (badness 10000) in paragraph at lines 2100--2101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2095--2096
+Underfull \hbox (badness 10000) in paragraph at lines 2104--2105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2097--2098
+Underfull \hbox (badness 10000) in paragraph at lines 2106--2107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2099--2100
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
 
  []
 
-<imagenes/general2024-I/etapa2/bio/geo2g24-IIr.png, id=3917, 172.2435pt x 142.6
+<imagenes/general2024-I/etapa2/bio/geo2g24-IIr.png, id=2276, 172.2435pt x 142.6
 128pt>
 File: imagenes/general2024-I/etapa2/bio/geo2g24-IIr.png Graphic file (type png)
 
 <use imagenes/general2024-I/etapa2/bio/geo2g24-IIr.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/geo2g24-IIr.png  use
-d on input line 2108.
+d on input line 2117.
 (pdftex.def)             Requested size: 128.0374pt x 106.0149pt.
-<imagenes/general2024-I/etapa2/bio/geo3g24-II.png, id=3918, 136.8312pt x 185.73
+[158 <./imagenes/general2024-I/etapa2/bio/geo1g24r-II.png> <./imagenes/general2
+024-I/etapa2/bio/geo2g24-II.png>]
+<imagenes/general2024-I/etapa2/bio/geo3g24-II.png, id=2289, 136.8312pt x 185.73
 39pt>
 File: imagenes/general2024-I/etapa2/bio/geo3g24-II.png Graphic file (type png)
 <use imagenes/general2024-I/etapa2/bio/geo3g24-II.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/geo3g24-II.png  used
- on input line 2116.
+ on input line 2125.
 (pdftex.def)             Requested size: 128.0374pt x 173.79918pt.
-[267 <./imagenes/general2024-I/etapa2/bio/geo2g24-II.png> <./imagenes/general20
-24-I/etapa2/bio/geo2g24-IIr.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2129--2130
+
+Underfull \hbox (badness 10000) in paragraph at lines 2138--2139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2133--2134
+Underfull \hbox (badness 10000) in paragraph at lines 2142--2143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2135--2136
+Underfull \hbox (badness 10000) in paragraph at lines 2144--2145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2137--2138
+Underfull \hbox (badness 10000) in paragraph at lines 2146--2147
 
  []
 
-<imagenes/general2024-I/etapa2/bio/geo3g24-IIr.png, id=3932, 151.0443pt x 185.7
+<imagenes/general2024-I/etapa2/bio/geo3g24-IIr.png, id=2290, 151.0443pt x 185.7
 339pt>
 File: imagenes/general2024-I/etapa2/bio/geo3g24-IIr.png Graphic file (type png)
 
 <use imagenes/general2024-I/etapa2/bio/geo3g24-IIr.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/geo3g24-IIr.png  use
-d on input line 2146.
+d on input line 2155.
 (pdftex.def)             Requested size: 128.0374pt x 157.45511pt.
-[268 <./imagenes/general2024-I/etapa2/bio/geo3g24-II.png> <./imagenes/general20
-24-I/etapa2/bio/geo3g24-IIr.png>]
-<imagenes/general2024-I/etapa2/bio/trigo1g24-II.png, id=3944, 173.448pt x 147.9
+[159 <./imagenes/general2024-I/etapa2/bio/geo2g24-IIr.png> <./imagenes/general2
+024-I/etapa2/bio/geo3g24-II.png>]
+<imagenes/general2024-I/etapa2/bio/trigo1g24-II.png, id=2303, 173.448pt x 147.9
 126pt>
 File: imagenes/general2024-I/etapa2/bio/trigo1g24-II.png Graphic file (type png
 )
 <use imagenes/general2024-I/etapa2/bio/trigo1g24-II.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/trigo1g24-II.png  us
-ed on input line 2166.
+ed on input line 2175.
 (pdftex.def)             Requested size: 128.0374pt x 109.19179pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2179--2180
+Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
 
  []
 
-<imagenes/general2024-I/etapa2/bio/trigo2g24-II.png, id=3945, 156.8259pt x 130.
+[160 <./imagenes/general2024-I/etapa2/bio/geo3g24-IIr.png> <./imagenes/general2
+024-I/etapa2/bio/trigo1g24-II.png>]
+<imagenes/general2024-I/etapa2/bio/trigo2g24-II.png, id=2316, 156.8259pt x 130.
 3269pt>
 File: imagenes/general2024-I/etapa2/bio/trigo2g24-II.png Graphic file (type png
 )
 <use imagenes/general2024-I/etapa2/bio/trigo2g24-II.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/trigo2g24-II.png  us
-ed on input line 2201.
+ed on input line 2210.
 (pdftex.def)             Requested size: 128.0374pt x 106.41135pt.
-[269 <./imagenes/general2024-I/etapa2/bio/trigo1g24-II.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2214--2215
+
+Underfull \hbox (badness 10000) in paragraph at lines 2223--2224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2222--2223
+Underfull \hbox (badness 10000) in paragraph at lines 2231--2232
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2224--2225
+Underfull \hbox (badness 10000) in paragraph at lines 2233--2234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2226--2227
+Underfull \hbox (badness 10000) in paragraph at lines 2235--2236
 
  []
 
-<imagenes/general2024-I/etapa2/bio/trigo2g24-IIr.png, id=3959, 156.8259pt x 130
+<imagenes/general2024-I/etapa2/bio/trigo2g24-IIr.png, id=2317, 156.8259pt x 130
 .3269pt>
 File: imagenes/general2024-I/etapa2/bio/trigo2g24-IIr.png Graphic file (type pn
 g)
 <use imagenes/general2024-I/etapa2/bio/trigo2g24-IIr.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/trigo2g24-IIr.png  u
-sed on input line 2235.
+sed on input line 2244.
 (pdftex.def)             Requested size: 128.0374pt x 106.41135pt.
-[270 <./imagenes/general2024-I/etapa2/bio/trigo2g24-II.png> <./imagenes/general
-2024-I/etapa2/bio/trigo2g24-IIr.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2254--2255
+[161 <./imagenes/general2024-I/etapa2/bio/trigo2g24-II.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2263--2264
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2256--2257
+Underfull \hbox (badness 10000) in paragraph at lines 2265--2266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2258--2259
+Underfull \hbox (badness 10000) in paragraph at lines 2267--2268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2260--2261
+Underfull \hbox (badness 10000) in paragraph at lines 2269--2270
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2293--2294
+[162 <./imagenes/general2024-I/etapa2/bio/trigo2g24-IIr.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2302--2303
 
  []
 
-[271]
-<imagenes/general2024-I/etapa2/bio/fisica1g24-IIr.png, id=3987, 188.6247pt x 55
+<imagenes/general2024-I/etapa2/bio/fisica1g24-IIr.png, id=2341, 188.6247pt x 55
 .1661pt>
 File: imagenes/general2024-I/etapa2/bio/fisica1g24-IIr.png Graphic file (type p
 ng)
 <use imagenes/general2024-I/etapa2/bio/fisica1g24-IIr.png>
 Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/fisica1g24-IIr.png  
-used on input line 2296.
+used on input line 2305.
 (pdftex.def)             Requested size: 156.49014pt x 45.771pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2299--2300
+Underfull \hbox (badness 10000) in paragraph at lines 2308--2309
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2301--2302
+Underfull \hbox (badness 10000) in paragraph at lines 2310--2311
+
+ []
+
+[163 <./imagenes/general2024-I/etapa2/bio/fisica1g24-IIr.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2327--2330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2318--2321
+Underfull \hbox (badness 10000) in paragraph at lines 2331--2332
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2322--2323
+Underfull \hbox (badness 10000) in paragraph at lines 2333--2334
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2324--2325
-
- []
-
-[272 <./imagenes/general2024-I/etapa2/bio/fisica1g24-IIr.png>]
-Overfull \hbox (0.41301pt too wide) in paragraph at lines 2359--2361
+[164]
+Overfull \hbox (0.41301pt too wide) in paragraph at lines 2368--2370
 []\T1/lmr/m/n/10 ¾Cuál es la ma-sa en gra-mos de una mo-lé-cu-la de áci-do ní-t
 ri-co ($[][]$)? 
  []
 
-[273]
-Underfull \hbox (badness 10000) in paragraph at lines 2380--2381
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2382--2383
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2384--2385
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2403--2407
-
- []
-
-[274]
-Underfull \hbox (badness 10000) in paragraph at lines 2430--2436
-
- []
-
-[275]
-Underfull \hbox (badness 10000) in paragraph at lines 2456--2457
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2460--2461
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2465--2466
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2467--2468
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2469--2470
-
- []
-
-[276]
-Underfull \hbox (badness 10000) in paragraph at lines 2489--2490
-
- []
-
-[277] [278] [279] [280] [281] [282] [283] [284] [285] [286] [287] [288]
-Underfull \hbox (badness 10000) in paragraph at lines 2951--2952
-
- []
-
-
-Overfull \hbox (0.55722pt too wide) in paragraph at lines 2975--2976
-[]\T1/lmr/m/n/10 DE CUÁN-TAS FOR-MAS SE PUE-DE LEER LA PA-LA-BRA UNAP? 
- []
-
-[289]
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
-001.
- (C:\Users\DAD 2\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
-File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-<imagenes/general2024-I/etapa2/bio/rm2g24-II.png, id=4252, 126.9543pt x 86.0013
-pt>
-File: imagenes/general2024-I/etapa2/bio/rm2g24-II.png Graphic file (type png)
-<use imagenes/general2024-I/etapa2/bio/rm2g24-II.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/rm2g24-II.png  used 
-on input line 3042.
-(pdftex.def)             Requested size: 128.0374pt x 86.73462pt.
-
-[290 <./imagenes/general2024-I/etapa2/bio/rm2g24-II.png>]
-<imagenes/general2024-I/etapa2/bio/rm2g24-IIr.png, id=4264, 181.3977pt x 66.488
-4pt>
-File: imagenes/general2024-I/etapa2/bio/rm2g24-IIr.png Graphic file (type png)
-<use imagenes/general2024-I/etapa2/bio/rm2g24-IIr.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/rm2g24-IIr.png  used
- on input line 3077.
-(pdftex.def)             Requested size: 156.49014pt x 57.3605pt.
-
-Overfull \hbox (11.80885pt too wide) in paragraph at lines 3077--3078
- [][] 
- []
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 3120.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3145--3146
-
- []
-
-[291 <./imagenes/general2024-I/etapa2/bio/rm2g24-IIr.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3149--3150
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3151--3152
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3153--3155
-
- []
-
-
-Overfull \hbox (3.33151pt too wide) in paragraph at lines 3182--3183
-[]$ []   \OT1/lmr/m/n/10 +  [] +  [] = 939$ 
- []
-
-[292]
-<imagenes/general2024-I/etapa2/bio/rm5g24-II.png, id=4294, 131.2905pt x 119.486
-4pt>
-File: imagenes/general2024-I/etapa2/bio/rm5g24-II.png Graphic file (type png)
-<use imagenes/general2024-I/etapa2/bio/rm5g24-II.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/rm5g24-II.png  used 
-on input line 3205.
-(pdftex.def)             Requested size: 99.58464pt x 90.6301pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3236--3237
-
- []
-
-<imagenes/general2024-I/etapa2/bio/rm5g24-IIr.png, id=4295, 131.2905pt x 119.48
-64pt>
-File: imagenes/general2024-I/etapa2/bio/rm5g24-IIr.png Graphic file (type png)
-<use imagenes/general2024-I/etapa2/bio/rm5g24-IIr.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/rm5g24-IIr.png  used
- on input line 3246.
-(pdftex.def)             Requested size: 99.58464pt x 90.6301pt.
-
-Underfull \vbox (badness 5652) has occurred while \output is active []
-
- [293 <./imagenes/general2024-I/etapa2/bio/rm5g24-II.png>] [294 <./imagenes/gen
-eral2024-I/etapa2/bio/rm5g24-IIr.png>] [295] [296] [297] [298] [299]
-Underfull \hbox (badness 10000) in paragraph at lines 3519--3522
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3523--3524
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3525--3526
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3527--3528
-
- []
-
-[300]
-Underfull \hbox (badness 10000) in paragraph at lines 3546--3548
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3610--3611
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3612--3613
-
- []
-
-[301]
-Underfull \hbox (badness 10000) in paragraph at lines 3614--3616
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3617--3618
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3653--3654
-
- []
-
-[302]
-Underfull \hbox (badness 10000) in paragraph at lines 3684--3685
-
- []
-
-[303]
-<imagenes/general2024-I/etapa2/soc/geometria1g24-II.png, id=4452, 127.1952pt x 
-73.4745pt>
-File: imagenes/general2024-I/etapa2/soc/geometria1g24-II.png Graphic file (type
- png)
-<use imagenes/general2024-I/etapa2/soc/geometria1g24-II.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/geometria1g24-II.png
-  used on input line 3750.
-(pdftex.def)             Requested size: 213.39566pt x 123.27484pt.
- [304 <./imagenes/general2024-I/etapa2/soc/geometria1g24-II.png>]
-<imagenes/general2024-I/etapa2/soc/geometria2g24-II.png, id=4464, 181.1568pt x 
-94.4328pt>
-File: imagenes/general2024-I/etapa2/soc/geometria2g24-II.png Graphic file (type
- png)
-<use imagenes/general2024-I/etapa2/soc/geometria2g24-II.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/geometria2g24-II.png
-  used on input line 3779.
-(pdftex.def)             Requested size: 213.39566pt x 111.23807pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3794--3795
-
- []
-
-<imagenes/general2024-I/etapa2/soc/geometria2g24-IIr.png, id=4465, 181.1568pt x
- 94.4328pt>
-File: imagenes/general2024-I/etapa2/soc/geometria2g24-IIr.png Graphic file (typ
-e png)
-<use imagenes/general2024-I/etapa2/soc/geometria2g24-IIr.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/geometria2g24-IIr.pn
-g  used on input line 3796.
-(pdftex.def)             Requested size: 213.39566pt x 111.23807pt.
-<imagenes/general2024-I/etapa2/soc/trigo1g24-II.png, id=4466, 163.812pt x 100.9
-371pt>
-File: imagenes/general2024-I/etapa2/soc/trigo1g24-II.png Graphic file (type png
-)
-<use imagenes/general2024-I/etapa2/soc/trigo1g24-II.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/trigo1g24-II.png  us
-ed on input line 3827.
-(pdftex.def)             Requested size: 213.39566pt x 131.50005pt.
-[305 <./imagenes/general2024-I/etapa2/soc/geometria2g24-II.png> <./imagenes/gen
-eral2024-I/etapa2/soc/geometria2g24-IIr.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3840--3841
-
- []
-
-<imagenes/general2024-I/etapa2/soc/trigo1g24-IIr.png, id=4480, 166.9437pt x 132
-.2541pt>
-File: imagenes/general2024-I/etapa2/soc/trigo1g24-IIr.png Graphic file (type pn
-g)
-<use imagenes/general2024-I/etapa2/soc/trigo1g24-IIr.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/trigo1g24-IIr.png  u
-sed on input line 3842.
-(pdftex.def)             Requested size: 192.91165pt x 152.82962pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [306 <./imagenes/general2024-I/etapa2/soc/trigo1g24-II.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3868--3869
-
- []
-
-[307 <./imagenes/general2024-I/etapa2/soc/trigo1g24-IIr.png>]
-<imagenes/general2024-I/etapa2/soc/fisica1g24-II.png, id=4503, 124.7862pt x 117
-.0774pt>
-File: imagenes/general2024-I/etapa2/soc/fisica1g24-II.png Graphic file (type pn
-g)
-<use imagenes/general2024-I/etapa2/soc/fisica1g24-II.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/fisica1g24-II.png  u
-sed on input line 3901.
-(pdftex.def)             Requested size: 128.60449pt x 120.6625pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3914--3915
-
- []
-
-[308 <./imagenes/general2024-I/etapa2/soc/fisica1g24-II.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3952--3953
-
- []
-
-<imagenes/general2024-I/etapa2/soc/fisica2g24-IIr.png, id=4515, 193.2018pt x 14
-5.7445pt>
-File: imagenes/general2024-I/etapa2/soc/fisica2g24-IIr.png Graphic file (type p
-ng)
-<use imagenes/general2024-I/etapa2/soc/fisica2g24-IIr.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/fisica2g24-IIr.png  
-used on input line 3956.
-(pdftex.def)             Requested size: 199.16928pt x 150.25638pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3959--3960
-
- []
-
-[309 <./imagenes/general2024-I/etapa2/soc/fisica2g24-IIr.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 4003--4004
-
- []
-
-[310]
-Underfull \hbox (badness 10000) in paragraph at lines 4032--4033
-
- []
-
-[311] [312] [313]
-Underfull \hbox (badness 10000) in paragraph at lines 4133--4139
-
- []
-
-
-Overfull \hbox (8.79301pt too wide) in paragraph at lines 4153--4155
-\T1/lmr/m/n/10 fi-lo-so-fía: la pri-ma-cía en-tre el ser (ma-te-ria) y el pen-s
-ar (idea/conciencia). 
- []
-
-[314] [315] [316] [317] [318] [319] [320] [321]
-Underfull \hbox (badness 10000) in paragraph at lines 4439--4442
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4457--4460
-
- []
-
-[322]
-Underfull \hbox (badness 10000) in paragraph at lines 4475--4478
-
- []
-
-[323] [324]
-Underfull \hbox (badness 10000) in paragraph at lines 4545--4550
-
- []
-
-[325]
-<imagenes/general2024-I/etapa2/soc/rm1g24-II.png, id=4791, 135.1449pt x 108.164
-1pt>
-File: imagenes/general2024-I/etapa2/soc/rm1g24-II.png Graphic file (type png)
-<use imagenes/general2024-I/etapa2/soc/rm1g24-II.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/rm1g24-II.png  used 
-on input line 4599.
-(pdftex.def)             Requested size: 213.39566pt x 170.79669pt.
- [326 <./imagenes/general2024-I/etapa2/soc/rm1g24-II.png>] [327]
-<imagenes/general2024-I/etapa2/soc/rm4g24-II.png, id=4816, 140.6856pt x 120.45p
-t>
-File: imagenes/general2024-I/etapa2/soc/rm4g24-II.png Graphic file (type png)
-<use imagenes/general2024-I/etapa2/soc/rm4g24-II.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/rm4g24-II.png  used 
-on input line 4712.
-(pdftex.def)             Requested size: 96.45583pt x 82.58493pt.
- [328]
-<imagenes/general2024-I/etapa2/soc/rm4g24-IIr.png, id=4828, 144.54pt x 120.45pt
->
-File: imagenes/general2024-I/etapa2/soc/rm4g24-IIr.png Graphic file (type png)
-<use imagenes/general2024-I/etapa2/soc/rm4g24-IIr.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/rm4g24-IIr.png  used
- on input line 4728.
-(pdftex.def)             Requested size: 99.58464pt x 82.98743pt.
-
-Overfull \hbox (34.47852pt too wide) in paragraph at lines 4728--4729
- [][] 
- []
-
-<imagenes/general2024-I/etapa2/soc/rm5g24-II.png, id=4829, 122.3772pt x 107.441
-4pt>
-File: imagenes/general2024-I/etapa2/soc/rm5g24-II.png Graphic file (type png)
-<use imagenes/general2024-I/etapa2/soc/rm5g24-II.png>
-Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/rm5g24-II.png  used 
-on input line 4751.
-(pdftex.def)             Requested size: 96.45583pt x 84.68431pt.
-[329 <./imagenes/general2024-I/etapa2/soc/rm4g24-II.png> <./imagenes/general202
-4-I/etapa2/soc/rm4g24-IIr.png> <./imagenes/general2024-I/etapa2/soc/rm5g24-II.p
-ng>] [330]
-Underfull \hbox (badness 10000) in paragraph at lines 4862--4865
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4880--4883
-
- []
-
-[331]
-Underfull \hbox (badness 10000) in paragraph at lines 4914--4917
-
- []
-
-[332]
-Underfull \hbox (badness 10000) in paragraph at lines 4932--4935
-
- []
-
-[333]
-Overfull \hbox (3.57352pt too wide) in paragraph at lines 4997--4998
-[]\T1/lmr/m/n/10 ¾Hayk'a raph-ra-ku-na-yuq-taq wall-pa-ku-na-ri kan-ku? / ¾Wall
--pa-xa qawqha
- []
-
-[334]) [335]
-\openout2 = `examenes/2024/cepre-2024-II.aux'.
-
- (examenes/2024/cepre-2024-II.tex
-Cap\'{\i }tulo 4.
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-
- []
-
-[336
-
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-
- []
-
-[337]
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
-
- []
-
-[338]
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/alg1c24-I.png, id=4976, 186.4566pt x 113.2
-23pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/alg1c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/alg1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/alg1c24-I.png  use
-d on input line 151.
-(pdftex.def)             Requested size: 128.0374pt x 77.74904pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
-
- []
-
-[339 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/alg1c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
-
- []
-
-[340] [341]
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-I.png, id=5014, 152.9715pt x 112.0
-185pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-I.png  use
-d on input line 308.
-(pdftex.def)             Requested size: 128.0374pt x 93.75986pt.
-[342 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-Ir.png, id=5024, 152.9715pt x 112.
-0185pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-Ir.png  us
-ed on input line 343.
-(pdftex.def)             Requested size: 128.0374pt x 93.75986pt.
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-I.png, id=5025, 153.4533pt x 124.3
-044pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-I.png  use
-d on input line 354.
-(pdftex.def)             Requested size: 128.0374pt x 103.72646pt.
-[343 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-Ir.png> <./imagenes/CEPRE-U
-NA2024-I/etapa2/ing/geo2c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-Ir.png, id=5038, 163.5711pt x 153.
-2124pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-Ir.png  us
-ed on input line 391.
-(pdftex.def)             Requested size: 128.0374pt x 119.933pt.
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-I.png, id=5039, 185.9748pt x 80.94
-24pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-I.png  use
-d on input line 405.
-(pdftex.def)             Requested size: 156.49014pt x 68.11095pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 418--419
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 438--439
-[]\T1/lmr/m/n/10 También del cua-dri-lá-te-ro
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-Ir.png, id=5040, 191.5155pt x 87.6
-876pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-Ir.png  us
-ed on input line 451.
-(pdftex.def)             Requested size: 156.49014pt x 71.65541pt.
-
-Overfull \hbox (11.80885pt too wide) in paragraph at lines 451--452
- [][] 
- []
-
-[344 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-Ir.png> <./imagenes/CEPRE-U
-NA2024-I/etapa2/ing/geo3c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 472--473
-
- []
-
-[345 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-Ir.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 534--535
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo1c24-Ir.png, id=5067, 184.2885pt x 12
-7.1952pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo1c24-Ir.png Graphic file (type p
-ng)
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo1c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo1c24-Ir.png  
-used on input line 561.
-(pdftex.def)             Requested size: 156.49014pt x 108.01161pt.
-
-Overfull \hbox (11.80885pt too wide) in paragraph at lines 561--562
- [][] 
- []
-
-[346]
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-I.png, id=5078, 173.448pt x 146.
-2263pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-I.png Graphic file (type pn
-g)
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-I.png  u
-sed on input line 571.
-(pdftex.def)             Requested size: 170.71652pt x 143.93pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 584--585
-
- []
-
-[347 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo1c24-Ir.png> <./imagenes/CEPRE
--UNA2024-I/etapa2/ing/trigo2c24-I.png>]
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-Ir.png, id=5092, 173.6889pt x 14
-6.2263pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-Ir.png Graphic file (type p
-ng)
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-Ir.png  
-used on input line 606.
-(pdftex.def)             Requested size: 156.49014pt x 131.74747pt.
-
-Overfull \hbox (11.80885pt too wide) in paragraph at lines 606--607
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 628--629
-
- []
-
-[348 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-Ir.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 672--673
-
- []
-
-
-Underfull \vbox (badness 2875) has occurred while \output is active []
-
- [349]
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/fisica1c24-I.png, id=5114, 134.904pt x 162
-.8484pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/fisica1c24-I.png Graphic file (type p
-ng)
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/fisica1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/fisica1c24-I.png  
-used on input line 737.
-(pdftex.def)             Requested size: 153.6447pt x 185.4876pt.
-
-Underfull \vbox (badness 7558) has occurred while \output is active []
-
- [350]
-Underfull \hbox (badness 10000) in paragraph at lines 751--752
-
- []
-
-[351 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/fisica1c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 779--780
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 805--806
-
- []
-
-[352]
-Underfull \hbox (badness 10000) in paragraph at lines 831--832
-
- []
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 851.
-
-[353]
-Underfull \hbox (badness 10000) in paragraph at lines 862--863
-
- []
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 868.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 868.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 904--905
-
- []
-
-[354]
-Underfull \hbox (badness 10000) in paragraph at lines 930--931
-
- []
-
-[355]
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/quimica4c24-I.png, id=5183, 190.7928pt x 1
-24.3044pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/quimica4c24-I.png Graphic file (type 
-png)
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/quimica4c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/quimica4c24-I.png 
- used on input line 955.
-(pdftex.def)             Requested size: 128.0374pt x 83.42195pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 969--970
-
- []
-
-[356 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/quimica4c24-I.png>] [357] [358]
-[359] [360] [361] [362] [363] [364] [365] [366]
-<imagenes/CEPRE-UNA2024-I/etapa2/ing/rm3c24-I.png, id=5368, 86.4831pt x 98.2872
-pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/ing/rm3c24-I.png Graphic file (type png)
-<use imagenes/CEPRE-UNA2024-I/etapa2/ing/rm3c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/rm3c24-I.png  used
- on input line 1432.
-(pdftex.def)             Requested size: 128.0374pt x 145.53624pt.
- [367 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/rm3c24-I.png>] [368] [369] [370] [
-371] [372] [373]
-Underfull \vbox (badness 2057) has occurred while \output is active []
-
- [374]
-[375] [376]
-Underfull \hbox (badness 10000) in paragraph at lines 1903--1904
-
- []
-
-[377] [378]
-Underfull \hbox (badness 10000) in paragraph at lines 2008--2009
-
- []
-
-[379] [380] [381]
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-I.png, id=5553, 148.6353pt x 93.71
-01pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-I.png  use
-d on input line 2134.
-(pdftex.def)             Requested size: 139.41832pt x 87.90446pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2147--2148
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-Ir.png, id=5554, 149.1171pt x 154.
-8987pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-Ir.png  us
-ed on input line 2177.
-(pdftex.def)             Requested size: 128.0374pt x 133.00699pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [382 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2194--2195
-
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/geo2c24-Ir.png, id=5566, 182.1204pt x 172.
-2435pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo2c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa2/bio/geo2c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo2c24-Ir.png  us
-ed on input line 2239.
-(pdftex.def)             Requested size: 128.0374pt x 121.10052pt.
-
-Underfull \vbox (badness 3746) has occurred while \output is active []
-
- [383 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-Ir.png>]
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-I.png, id=5579, 164.7756pt x 156.5
-85pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-I.png Graphic file (type png)
-
-<use imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-I.png  use
-d on input line 2249.
-(pdftex.def)             Requested size: 128.0374pt x 121.67944pt.
- [384 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/geo2c24-Ir.png> <./imagenes/CEPRE-
-UNA2024-I/etapa2/bio/geo3c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2262--2263
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2276--2277
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2278--2279
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2282--2283
-[]$\OML/lmm/m/it/10 l \OT1/lmr/m/n/10 = [] =
- []
-
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-Ir.png, id=5589, 180.1932pt x 125.
-5089pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-Ir.png Graphic file (type png
-)
-<use imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-Ir.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-Ir.png  us
-ed on input line 2292.
-(pdftex.def)             Requested size: 128.0374pt x 89.18279pt.
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo1c24-I.png, id=5590, 173.2071pt x 93.
-951pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo1c24-I.png Graphic file (type pn
-g)
-<use imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo1c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo1c24-I.png  u
-sed on input line 2301.
-(pdftex.def)             Requested size: 128.0374pt x 69.45097pt.
-[385 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-Ir.png> <./imagenes/CEPRE-U
-NA2024-I/etapa2/bio/trigo1c24-I.png>]
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo2c24-I.png, id=5606, 125.0271pt x 141
-.4083pt>
-File: imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo2c24-I.png Graphic file (type pn
-g)
-<use imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo2c24-I.png>
-Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo2c24-I.png  u
-sed on input line 2343.
-(pdftex.def)             Requested size: 128.0374pt x 144.82574pt.
- [386 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo2c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2356--2357
+Underfull \hbox (badness 10000) in paragraph at lines 2389--2390
 
  []
 
@@ -4639,132 +2991,1686 @@ Underfull \hbox (badness 10000) in paragraph at lines 2391--2392
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
+
+ []
+
+[165]
+Underfull \hbox (badness 10000) in paragraph at lines 2412--2416
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2439--2445
+
+ []
+
+[166]
+Underfull \hbox (badness 10000) in paragraph at lines 2465--2466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2469--2470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
+
+ []
+
+[167]
+Underfull \hbox (badness 10000) in paragraph at lines 2476--2477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2478--2479
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2498--2499
+
+ []
+
+[168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178] [179]
+Underfull \hbox (badness 10000) in paragraph at lines 2960--2961
+
+ []
+
+
+Overfull \hbox (0.55722pt too wide) in paragraph at lines 2984--2985
+[]\T1/lmr/m/n/10 DE CUÁN-TAS FOR-MAS SE PUE-DE LEER LA PA-LA-BRA UNAP? 
+ []
+
+[180]
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
+010.
+ (C:\Users\DAD 2\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+<imagenes/general2024-I/etapa2/bio/rm2g24-II.png, id=2610, 126.9543pt x 86.0013
+pt>
+File: imagenes/general2024-I/etapa2/bio/rm2g24-II.png Graphic file (type png)
+<use imagenes/general2024-I/etapa2/bio/rm2g24-II.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/rm2g24-II.png  used 
+on input line 3051.
+(pdftex.def)             Requested size: 128.0374pt x 86.73462pt.
+
+[181]
+<imagenes/general2024-I/etapa2/bio/rm2g24-IIr.png, id=2622, 181.3977pt x 66.488
+4pt>
+File: imagenes/general2024-I/etapa2/bio/rm2g24-IIr.png Graphic file (type png)
+<use imagenes/general2024-I/etapa2/bio/rm2g24-IIr.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/rm2g24-IIr.png  used
+ on input line 3086.
+(pdftex.def)             Requested size: 156.49014pt x 57.3605pt.
+
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 3086--3087
+ [][] 
+ []
+
+[182 <./imagenes/general2024-I/etapa2/bio/rm2g24-II.png> <./imagenes/general202
+4-I/etapa2/bio/rm2g24-IIr.png>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 3129.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3154--3155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3158--3159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3160--3161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3162--3164
+
+ []
+
+[183]
+Overfull \hbox (3.33151pt too wide) in paragraph at lines 3191--3192
+[]$ []   \OT1/lmr/m/n/10 +  [] +  [] = 939$ 
+ []
+
+<imagenes/general2024-I/etapa2/bio/rm5g24-II.png, id=2652, 131.2905pt x 119.486
+4pt>
+File: imagenes/general2024-I/etapa2/bio/rm5g24-II.png Graphic file (type png)
+<use imagenes/general2024-I/etapa2/bio/rm5g24-II.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/rm5g24-II.png  used 
+on input line 3214.
+(pdftex.def)             Requested size: 99.58464pt x 90.6301pt.
+[184 <./imagenes/general2024-I/etapa2/bio/rm5g24-II.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3245--3246
+
+ []
+
+<imagenes/general2024-I/etapa2/bio/rm5g24-IIr.png, id=2666, 131.2905pt x 119.48
+64pt>
+File: imagenes/general2024-I/etapa2/bio/rm5g24-IIr.png Graphic file (type png)
+<use imagenes/general2024-I/etapa2/bio/rm5g24-IIr.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/bio/rm5g24-IIr.png  used
+ on input line 3255.
+(pdftex.def)             Requested size: 99.58464pt x 90.6301pt.
+[185 <./imagenes/general2024-I/etapa2/bio/rm5g24-IIr.png>] [186] [187] [188]
+[189] [190]
+Underfull \hbox (badness 10000) in paragraph at lines 3528--3531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3532--3533
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3534--3535
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3536--3537
+
+ []
+
+[191]
+Underfull \hbox (badness 10000) in paragraph at lines 3555--3557
+
+ []
+
+[192]
+Underfull \hbox (badness 10000) in paragraph at lines 3619--3620
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3621--3622
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3623--3625
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3626--3627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3662--3663
+
+ []
+
+[193]
+Underfull \hbox (badness 10000) in paragraph at lines 3693--3694
+
+ []
+
+[194]
+<imagenes/general2024-I/etapa2/soc/geometria1g24-II.png, id=2808, 127.1952pt x 
+73.4745pt>
+File: imagenes/general2024-I/etapa2/soc/geometria1g24-II.png Graphic file (type
+ png)
+<use imagenes/general2024-I/etapa2/soc/geometria1g24-II.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/geometria1g24-II.png
+  used on input line 3759.
+(pdftex.def)             Requested size: 128.0374pt x 73.96423pt.
+ [195 <./imagenes/general2024-I/etapa2/soc/geometria1g24-II.png>]
+<imagenes/general2024-I/etapa2/soc/geometria2g24-II.png, id=2824, 181.1568pt x 
+94.4328pt>
+File: imagenes/general2024-I/etapa2/soc/geometria2g24-II.png Graphic file (type
+ png)
+<use imagenes/general2024-I/etapa2/soc/geometria2g24-II.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/geometria2g24-II.png
+  used on input line 3788.
+(pdftex.def)             Requested size: 184.9429pt x 96.40518pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3803--3804
+
+ []
+
+<imagenes/general2024-I/etapa2/soc/geometria2g24-IIr.png, id=2825, 181.1568pt x
+ 94.4328pt>
+File: imagenes/general2024-I/etapa2/soc/geometria2g24-IIr.png Graphic file (typ
+e png)
+<use imagenes/general2024-I/etapa2/soc/geometria2g24-IIr.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/geometria2g24-IIr.pn
+g  used on input line 3805.
+(pdftex.def)             Requested size: 184.9429pt x 96.40518pt.
+[196 <./imagenes/general2024-I/etapa2/soc/geometria2g24-II.png> <./imagenes/gen
+eral2024-I/etapa2/soc/geometria2g24-IIr.png>]
+<imagenes/general2024-I/etapa2/soc/trigo1g24-II.png, id=2838, 163.812pt x 100.9
+371pt>
+File: imagenes/general2024-I/etapa2/soc/trigo1g24-II.png Graphic file (type png
+)
+<use imagenes/general2024-I/etapa2/soc/trigo1g24-II.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/trigo1g24-II.png  us
+ed on input line 3836.
+(pdftex.def)             Requested size: 184.9429pt x 113.9667pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3849--3850
+
+ []
+
+<imagenes/general2024-I/etapa2/soc/trigo1g24-IIr.png, id=2839, 166.9437pt x 132
+.2541pt>
+File: imagenes/general2024-I/etapa2/soc/trigo1g24-IIr.png Graphic file (type pn
+g)
+<use imagenes/general2024-I/etapa2/soc/trigo1g24-IIr.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/trigo1g24-IIr.png  u
+sed on input line 3851.
+(pdftex.def)             Requested size: 192.91165pt x 152.82962pt.
+[197 <./imagenes/general2024-I/etapa2/soc/trigo1g24-II.png> <./imagenes/general
+2024-I/etapa2/soc/trigo1g24-IIr.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3877--3878
+
+ []
+
+<imagenes/general2024-I/etapa2/soc/fisica1g24-II.png, id=2853, 124.7862pt x 117
+.0774pt>
+File: imagenes/general2024-I/etapa2/soc/fisica1g24-II.png Graphic file (type pn
+g)
+<use imagenes/general2024-I/etapa2/soc/fisica1g24-II.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/fisica1g24-II.png  u
+sed on input line 3910.
+(pdftex.def)             Requested size: 128.60449pt x 120.6625pt.
+[198]
+Underfull \hbox (badness 10000) in paragraph at lines 3923--3924
+
+ []
+
+[199 <./imagenes/general2024-I/etapa2/soc/fisica1g24-II.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3961--3962
+
+ []
+
+<imagenes/general2024-I/etapa2/soc/fisica2g24-IIr.png, id=2875, 193.2018pt x 14
+5.7445pt>
+File: imagenes/general2024-I/etapa2/soc/fisica2g24-IIr.png Graphic file (type p
+ng)
+<use imagenes/general2024-I/etapa2/soc/fisica2g24-IIr.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/fisica2g24-IIr.png  
+used on input line 3965.
+(pdftex.def)             Requested size: 142.26378pt x 107.3244pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3968--3969
+
+ []
+
+[200 <./imagenes/general2024-I/etapa2/soc/fisica2g24-IIr.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 4012--4013
+
+ []
+
+[201]
+Underfull \hbox (badness 10000) in paragraph at lines 4041--4042
+
+ []
+
+[202] [203]
+Underfull \hbox (badness 10000) in paragraph at lines 4142--4148
+
+ []
+
+[204]
+Overfull \hbox (8.79301pt too wide) in paragraph at lines 4162--4164
+\T1/lmr/m/n/10 fi-lo-so-fía: la pri-ma-cía en-tre el ser (ma-te-ria) y el pen-s
+ar (idea/conciencia). 
+ []
+
+[205] [206] [207] [208] [209] [210] [211] [212]
+Underfull \hbox (badness 10000) in paragraph at lines 4448--4451
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4466--4469
+
+ []
+
+[213]
+Underfull \hbox (badness 10000) in paragraph at lines 4484--4487
+
+ []
+
+[214] [215]
+Underfull \hbox (badness 10000) in paragraph at lines 4554--4559
+
+ []
+
+[216]
+<imagenes/general2024-I/etapa2/soc/rm1g24-II.png, id=3154, 135.1449pt x 108.164
+1pt>
+File: imagenes/general2024-I/etapa2/soc/rm1g24-II.png Graphic file (type png)
+<use imagenes/general2024-I/etapa2/soc/rm1g24-II.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/rm1g24-II.png  used 
+on input line 4608.
+(pdftex.def)             Requested size: 128.0374pt x 102.47801pt.
+ [217 <./imagenes/general2024-I/etapa2/soc/rm1g24-II.png>] [218]
+<imagenes/general2024-I/etapa2/soc/rm4g24-II.png, id=3181, 140.6856pt x 120.45p
+t>
+File: imagenes/general2024-I/etapa2/soc/rm4g24-II.png Graphic file (type png)
+<use imagenes/general2024-I/etapa2/soc/rm4g24-II.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/rm4g24-II.png  used 
+on input line 4721.
+(pdftex.def)             Requested size: 96.45583pt x 82.58493pt.
+<imagenes/general2024-I/etapa2/soc/rm4g24-IIr.png, id=3182, 144.54pt x 120.45pt
+>
+File: imagenes/general2024-I/etapa2/soc/rm4g24-IIr.png Graphic file (type png)
+<use imagenes/general2024-I/etapa2/soc/rm4g24-IIr.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/rm4g24-IIr.png  used
+ on input line 4737.
+(pdftex.def)             Requested size: 99.58464pt x 82.98743pt.
+
+Overfull \hbox (34.47852pt too wide) in paragraph at lines 4737--4738
+ [][] 
+ []
+
+[219 <./imagenes/general2024-I/etapa2/soc/rm4g24-II.png>]
+<imagenes/general2024-I/etapa2/soc/rm5g24-II.png, id=3195, 122.3772pt x 107.441
+4pt>
+File: imagenes/general2024-I/etapa2/soc/rm5g24-II.png Graphic file (type png)
+<use imagenes/general2024-I/etapa2/soc/rm5g24-II.png>
+Package pdftex.def Info: imagenes/general2024-I/etapa2/soc/rm5g24-II.png  used 
+on input line 4760.
+(pdftex.def)             Requested size: 96.45583pt x 84.68431pt.
+ [220 <./imagenes/general2024-I/etapa2/soc/rm4g24-IIr.png> <./imagenes/general2
+024-I/etapa2/soc/rm5g24-II.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 4871--4874
+
+ []
+
+[221]
+Underfull \hbox (badness 10000) in paragraph at lines 4889--4892
+
+ []
+
+[222]
+Underfull \hbox (badness 10000) in paragraph at lines 4923--4926
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4941--4944
+
+ []
+
+[223] [224]
+Overfull \hbox (3.57352pt too wide) in paragraph at lines 5006--5007
+[]\T1/lmr/m/n/10 ¾Hayk'a raph-ra-ku-na-yuq-taq wall-pa-ku-na-ri kan-ku? / ¾Wall
+-pa-xa qawqha
+ []
+
+[225]) [226]
+\openout2 = `examenes/2024/cepre-2024-I.aux'.
+
+ (examenes/2024/cepre-2024-I.tex [227
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 41--48
+
+ []
+
+[228
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 84--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--103
+
+ []
+
+[229] [230]
+Underfull \hbox (badness 10000) in paragraph at lines 152--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--186
+
+ []
+
+[231]
+Underfull \hbox (badness 10000) in paragraph at lines 201--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--235
+
+ []
+
+[232]
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-I.png, id=3372, 143.3355pt x 81.42
+42pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-I.png  use
+d on input line 250.
+(pdftex.def)             Requested size: 128.0374pt x 72.73691pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-Ir.png, id=3373, 171.5208pt x 81.4
+242pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-Ir.png  us
+ed on input line 285.
+(pdftex.def)             Requested size: 156.49014pt x 74.28995pt.
+
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 285--286
+ [][] 
+ []
+
+[233 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/geo1c24-I.png> <./imagenes/CEPRE-UN
+A2024-I/etapa1/ing/geo1c24-Ir.png>]
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-I.png, id=3387, 155.3805pt x 125.5
+089pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-I.png  use
+d on input line 295.
+(pdftex.def)             Requested size: 128.0374pt x 103.42545pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-Ir.png, id=3388, 173.448pt x 119.2
+455pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-Ir.png  us
+ed on input line 326.
+(pdftex.def)             Requested size: 156.49014pt x 107.59286pt.
+
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 326--327
+ [][] 
+ []
+
+[234 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-I.png> <./imagenes/CEPRE-UN
+A2024-I/etapa1/ing/geo2c24-Ir.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/geo3c24-I.png, id=3402, 154.8987pt x 103.3
+461pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo3c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/geo3c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/geo3c24-I.png  use
+d on input line 361.
+(pdftex.def)             Requested size: 128.0374pt x 85.42873pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+
+ []
+
+[235 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/geo3c24-I.png>]
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-I.png, id=3419, 132.9768
+pt x 152.2488pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-I.png Graphic file 
+(type png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-
+I.png  used on input line 436.
+(pdftex.def)             Requested size: 128.0374pt x 146.60089pt.
+ [236]
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-Ir.png, id=3431, 177.543
+3pt x 152.0079pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-Ir.png Graphic file
+ (type png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-
+Ir.png  used on input line 453.
+(pdftex.def)             Requested size: 156.49014pt x 133.99002pt.
+[237 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-I.png> <./imagene
+s/CEPRE-UNA2024-I/etapa1/ing/trigonometria2c24-Ir.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--484
+[]$\OML/lmm/m/it/10 d\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 A; B\OT1/lmr/m/n/10 ) =
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria3c24-Ir.png, id=3444, 171.761
+7pt x 138.9993pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria3c24-Ir.png Graphic file
+ (type png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria3c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria3c24-
+Ir.png  used on input line 490.
+(pdftex.def)             Requested size: 156.49014pt x 126.64862pt.
+
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 490--491
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria4c24-Ir.png, id=3445, 175.857
+pt x 103.1052pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria4c24-Ir.png Graphic file
+ (type png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria4c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria4c24-
+Ir.png  used on input line 531.
+(pdftex.def)             Requested size: 156.49014pt x 91.75703pt.
+
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 531--532
+ [][] 
+ []
+
+[238 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria3c24-Ir.png>]
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-I.png, id=3462, 133.4586pt x 
+40.7121pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-I.png Graphic file (type
+ png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-I.png
+  used on input line 548.
+(pdftex.def)             Requested size: 156.49014pt x 47.73915pt.
+ [239 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/trigonometria4c24-Ir.png> <./image
+nes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 562--563
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-Ir.png, id=3475, 142.3719pt x
+ 56.1297pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-Ir.png Graphic file (typ
+e png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-Ir.pn
+g  used on input line 577.
+(pdftex.def)             Requested size: 156.49014pt x 61.70087pt.
+
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 577--578
+ [][] 
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica2c2024-I.png, id=3476, 138.7584pt x 
+82.6287pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica2c2024-I.png Graphic file (type
+ png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica2c2024-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica2c2024-I.png
+  used on input line 588.
+(pdftex.def)             Requested size: 156.49014pt x 93.19278pt.
+[240 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica1c2024-Ir.png> <./imagenes/CE
+PRE-UNA2024-I/etapa1/ing/Fisica2c2024-I.png>]
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-I.png, id=3490, 157.7895pt x 
+56.3706pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-I.png Graphic file (type
+ png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-I.png
+  used on input line 615.
+(pdftex.def)             Requested size: 184.9429pt x 66.07375pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--630
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-Ir.png, id=3491, 67.452pt x 1
+05.5142pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-Ir.png Graphic file (typ
+e png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-Ir.pn
+g  used on input line 649.
+(pdftex.def)             Requested size: 68.28644pt x 106.82932pt.
+[241 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-I.png> <./imagenes/CEP
+RE-UNA2024-I/etapa1/ing/Fisica3c2024-Ir.png>]
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica4c2024-I.png, id=3504, 159.2349pt x 
+127.9179pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica4c2024-I.png Graphic file (type
+ png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica4c2024-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica4c2024-I.png
+  used on input line 660.
+(pdftex.def)             Requested size: 184.9429pt x 148.56831pt.
+ [242 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica4c2024-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 734--735
+
+ []
+
+[243]
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-I.png, id=3532, 230.7822pt x 7
+1.0655pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-I.png Graphic file (type 
+png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-I.png 
+ used on input line 766.
+(pdftex.def)             Requested size: 239.00298pt x 73.59622pt.
+ [244 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 780--781
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-Ir.png, id=3546, 183.3249pt x 
+119.4864pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-Ir.png Graphic file (type
+ png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-Ir.png
+  used on input line 782.
+(pdftex.def)             Requested size: 182.09746pt x 118.693pt.
+[245 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/quimica4c24-Ir.png>] [246] [247]
+[248] [249] [250] [251] [252] [253]
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1193
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-I.png, id=3713, 145.5036pt x 97.082
+7pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-I.png Graphic file (type png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-I.png  used
+ on input line 1255.
+(pdftex.def)             Requested size: 156.49014pt x 104.41518pt.
+[254 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1270--1271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1274--1276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1281--1283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1285--1287
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-Ir.png, id=3725, 145.5036pt x 97.08
+27pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-Ir.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-Ir.png  use
+d on input line 1297.
+(pdftex.def)             Requested size: 156.49014pt x 104.41518pt.
+
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 1297--1298
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1315--1316
+
+ []
+
+[255 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/rm2c24-Ir.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1380--1381
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1390
+
+ []
+
+[256]
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1412--1414
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1416--1418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1420--1423
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1424--1427
+
+ []
+
+[257]
+Underfull \hbox (badness 10000) in paragraph at lines 1452--1453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1454--1455
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/ing/rm6c24-I.png, id=3762, 87.4467pt x 84.0741
+pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm6c24-I.png Graphic file (type png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/ing/rm6c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/ing/rm6c24-I.png  used
+ on input line 1464.
+(pdftex.def)             Requested size: 128.0374pt x 123.11145pt.
+[258 <./imagenes/CEPRE-UNA2024-I/etapa1/ing/rm6c24-I.png>] [259] [260] [261]
+[262] [263]
+Underfull \hbox (badness 10000) in paragraph at lines 1727--1728
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1781--1782
+
+ []
+
+[264]
+Underfull \hbox (badness 10000) in paragraph at lines 1817--1818
+
+ []
+
+[265]
+Underfull \hbox (badness 10000) in paragraph at lines 1881--1882
+
+ []
+
+[266]
+Underfull \hbox (badness 10000) in paragraph at lines 1907--1908
+
+ []
+
+[267]
+Underfull \hbox (badness 10000) in paragraph at lines 1934--1935
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-I.png, id=3904, 119.4864pt x 98.28
+72pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-I.png  use
+d on input line 1960.
+(pdftex.def)             Requested size: 128.0374pt x 105.32222pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1973--1974
+
+ []
+
+[268 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-I.png>]
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-Ir.png, id=3919, 127.4361pt x 99.2
+508pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-Ir.png  us
+ed on input line 1999.
+(pdftex.def)             Requested size: 128.0374pt x 99.7291pt.
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-I.png, id=3920, 170.5572pt x 149.1
+171pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-I.png  use
+d on input line 2008.
+(pdftex.def)             Requested size: 119.50148pt x 104.47908pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2021--2022
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-Ir.png, id=3921, 170.5572pt x 156.
+8259pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-Ir.png  us
+ed on input line 2049.
+(pdftex.def)             Requested size: 128.0374pt x 117.73398pt.
+[269 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/geo1c24-Ir.png> <./imagenes/CEPRE-U
+NA2024-I/etapa1/bio/geo2c24-I.png>]
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-I.png, id=3935, 192.72pt x 165.257
+4pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-I.png  use
+d on input line 2057.
+(pdftex.def)             Requested size: 128.0374pt x 109.79138pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2070--2071
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-Ir.png, id=3936, 172.4844pt x 70.1
+019pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-Ir.png  us
+ed on input line 2091.
+(pdftex.def)             Requested size: 128.0374pt x 52.04144pt.
+[270 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/geo2c24-Ir.png> <./imagenes/CEPRE-U
+NA2024-I/etapa1/bio/geo3c24-I.png>]
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-I.png, id=3949, 124.7862pt x 163
+.0893pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-I.png Graphic file (type pn
+g)
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-I.png  u
+sed on input line 2110.
+(pdftex.def)             Requested size: 128.0374pt x 167.34427pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2123--2124
+
+ []
+
+[271 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-Ir.png> <./imagenes/CEPRE-U
+NA2024-I/etapa1/bio/trigo1c24-I.png>]
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-Ir.png, id=3962, 129.1224pt x 17
+3.2071pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-Ir.png Graphic file (type p
+ng)
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-Ir.png  
+used on input line 2138.
+(pdftex.def)             Requested size: 128.0374pt x 171.76628pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2157--2158
+
+ []
+
+[272 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-Ir.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2185--2186
+
+ []
+
+[273]
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-I.png, id=3984, 162.1257pt x 65
+.5248pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-I.png Graphic file (type p
+ng)
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-I.png  
+used on input line 2236.
+(pdftex.def)             Requested size: 128.0374pt x 51.74701pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2249--2250
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-Ir.png, id=3985, 161.6439pt x 7
+4.1972pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-Ir.png Graphic file (type 
+png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-Ir.png 
+ used on input line 2268.
+(pdftex.def)             Requested size: 128.0374pt x 58.77136pt.
+[274 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica1c24-I.png> <./imagenes/CEPRE
+-UNA2024-I/etapa1/bio/fisica1c24-Ir.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2289--2290
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica3c24-I.png, id=4001, 190.0701pt x 13
+5.8676pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica3c24-I.png Graphic file (type p
+ng)
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica3c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica3c24-I.png  
+used on input line 2320.
+(pdftex.def)             Requested size: 128.0374pt x 91.52629pt.
+[275]
+Underfull \hbox (badness 10000) in paragraph at lines 2333--2334
+
+ []
+
+[276 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/fisica3c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2376--2377
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2402--2403
+
+ []
+
+[277]
+Underfull \hbox (badness 10000) in paragraph at lines 2432--2433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2454--2455
+
+ []
+
+[278]
+Underfull \hbox (badness 10000) in paragraph at lines 2494--2495
+
+ []
+
+[279] [280] [281] [282] [283] [284] [285] [286] [287]
+Overfull \hbox (69.09874pt too wide) in paragraph at lines 2868--2871
+\T1/lmr/m/n/10 La cla-si-fi-ca-ción ge-ne-ral de los tri-bu-tos en el Pe-rú es:
+ $[]\OML/lmm/m/it/10 ; [][][]$ 
+ []
+
+[288] [289]
+Overfull \hbox (187.46587pt too wide) in paragraph at lines 2944--2948
+\T1/lmr/m/n/10 La co-ma elíp-ti-ca sus-ti-tu-ye un ver-bo omi-ti-do. En: $[]$
+ []
+
+[290]
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-I.png, id=4246, 53.2389pt x 63.1158
+pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-I.png Graphic file (type png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-I.png  used
+ on input line 3008.
+(pdftex.def)             Requested size: 71.13188pt x 84.3349pt.
+ [291 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3022--3023
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-Ir.png, id=4260, 53.2389pt x 69.138
+3pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-Ir.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-Ir.png  use
+d on input line 3025.
+(pdftex.def)             Requested size: 71.13188pt x 92.38214pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3054--3055
+
+ []
+
+[292 <./imagenes/CEPRE-UNA2024-I/etapa1/bio/rm1c24-Ir.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3102--3103
+
+ []
+
+[293]
+Underfull \hbox (badness 10000) in paragraph at lines 3138--3139
+
+ []
+
+[294]
+Underfull \hbox (badness 10000) in paragraph at lines 3184--3185
+
+ []
+
+[295]
+Underfull \hbox (badness 10000) in paragraph at lines 3223--3224
+
+ []
+
+[296] [297] [298] [299] [300]
+Overfull \hbox (8.294pt too wide) in paragraph at lines 3508--3509
+[]\T1/lmr/m/n/10 ¾Imatataq qu-wi-ku-na-ri mikhun-ku? / ¾Kun-sa wank'unakaxa man
+q'apxi? 
+ []
+
+[301] [302] [303]
+Underfull \hbox (badness 10000) in paragraph at lines 3654--3655
+
+ []
+
+[304]
+Underfull \hbox (badness 10000) in paragraph at lines 3700--3707
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/soc/geo1c24-I.png, id=4441, 172.9662pt x 72.27
+pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo1c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa1/soc/geo1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo1c24-I.png  use
+d on input line 3722.
+(pdftex.def)             Requested size: 156.49014pt x 65.38974pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3735--3742
+
+ []
+
+[305 <./imagenes/CEPRE-UNA2024-I/etapa1/soc/geo1c24-I.png>]
+<imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-I.png, id=4460, 185.493pt x 167.66
+64pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-I.png  use
+d on input line 3748.
+(pdftex.def)             Requested size: 156.49014pt x 141.45537pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3761--3762
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3769--3770
+[]\T1/lmr/m/n/10 El $\OMS/lmsy/m/n/10 4\OML/lmm/m/it/10 ABD$ \T1/lmr/m/n/10 es 
+isós-ce-les
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 3769--3770
+\T1/lmr/m/n/10 ($\OML/lmm/m/it/10 AB \OT1/lmr/m/n/10 = \OML/lmm/m/it/10 BD$\T1/
+lmr/m/n/10 ), de don-de
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 3770--3771
+\OT1/lmr/m/n/10 50[] + 50[] = 180[] \OMS/lmsy/m/n/10 )
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-Ir.png, id=4461, 185.493pt x 167.6
+664pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-Ir.png  us
+ed on input line 3783.
+(pdftex.def)             Requested size: 156.49014pt x 141.45537pt.
+
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 3783--3784
+ [][] 
+ []
+
+[306 <./imagenes/CEPRE-UNA2024-I/etapa1/soc/geo2c24-I.png>] [307 <./imagenes/CE
+PRE-UNA2024-I/etapa1/soc/geo2c24-Ir.png>] [308]
+<imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica1c24-I.png, id=4494, 158.0304pt x 10
+8.1641pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica1c24-I.png Graphic file (type p
+ng)
+<use imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica1c24-I.png  
+used on input line 3875.
+(pdftex.def)             Requested size: 156.49014pt x 107.11908pt.
+ [309 <./imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica1c24-I.png>]
+<imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-I.png, id=4506, 156.1032pt x 11
+2.2594pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-I.png Graphic file (type p
+ng)
+<use imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-I.png  
+used on input line 3907.
+(pdftex.def)             Requested size: 128.0374pt x 92.08069pt.
+<imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-II.png, id=4507, 156.1032pt x 1
+10.5731pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-II.png Graphic file (type 
+png)
+<use imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-II.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-II.png 
+ used on input line 3913.
+(pdftex.def)             Requested size: 128.0374pt x 90.69751pt.
+ [310 <./imagenes/CEPRE-UNA2024-I/etapa1/soc/fisica2c24-I.png> <./imagenes/CEPR
+E-UNA2024-I/etapa1/soc/fisica2c24-II.png>]
+[311] [312] [313]
+Underfull \hbox (badness 10000) in paragraph at lines 4100--4102
+
+ []
+
+[314] [315] [316] [317] [318] [319] [320] [321] [322] [323] [324] [325]
+Overfull \hbox (16.70499pt too wide) detected at line 4560
+\OT1/lmr/m/n/10 ([]) \OMS/lmsy/m/n/10 ^^B \OT1/lmr/m/n/10 ([])
+ []
+
+[326]
+Underfull \hbox (badness 10000) in paragraph at lines 4588--4589
+
+ []
+
+[327]
+Underfull \hbox (badness 10000) in paragraph at lines 4647--4648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4651--4652
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4655--4656
+
+ []
+
+[328] [329] [330] [331] [332]
+<imagenes/CEPRE-UNA2024-I/etapa1/soc/ingles1c24-I.png, id=4876, 77.8107pt x 77.
+8107pt>
+File: imagenes/CEPRE-UNA2024-I/etapa1/soc/ingles1c24-I.png Graphic file (type p
+ng)
+<use imagenes/CEPRE-UNA2024-I/etapa1/soc/ingles1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa1/soc/ingles1c24-I.png  
+used on input line 4852.
+(pdftex.def)             Requested size: 99.58464pt x 99.5914pt.
+ [333 <./imagenes/CEPRE-UNA2024-I/etapa1/soc/ingles1c24-I.png>] [334]) [335]
+\openout2 = `examenes/2024/cepre-2024-II.aux'.
+
+ (examenes/2024/cepre-2024-II.tex [336
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+[337
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+[338]
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/alg1c24-I.png, id=4945, 186.4566pt x 113.2
+23pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/alg1c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/alg1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/alg1c24-I.png  use
+d on input line 160.
+(pdftex.def)             Requested size: 128.0374pt x 77.74904pt.
+[339]
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+[340 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/alg1c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+[341] [342]
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-I.png, id=4993, 152.9715pt x 112.0
+185pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-I.png  use
+d on input line 317.
+(pdftex.def)             Requested size: 128.0374pt x 93.75986pt.
+[343 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-Ir.png, id=5003, 152.9715pt x 112.
+0185pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-Ir.png  us
+ed on input line 352.
+(pdftex.def)             Requested size: 128.0374pt x 93.75986pt.
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-I.png, id=5004, 153.4533pt x 124.3
+044pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-I.png  use
+d on input line 363.
+(pdftex.def)             Requested size: 128.0374pt x 103.72646pt.
+[344 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/geo1c24-Ir.png> <./imagenes/CEPRE-U
+NA2024-I/etapa2/ing/geo2c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-Ir.png, id=5017, 163.5711pt x 153.
+2124pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-Ir.png  us
+ed on input line 400.
+(pdftex.def)             Requested size: 128.0374pt x 119.933pt.
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-I.png, id=5018, 185.9748pt x 80.94
+24pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-I.png  use
+d on input line 414.
+(pdftex.def)             Requested size: 156.49014pt x 68.11095pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--448
+[]\T1/lmr/m/n/10 También del cua-dri-lá-te-ro
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-Ir.png, id=5019, 191.5155pt x 87.6
+876pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-Ir.png  us
+ed on input line 460.
+(pdftex.def)             Requested size: 156.49014pt x 71.65541pt.
+
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 460--461
+ [][] 
+ []
+
+[345 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/geo2c24-Ir.png> <./imagenes/CEPRE-U
+NA2024-I/etapa2/ing/geo3c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+
+ []
+
+[346 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/geo3c24-Ir.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo1c24-Ir.png, id=5046, 184.2885pt x 12
+7.1952pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo1c24-Ir.png Graphic file (type p
+ng)
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo1c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo1c24-Ir.png  
+used on input line 570.
+(pdftex.def)             Requested size: 156.49014pt x 108.01161pt.
+
+Overfull \hbox (11.80885pt too wide) in paragraph at lines 570--571
+ [][] 
+ []
+
+[347]
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-I.png, id=5058, 173.448pt x 146.
+2263pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-I.png Graphic file (type pn
+g)
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-I.png  u
+sed on input line 580.
+(pdftex.def)             Requested size: 142.26378pt x 119.94203pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--594
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-Ir.png, id=5059, 173.6889pt x 14
+6.2263pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-Ir.png Graphic file (type p
+ng)
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-Ir.png  
+used on input line 615.
+(pdftex.def)             Requested size: 142.26378pt x 119.77023pt.
+[348 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo1c24-Ir.png> <./imagenes/CEPRE
+-UNA2024-I/etapa2/ing/trigo2c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 637--638
+
+ []
+
+[349 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/trigo2c24-Ir.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 681--682
+
+ []
+
+[350]
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/fisica1c24-I.png, id=5093, 134.904pt x 162
+.8484pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/fisica1c24-I.png Graphic file (type p
+ng)
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/fisica1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/fisica1c24-I.png  
+used on input line 746.
+(pdftex.def)             Requested size: 142.26378pt x 171.74878pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 760--761
+
+ []
+
+[351 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/fisica1c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
+
+ []
+
+[352]
+Underfull \hbox (badness 10000) in paragraph at lines 814--815
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 840--841
+
+ []
+
+[353]
+
+LaTeX Warning: Command \r invalid in math mode on input line 860.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--872
+
+ []
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 877.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 877.
+
+[354]
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 939--940
+
+ []
+
+[355]
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/quimica4c24-I.png, id=5158, 190.7928pt x 1
+24.3044pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/quimica4c24-I.png Graphic file (type 
+png)
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/quimica4c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/quimica4c24-I.png 
+ used on input line 964.
+(pdftex.def)             Requested size: 128.0374pt x 83.42195pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 978--979
+
+ []
+
+[356 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/quimica4c24-I.png>] [357] [358]
+[359] [360] [361] [362] [363] [364] [365] [366]
+<imagenes/CEPRE-UNA2024-I/etapa2/ing/rm3c24-I.png, id=5338, 86.4831pt x 98.2872
+pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/ing/rm3c24-I.png Graphic file (type png)
+<use imagenes/CEPRE-UNA2024-I/etapa2/ing/rm3c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/ing/rm3c24-I.png  used
+ on input line 1441.
+(pdftex.def)             Requested size: 128.0374pt x 145.53624pt.
+ [367 <./imagenes/CEPRE-UNA2024-I/etapa2/ing/rm3c24-I.png>] [368] [369] [370] [
+371] [372] [373] [374] [375]
+[376]
+Underfull \hbox (badness 10000) in paragraph at lines 1912--1913
+
+ []
+
+[377] [378]
+Underfull \hbox (badness 10000) in paragraph at lines 2017--2018
+
+ []
+
+[379] [380] [381]
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-I.png, id=5528, 148.6353pt x 93.71
+01pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-I.png  use
+d on input line 2143.
+(pdftex.def)             Requested size: 139.41832pt x 87.90446pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2156--2157
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-Ir.png, id=5529, 149.1171pt x 154.
+8987pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-Ir.png  us
+ed on input line 2186.
+(pdftex.def)             Requested size: 128.0374pt x 133.00699pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [382 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2203--2204
+
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/geo2c24-Ir.png, id=5541, 182.1204pt x 172.
+2435pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo2c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa2/bio/geo2c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo2c24-Ir.png  us
+ed on input line 2248.
+(pdftex.def)             Requested size: 128.0374pt x 121.10052pt.
+
+Underfull \vbox (badness 3746) has occurred while \output is active []
+
+ [383 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/geo1c24-Ir.png>]
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-I.png, id=5554, 164.7756pt x 156.5
+85pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-I.png Graphic file (type png)
+
+<use imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-I.png  use
+d on input line 2258.
+(pdftex.def)             Requested size: 128.0374pt x 121.67944pt.
+ [384 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/geo2c24-Ir.png> <./imagenes/CEPRE-
+UNA2024-I/etapa2/bio/geo3c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2271--2272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2285--2286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2287--2288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2291--2292
+[]$\OML/lmm/m/it/10 l \OT1/lmr/m/n/10 = [] =
+ []
+
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-Ir.png, id=5564, 180.1932pt x 125.
+5089pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-Ir.png Graphic file (type png
+)
+<use imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-Ir.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-Ir.png  us
+ed on input line 2301.
+(pdftex.def)             Requested size: 128.0374pt x 89.18279pt.
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo1c24-I.png, id=5565, 173.2071pt x 93.
+951pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo1c24-I.png Graphic file (type pn
+g)
+<use imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo1c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo1c24-I.png  u
+sed on input line 2310.
+(pdftex.def)             Requested size: 128.0374pt x 69.45097pt.
+[385 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/geo3c24-Ir.png> <./imagenes/CEPRE-U
+NA2024-I/etapa2/bio/trigo1c24-I.png>]
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo2c24-I.png, id=5581, 125.0271pt x 141
+.4083pt>
+File: imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo2c24-I.png Graphic file (type pn
+g)
+<use imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo2c24-I.png>
+Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo2c24-I.png  u
+sed on input line 2352.
+(pdftex.def)             Requested size: 128.0374pt x 144.82574pt.
+ [386 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/trigo2c24-I.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2365--2366
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2400--2401
+
+ []
+
 [387]
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/fisica1c24-I.png, id=5628, 138.9993pt x 11
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/fisica1c24-I.png, id=5603, 138.9993pt x 11
 9.2455pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/bio/fisica1c24-I.png Graphic file (type p
 ng)
 <use imagenes/CEPRE-UNA2024-I/etapa2/bio/fisica1c24-I.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/fisica1c24-I.png  
-used on input line 2446.
+used on input line 2455.
 (pdftex.def)             Requested size: 128.0374pt x 109.85274pt.
  [388] [389 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/fisica1c24-I.png>]
 [390] [391]
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/quimica4c24-I.png, id=5677, 114.4275pt x 6
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/quimica4c24-I.png, id=5652, 114.4275pt x 6
 3.3567pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/bio/quimica4c24-I.png Graphic file (type 
 png)
 <use imagenes/CEPRE-UNA2024-I/etapa2/bio/quimica4c24-I.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/quimica4c24-I.png 
- used on input line 2617.
+ used on input line 2626.
 (pdftex.def)             Requested size: 128.0374pt x 70.8952pt.
  [392] [393 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/quimica4c24-I.png>] [394] [3
 95] [396] [397] [398] [399] [400] [401] [402] [403] [404]
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/rm1c24-I.png, id=5895, 143.5764pt x 82.387
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/rm1c24-I.png, id=5870, 143.5764pt x 82.387
 8pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/bio/rm1c24-I.png Graphic file (type png)
 <use imagenes/CEPRE-UNA2024-I/etapa2/bio/rm1c24-I.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/rm1c24-I.png  used
- on input line 3112.
+ on input line 3121.
 (pdftex.def)             Requested size: 128.0374pt x 73.47699pt.
  [405 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/rm1c24-I.png>] [406] [407]
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/rm5c24-I.png, id=5934, 218.7372pt x 51.311
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/rm5c24-I.png, id=5909, 218.7372pt x 51.311
 7pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/bio/rm5c24-I.png Graphic file (type png)
 <use imagenes/CEPRE-UNA2024-I/etapa2/bio/rm5c24-I.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/rm5c24-I.png  used
- on input line 3240.
+ on input line 3249.
 (pdftex.def)             Requested size: 213.39566pt x 50.05884pt.
  [408 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/rm5c24-I.png>]
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/rm6c24-I.png, id=5946, 178.7478pt x 69.138
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/rm6c24-I.png, id=5921, 178.7478pt x 69.138
 3pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/bio/rm6c24-I.png Graphic file (type png)
 <use imagenes/CEPRE-UNA2024-I/etapa2/bio/rm6c24-I.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/rm6c24-I.png  used
- on input line 3296.
+ on input line 3305.
 (pdftex.def)             Requested size: 128.0374pt x 49.52739pt.
  [409 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/rm6c24-I.png>]
-Overfull \hbox (7.20566pt too wide) in paragraph at lines 3362--3363
+Overfull \hbox (7.20566pt too wide) in paragraph at lines 3371--3372
 []$[]$ 
  []
 
 [410] [411] [412]
-<imagenes/CEPRE-UNA2024-I/etapa2/bio/ingles1c24-I.png, id=6006, 151.767pt x 101
+<imagenes/CEPRE-UNA2024-I/etapa2/bio/ingles1c24-I.png, id=5981, 151.767pt x 101
 .4189pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/bio/ingles1c24-I.png Graphic file (type p
 ng)
 <use imagenes/CEPRE-UNA2024-I/etapa2/bio/ingles1c24-I.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/bio/ingles1c24-I.png  
-used on input line 3470.
+used on input line 3479.
 (pdftex.def)             Requested size: 128.0374pt x 85.56114pt.
  [413 <./imagenes/CEPRE-UNA2024-I/etapa2/bio/ingles1c24-I.png>] [414] [415] [41
 6] [417]
-Underfull \hbox (badness 10000) in paragraph at lines 3698--3699
+Underfull \hbox (badness 10000) in paragraph at lines 3707--3708
 
  []
 
-<imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-I.png, id=6084, 186.2157pt x 96.84
+<imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-I.png, id=6059, 186.2157pt x 96.84
 18pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-I.png Graphic file (type png)
 
 <use imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-I.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-I.png  use
-d on input line 3722.
+d on input line 3731.
 (pdftex.def)             Requested size: 128.0374pt x 66.59038pt.
 [418 <./imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3735--3736
+Underfull \hbox (badness 10000) in paragraph at lines 3744--3745
 
  []
 
-<imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-Ir.png, id=6100, 178.0251pt x 111.
+<imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-Ir.png, id=6075, 178.0251pt x 111.
 2958pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-Ir.png Graphic file (type png
 )
 <use imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-Ir.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-Ir.png  us
-ed on input line 3754.
+ed on input line 3763.
 (pdftex.def)             Requested size: 128.0374pt x 80.04799pt.
-<imagenes/CEPRE-UNA2024-I/etapa2/soc/geo2c24-I.png, id=6101, 194.8881pt x 143.0
+<imagenes/CEPRE-UNA2024-I/etapa2/soc/geo2c24-I.png, id=6076, 194.8881pt x 143.0
 946pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/soc/geo2c24-I.png Graphic file (type png)
 
 <use imagenes/CEPRE-UNA2024-I/etapa2/soc/geo2c24-I.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/soc/geo2c24-I.png  use
-d on input line 3768.
+d on input line 3777.
 (pdftex.def)             Requested size: 130.88284pt x 96.10431pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3781--3782
+Underfull \hbox (badness 10000) in paragraph at lines 3790--3791
 
  []
 
 [419 <./imagenes/CEPRE-UNA2024-I/etapa2/soc/geo1c24-Ir.png> <./imagenes/CEPRE-U
 NA2024-I/etapa2/soc/geo2c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3816--3817
+Underfull \hbox (badness 10000) in paragraph at lines 3825--3826
 
  []
 
 [420] [421]
-<imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica1c24-I.png, id=6136, 171.039pt x 40.
+<imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica1c24-I.png, id=6111, 171.039pt x 40.
 953pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica1c24-I.png Graphic file (type p
 ng)
 <use imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica1c24-I.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica1c24-I.png  
-used on input line 3897.
+used on input line 3906.
 (pdftex.def)             Requested size: 156.49014pt x 37.47098pt.
-<imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica2c24-I.png, id=6137, 163.5711pt x 17
+<imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica2c24-I.png, id=6112, 163.5711pt x 17
 3.6889pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica2c24-I.png Graphic file (type p
 ng)
 <use imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica2c24-I.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica2c24-I.png  
-used on input line 3926.
+used on input line 3935.
 (pdftex.def)             Requested size: 128.0374pt x 135.96179pt.
 
 Underfull \vbox (badness 2837) has occurred while \output is active []
 
  [422 <./imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica1c24-I.png>]
-Overfull \hbox (0.80197pt too wide) in paragraph at lines 3953--3954
+Overfull \hbox (0.80197pt too wide) in paragraph at lines 3962--3963
 []\T1/lmr/m/n/10 ¾Cuántos gra-mos de oxí-geno se en-cuen-tran en 800 gra-mos de
  $\OML/lmm/m/it/10 CaCO[]$\T1/lmr/m/n/10 ? 
  []
@@ -4772,62 +4678,42 @@ Overfull \hbox (0.80197pt too wide) in paragraph at lines 3953--3954
 [423 <./imagenes/CEPRE-UNA2024-I/etapa2/soc/fisica2c24-I.png>] [424] [425]
 [426] [427] [428] [429] [430] [431] [432] [433] [434] [435] [436] [437]
 [438] [439]
-<imagenes/CEPRE-UNA2024-I/etapa2/soc/rm4c24-I.png, id=6431, 126.7134pt x 125.74
+<imagenes/CEPRE-UNA2024-I/etapa2/soc/rm4c24-I.png, id=6406, 126.7134pt x 125.74
 98pt>
 File: imagenes/CEPRE-UNA2024-I/etapa2/soc/rm4c24-I.png Graphic file (type png)
 <use imagenes/CEPRE-UNA2024-I/etapa2/soc/rm4c24-I.png>
 Package pdftex.def Info: imagenes/CEPRE-UNA2024-I/etapa2/soc/rm4c24-I.png  used
- on input line 4754.
-(pdftex.def)             Requested size: 142.26378pt x 141.19185pt.
+ on input line 4763.
+(pdftex.def)             Requested size: 128.0374pt x 127.07344pt.
  [440] [441 <./imagenes/CEPRE-UNA2024-I/etapa2/soc/rm4c24-I.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 4856--4857
+Underfull \hbox (badness 10000) in paragraph at lines 4865--4866
 
  []
 
 [442]
-Underfull \hbox (badness 10000) in paragraph at lines 4882--4886
+Underfull \hbox (badness 10000) in paragraph at lines 4891--4895
 
  []
 
-[443] [444] [445] [446] [447]) [448] [449
-
-
-
-]
-\openout2 = `examenes/2025/general-2025-I.aux'.
-
-
-No file examenes/2025/general-2025-I.tex.
-\openout2 = `examenes/2025/cepre-2025-I.aux'.
-
-No file examenes/2025/cepre-2025-I.tex.
-\openout2 = `examenes/2025/general-2025-II.aux'.
-
-No file examenes/2025/general-2025-II.tex.
-\openout2 = `examenes/2025/cepre-2025-II.aux'.
-
-No file examenes/2025/cepre-2025-II.tex.
-(main.aux (portada.aux)
+[443] [444] [445] [446] [447]) [448] (main.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
- (preliminares.aux) (autores.aux)
-(examenes/2024/general-2024-I.aux) (examenes/2024/cepre-2024-I.aux)
-(examenes/2024/general-2024-II.aux) (examenes/2024/cepre-2024-II.aux)
-(examenes/2025/general-2025-I.aux) (examenes/2025/cepre-2025-I.aux)
-(examenes/2025/general-2025-II.aux) (examenes/2025/cepre-2025-II.aux))
+ (preliminares.aux) (autores.aux) (examenes/2024/general-2024-I.aux)
+(examenes/2024/general-2024-II.aux) (examenes/2024/cepre-2024-I.aux)
+(examenes/2024/cepre-2024-II.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 50A9755FD8A3659CA4D77EE0B3A89498;1255.
+(rerunfilecheck)             Checksum: F872E2E97E8A1DECC1FD0B15D100C4E5;186.
  ) 
 Here is how much of TeX's memory you used:
- 41669 strings out of 467871
- 932492 string characters out of 5418340
- 1333598 words of memory out of 5000000
- 65125 multiletter control sequences out of 15000+600000
- 736968 words of font info for 107 fonts, out of 8000000 for 9000
+ 41563 strings out of 467871
+ 928210 string characters out of 5418340
+ 1330134 words of memory out of 5000000
+ 65047 multiletter control sequences out of 15000+600000
+ 733970 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,18n,121p,914b,870s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/DAD 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/lat
@@ -4858,9 +4744,9 @@ fb><C:/Users/DAD 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/sy
 mbols/msam10.pfb><C:/Users/DAD 2/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/symbols/msbm10.pfb><C:/Users/DAD 2/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/rsfs/rsfs10.pfb>
-Output written on main.pdf (457 pages, 6812696 bytes).
+Output written on main.pdf (456 pages, 6804907 bytes).
 PDF statistics:
- 7654 PDF objects out of 8907 (max. 8388607)
- 4751 named destinations out of 5155 (max. 500000)
- 806 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 7623 PDF objects out of 8907 (max. 8388607)
+ 4745 named destinations out of 5155 (max. 500000)
+ 766 words of extra memory for PDF output out of 10000 (max. 10000000)
 
