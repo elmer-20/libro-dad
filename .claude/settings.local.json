@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -n \"\\\\\\\\\\\\\\\\Rightarrow\\\\|\\\\\\\\\\\\\\\\rightarrow\" \"D:\\\\aplications\\\\librodad\\\\libro-dad/examenes/2024/general-2024-I.tex\")",
+      "Bash(grep -nE \"\\\\\\\\\\\\\\\\section\\\\*\\\\{\" /d/aplications/librodad/libro-dad/examenes/2024/cepre-2024-I.tex)",
+      "Bash(grep -n \"Geometria\\\\|Trigonometria\\\\|Algebra\\\\|Aritmetica\\\\|Fisica\\\\|Quimica\\\\|Biologia\\\\|Educacion\\\\|Comunicacion\\\\|Ingles\\\\|Filosofia\\\\|Psicologia\" \"/d/aplications/librodad/libro-dad/examenes/2024\"/*.tex)",
+      "Bash(grep -En \"\\\\\\\\\\\\\\\\textbf\\\\\\\\{Respuesta\" \"/d/aplications/librodad/libro-dad/examenes/2024\"/*.tex)",
+      "Bash(grep:*)",
+      "Bash(file:*)"
+    ]
+  }
+}
