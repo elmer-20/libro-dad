@@ -1,61 +1,99 @@
-\documentclass[12pt, a4paper,openany]{book}
-
-
+\documentclass[10pt, a5paper,openany]{book}  % 12pt es legible en A5
+% =====================================
+% Codificación y fuentes
+% =====================================
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[spanish]{babel}
-\usepackage{graphicx}
+\usepackage{lmodern}  % fuente moderna y legible
+\usepackage[spanish,es-noshorthands]{babel}
+% =====================================
+% Matemáticas, símbolos y química
+% =====================================
 \usepackage{amsmath, amssymb}
-\usepackage{enumitem}
+\usepackage{mathrsfs}
+\usepackage{chemfig}
+% =====================================
+% Listas, colores, gráficos y diagramas
+% =====================================
+\usepackage{enumitem}       % listas personalizables
+\usepackage{color}          % colores
+\usepackage{multicol}       % columnas
+\usepackage{graphicx}       % imágenes
+\usepackage{tikz}           % diagramas
+\usetikzlibrary{arrows.meta, calc, intersections, patterns}
+% Gráficos con pgfplots
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+% =====================================
+% Márgenes y geometría para A5
+% =====================================
 \usepackage{geometry}
-\usepackage{fancyhdr}
-\usepackage{titlesec}
-\usepackage{color}
-\usepackage{multicol}
-\usepackage{hyperref}
-
-\hypersetup{
-	colorlinks=true,
-	linkcolor=blue,
-	urlcolor=blue
-}
-
-
 \geometry{
-	paper=a4paper,
-	inner=25mm,   
-	outer=20mm,   
-	top=22mm,
-	bottom=22mm
+	paper=a5paper,
+	inner=20mm,   % margen interior ligeramente mayor por encuadernación
+	outer=15mm,
+	top=20mm,
+	bottom=20mm
 }
-
-
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{4pt}
-
-
+% =====================================
+% Espaciado y párrafos
+% =====================================
+\setlength{\parindent}{0pt}  % sin sangría
+\setlength{\parskip}{3pt}    % pequeño espacio entre párrafos
+% =====================================
+% Encabezados y pies de página
+% =====================================
+\usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[L]{\textbf{\small UNA-Puno}}
 \fancyhead[R]{\textit{\small Dirección de Admisión}}
+\fancyfoot[L]{\small Compendio de Exámenes}
 \fancyfoot[C]{\thepage}
+\fancyfoot[R]{\small 2024- I }
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
 
-
-\titlespacing*{\chapter}{0pt}{-10pt}{15pt}
-
+\fancypagestyle{plain}{
+	\fancyhf{}
+	\fancyhead[L]{\textbf{\small UNA-Puno}}
+	\fancyhead[R]{\textit{\small Dirección de Admisión}}
+	\fancyfoot[L]{\small Compendio de Exámenes}
+	\fancyfoot[C]{\thepage}
+	\fancyfoot[R]{\small 2024--2025}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\renewcommand{\footrulewidth}{0.4pt}
+}
+% =====================================
+% Formato de capítulos y secciones
+% =====================================
+\usepackage{titlesec}
+% Capítulos numerados
 \titleformat{\chapter}[display]
 {\normalfont\bfseries\filcenter}
-{\Large \chaptername~\thechapter}
+{\Large \chaptername~\thechapter} % tamaño adecuado para A5
 {0pt}
-{\Huge}
-
+{\LARGE}  % título del capítulo
+% Capítulos sin número
 \titleformat{name=\chapter,numberless}[display]
 {\normalfont\bfseries\filcenter}
 {}
 {0pt}
 {\Large}
-
-
+% Ajuste de espacio antes y después del capítulo
+\titlespacing*{\chapter}{0pt}{-5pt}{10pt}
+% =====================================
+% Hipervínculos
+% =====================================
+\usepackage[unicode]{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	urlcolor=blue
+}
+% =====================================
+% Inicio del documento
+% =====================================
 \begin{document}
 	
 	\frontmatter
