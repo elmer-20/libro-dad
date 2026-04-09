@@ -1,0 +1,20 @@
+# Archivos generados por LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.ilg
+*.ind
+*.idx
+*.lot
+*.lof
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# PDF compilado (opcional: comentar si se quiere versionar)
+*.pdf
