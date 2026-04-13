@@ -966,7 +966,7 @@
 	
 	Determine su peso molecular en g/mol
 	\begin{enumerate}[label=\alph*)]
-		\item $120$
+		\item $126$
 		\item $96$
 		\item $120$
 		\item $151$
@@ -1002,7 +1002,7 @@
 
 \begin{enumerate}[resume]
 	
-	\item El corazón tiene como función recibir y expulsar la sangre mediante los vasos sanguíneos. ¿Cuál es el vaso sanguíneo que sale del ventrículo izquierdo y transporta la sangre venosa hacia los pulmones?
+	\item El corazón tiene como función recibir y expulsar la sangre mediante los vasos sanguíneos. ¿Cuál es el vaso sanguíneo que sale del ventrículo derecho y transporta la sangre venosa hacia los pulmones?
 	\begin{enumerate}[label=\alph*)]
 		\item Vena cava superior
 		\item Vena cava inferior
@@ -1391,23 +1391,30 @@
 	
 	\vspace{2mm}
 	\textbf{Solucionario:}\\[1mm]
-	Cada término tiene la forma:
+
+
+	Analizamos la forma de cada término de la serie ($T_k$):
+	\begin{itemize}
+		\item $T_1 = 12_{(3)} = 1(3) + 2 = 5$
+		\item $T_2 = 23_{(4)} = 2(4) + 3 = 11$
+		\item $T_3 = 34_{(5)} = 3(5) + 4 = 19$
+	\end{itemize}
 	
-	$(n)(n+1)_{(n+1)}=n(n+1)+(n+1)=n^2+2n+1-2=n^2+n-1$
+	\[ T_k = k(k+2) + (k+1) \]
+	\[ T_k = k^2 + 2k + k + 1 = k^2 + 3k + 1 \]
 	
-	para $n=2,3,\dots,11$.
+	\[ C = \sum_{k=1}^{10} (k^2 + 3k + 1) \]
+	\[ C = \sum_{k=1}^{10} k^2 + 3\sum_{k=1}^{10} k + \sum_{k=1}^{10} 1 \]
 	
-	Entonces:
+	Aplicando las fórmulas de sumas notables:
+	\begin{enumerate}
+		\item Suma de cuadrados: $\frac{10(11)(21)}{6} = 385$
+		\item Suma de naturales: $3 \times \frac{10(11)}{2} = 3(55) = 165$
+		\item Suma de constantes: $1 \times 10 = 10$
+	\end{enumerate}
 	
-	$C=\sum_{n=2}^{11}(n^2+n-1)$
-	
-	$=\sum_{n=2}^{11}n^2+\sum_{n=2}^{11}n-\sum_{n=2}^{11}1$
-	
-	$=505+65-10$
-	
-	$=560$
-	
-	\fbox{$560$}
+
+	$C = 385 + 165 + 10 =$\fbox{$560$}
 	
 	\vspace{6mm}
 	
