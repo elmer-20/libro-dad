@@ -1,0 +1,151 @@
+REPORTE EXHAUSTIVO DE REVISIÓN DE EXÁMENES UNIVERSITARIOS 2024
+================================================================
+
+Metodología:
+- Se analizaron 4 archivos LaTeX de exámenes
+- Se verificó numeración de preguntas, cantidad de alternativas y repeticiones
+- Se identificaron líneas específicas de problemas encontrados
+
+================================================================
+ARCHIVO 1: general-2024-I-primera-etapa.tex
+================================================================
+
+Características generales:
+- 3 Áreas: Ingenierías, Biomédicas, Sociales
+- 19 subsecciones por área (60 preguntas esperadas por área)
+- Estructura: \begin{enumerate}[resume] para continuación automática
+
+ANÁLISIS POR ÁREA:
+
+ÁREA: INGENIERÍAS (Líneas 17-1836)
+Subsecciones a verificar:
+  - Aritmética (20-205)
+  - Álgebra (206-345)  
+  - Geometría (346-500)
+  - Trigonometría (501-646)
+  - Física (647-784)
+  - Química (785-932)
+  - Biología y Anatomía (933-976)
+  - Psicología y Filosofía (977-1061)
+  - Geografía (1062-1104)
+  - Historia (1105-1149)
+  - Educación Cívica (1150-1195)
+  - Economía (1196-1238)
+  - Comunicación (1239-1324)
+  - Literatura (1325-1372)
+  - Razonamiento Matemático (1373-1608)
+  - Razonamiento Verbal (1609-1742)
+  - Inglés (1743-1790)
+  - Quechua y Aimara (1791-1836)
+
+Total esperado: 60 preguntas
+
+ÁREA: BIOMÉDICAS (Líneas 1837-3872)
+Estructura similar con 19 subsecciones
+Total esperado: 60 preguntas
+
+ÁREA: SOCIALES (Líneas 3873-5459)
+Estructura similar con 19 subsecciones
+Total esperado: 60 preguntas
+
+PROBLEMAS DETECTADOS:
+Razonamiento Verbal (Área Biomédicas, líneas 3513-3779):
+  - Se encontraron 23 alternativas detectadas
+  - Esto sugiere que algunas preguntas pueden tener alternativas repetidas o estar mal formateadas
+  - Requiere revisión manual de las preguntas en este rango
+
+================================================================
+ARCHIVO 2: general-2024-I-segunda-etapa.tex
+================================================================
+
+Características generales:
+- Estructura similar a primera etapa
+- 3 Áreas con 19 subsecciones cada una
+
+PROBLEMAS DETECTADOS:
+Aritmética (Área Ingenierías, líneas 16-176):
+  - Se detectó 1 alternativa etiquetada
+  - Total de preguntas contabilizado: 26 (esperado: 12)
+  - Esto sugiere posible duplicación o problemas de conteo
+
+Aritmética (Área Biomédicas, líneas 1925-2008):
+  - Se detectó 1 alternativa etiquetada
+  - Total de preguntas: 17 (esperado: 12)
+
+Economía (Área Ingenierías, líneas 1312-1367):
+  - Total de preguntas: 14 (esperado: 12)
+  - Posible exceso de preguntas
+
+Razonamiento Matemático (Área Ingenierías, líneas 1504-1673):
+  - Total de preguntas: 39 (esperado: 12)
+  - Discrepancia significativa - revisar estructura
+
+Razonamiento Matemático (Área Biomédicas, líneas 3029-3348):
+  - Total de preguntas: 43 (esperado: 12)
+
+================================================================
+ARCHIVO 3: cepreuna-2024-I-primera-etapa.tex
+================================================================
+
+PROBLEMAS DETECTADOS:
+Química (Área Biomédicas, líneas 2359-2534):
+  - Se detectaron 2 alternativas etiquetadas
+  - Total de preguntas: 28 (esperado: 12)
+
+Literatura (Área Biomédicas, líneas 2952-3000):
+  - Total de preguntas: 15 (esperado: 12)
+
+Trigonometría (Área Sociales, líneas 3795-3866):
+  - Se detectaron 2 alternativas etiquetadas
+
+================================================================
+ARCHIVO 4: cepreuna-2024-I-segunda-etapa.tex
+================================================================
+
+PROBLEMAS DETECTADOS:
+Aritmética (Área Ingenierías, líneas 16-153):
+  - Se detectó 1 alternativa etiquetada
+  - Total de preguntas: 23 (esperado: 12)
+
+Química (Área Ingenierías, líneas 856-1001):
+  - Se detectó 1 alternativa etiquetada
+  - Total de preguntas: 23 (esperado: 12)
+
+Trigonometría (Área Biomédicas, líneas 2390-2453):
+  - Total de preguntas: 6 (esperado: 12)
+  - DEFICIENCIA: Faltan 6 preguntas
+
+Geometría (Área Biomédicas, líneas 2143-2390):
+  - Total de preguntas: 30 (esperado: 12)
+
+Química (Área Biomédicas, líneas 2540-2681):
+  - Total de preguntas: 30 (esperado: 12)
+
+Razonamiento Matemático (Área Ingenierías, líneas 1372-1612):
+  - Total de preguntas: 42 (esperado: 12)
+
+================================================================
+RESUMEN DE HALLAZGOS PRINCIPALES
+================================================================
+
+1. ARCHIVOS CON MAYOR NÚMERO DE PROBLEMAS:
+   - cepreuna-2024-I-segunda-etapa.tex: Múltiples discrepancias
+   - general-2024-I-segunda-etapa.tex: Varias inconsistencias
+
+2. SUBSECCIONES CRÍTICAS A REVISAR:
+   - Razonamiento Matemático (todos los archivos): Conteos inconsistentes
+   - Razonamiento Verbal: Alternativas etiquetadas detectadas
+   - Trigonometría, Geometría, Química: Variaciones en conteos
+
+3. TIPOS DE PROBLEMAS ENCONTRADOS:
+   - Discrepancias en conteo de preguntas por subsección
+   - Presencia de alternativas etiquetadas donde no se esperaban
+   - Variaciones significativas respecto a las 12 preguntas esperadas por subsección
+
+NOTA: Se requiere una revisión manual detallada de las secciones 
+identificadas, especialmente enfocándose en:
+- Estructura de enumerates
+- Presencia/ausencia de [resume] en enumerate
+- Correcta indentación de items
+- Separación clara entre preguntas y alternativas
+

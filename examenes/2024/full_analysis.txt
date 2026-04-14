@@ -1,0 +1,260 @@
+Análisis de estructura de preguntas y alternativas:
+
+========================================
+ARCHIVO: general-2024-I-primera-etapa.tex
+========================================
+Buscando preguntas...
+Total de líneas con \item: 1163
+23
+17:\section*{Área: Ingenierías}
+20:\subsection*{Aritmética}
+206:\subsection*{Álgebra}
+346:\subsection*{Geometría}
+501:\subsection*{Trigonometría}
+647:\subsection*{Física}
+785:\subsection*{Química}
+933:\subsection*{Biología y Anatomía}
+977:\subsection*{Psicología y Filosofía}
+1062:\subsection*{Geografía}
+1105:\subsection*{Historia}
+1150:\subsection*{Educación Cívica}
+1196:\subsection*{Economía}
+1239:\subsection*{Comunicación}
+1325:\subsection*{Literatura}
+1373:\subsection*{Razonamiento Matemático}
+1609:\subsection*{Razonamiento Verbal}
+1743:\subsection*{Inglés}
+1791:\subsection*{Quechua y Aimara}
+1837:\section*{Área: Biomédicas}
+1840:\subsection*{Aritmética}
+1961:\subsection*{Álgebra}
+2064:\subsection*{Geometría}
+2214:\subsection*{Trigonometría}
+2353:\subsection*{Física}
+2528:\subsection*{Química}
+2728:\subsection*{Biología y Anatomía}
+2859:\subsection*{Psicología y Filosofía}
+2953:\subsection*{Geografía}
+3000:\subsection*{Historia}
+3046:\subsection*{Educación Cívica}
+3092:\subsection*{Economía}
+3138:\subsection*{Comunicación}
+3228:\subsection*{Literatura}
+3279:\subsection*{Razonamiento Matemático}
+3513:\subsection*{Razonamiento Verbal}
+3780:\subsection*{Inglés}
+3825:\subsection*{Quechua y Aimara}
+3873:\section*{Área: Sociales}
+3875:\subsection*{Aritmética}
+4012:\subsection*{Álgebra}
+4101:\subsection*{Geometría}
+4183:\subsection*{Trigonometría}
+4274:\subsection*{Física}
+4428:\subsection*{Química}
+4499:\subsection*{Biología y Anatomía}
+4537:\subsection*{Psicología y Filosofía}
+4609:\subsection*{Geografía}
+4680:\subsection*{Historia}
+4751:\subsection*{Educación Cívica}
+4822:\subsection*{Economía}
+4893:\subsection*{Comunicación}
+4968:\subsection*{Literatura}
+5042:\subsection*{Razonamiento Matemático}
+5265:\subsection*{Razonamiento Verbal}
+5376:\subsection*{Inglés}
+5417:\subsection*{Quechua y Aimara}
+
+========================================
+ARCHIVO: general-2024-I-segunda-etapa.tex
+========================================
+Buscando preguntas...
+Total de líneas con \item: 1113
+0
+0
+13:\section*{Área: Ingenierías}
+16:\subsection*{Aritmética}
+177:\subsection*{Álgebra}
+353:\subsection*{Geometría}
+515:\subsection*{Trigonometría}
+671:\subsection*{Física}
+832:\subsection*{Química}
+1034:	\subsection*{Biología y Anatomía}
+1079:\subsection*{Psicología y Filosofía}
+1173:\subsection*{Geografía}
+1218:\subsection*{Historia}
+1264:\subsection*{Educación Cívica}
+1312:\subsection*{Economía}
+1367:\subsection*{Comunicación}
+1454:\subsection*{Literatura}
+1504:\subsection*{Razonamiento Matemático}
+1673:\subsection*{Razonamiento Verbal}
+1821:\subsection*{Inglés}
+1868:\subsection*{Quechua y Aimara}
+1921:\section*{Área: Biomédicas}
+1925:\subsection*{Aritmética}
+2008:\subsection*{Álgebra}
+2085:\subsection*{Geometría}
+2217:\subsection*{Trigonometría}
+2336:\subsection*{Física}
+2413:\subsection*{Química}
+2574:\subsection*{Biología y Anatomía}
+2693:\subsection*{Psicología y Filosofía}
+2764:\subsection*{Geografía}
+2803:\subsection*{Historia}
+2841:\subsection*{Educación Cívica}
+2880:\subsection*{Economía}
+2918:\subsection*{Comunicación}
+2989:\subsection*{Literatura}
+3029:\subsection*{Razonamiento Matemático}
+3348:\subsection*{Razonamiento Verbal}
+3462:\subsection*{Inglés}
+3502:\subsection*{Quechua y Aimara}
+3553:\section*{Área: Sociales}
+3555:\subsection*{Aritmética}
+3694:\subsection*{Álgebra}
+3798:\subsection*{Geometría}
+3878:\subsection*{Trigonometría}
+3951:\subsection*{Física}
+4037:\subsection*{Química}
+4102:\subsection*{Biología y Anatomía}
+4140:\subsection*{Psicología y Filosofía}
+4220:\subsection*{Geografía}
+4288:\subsection*{Historia}
+4357:\subsection*{Educación Cívica}
+4425:\subsection*{Economía}
+4494:\subsection*{Comunicación}
+4568:\subsection*{Literatura}
+4650:\subsection*{Razonamiento Matemático}
+4901:\subsection*{Razonamiento Verbal}
+5016:\subsection*{Inglés}
+5052:\subsection*{Quechua y Aimara}
+
+========================================
+ARCHIVO: cepreuna-2024-I-primera-etapa.tex
+========================================
+Buscando preguntas...
+Total de líneas con \item: 1101
+0
+0
+14:\section*{Área: Ingenierías}
+17:\subsection*{Aritmética}
+136:\subsection*{Álgebra}
+242:\subsection*{Geometría}
+403:\subsection*{Trigonometría}
+540:\subsection*{Física}
+691:\subsection*{Química}
+793:\subsection*{Biología y Anatomía}
+830:\subsection*{Psicología y Filosofía}
+902:\subsection*{Geografía}
+948:\subsection*{Historia}
+985:\subsection*{Educación Cívica}
+1027:\subsection*{Economía}
+1066:\subsection*{Comunicación}
+1139:\subsection*{Literatura}
+1175:\subsection*{Razonamiento Matemático}
+1490:\subsection*{Razonamiento Verbal}
+1618:\subsection*{Inglés}
+1661:\subsection*{Quechua y Aimara}
+1705:\section*{Área: Biomédicas}
+1711:\subsection*{Aritmética}
+1862:\subsection*{Álgebra}
+1952:\subsection*{Geometría}
+2102:\subsection*{Trigonometría}
+2228:\subsection*{Física}
+2359:\subsection*{Química}
+2534:\subsection*{Biología y Anatomía}
+2641:\subsection*{Psicología y Filosofía}
+2715:\subsection*{Geografía}
+2755:\subsection*{Historia}
+2794:\subsection*{Educación Cívica}
+2834:\subsection*{Economía}
+2875:\subsection*{Comunicación}
+2952:\subsection*{Literatura}
+3000:\subsection*{Razonamiento Matemático}
+3286:\subsection*{Razonamiento Verbal}
+3432:\subsection*{Inglés}
+3479:\subsection*{Quechua y Aimara}
+3533:\section*{Área: Sociales}
+3537:\subsection*{Aritmética}
+3614:\subsection*{Álgebra}
+3713:\subsection*{Geometría}
+3795:\subsection*{Trigonometría}
+3866:\subsection*{Física}
+3940:\subsection*{Química}
+3997:\subsection*{Biología y Anatomía}
+4035:\subsection*{Psicología y Filosofía}
+4106:\subsection*{Geografía}
+4176:\subsection*{Historia}
+4246:\subsection*{Educación Cívica}
+4316:\subsection*{Economía}
+4386:\subsection*{Comunicación}
+4458:\subsection*{Literatura}
+4530:\subsection*{Razonamiento Matemático}
+4734:\subsection*{Razonamiento Verbal}
+4842:\subsection*{Inglés}
+4892:\subsection*{Quechua y Aimara}
+
+========================================
+ARCHIVO: cepreuna-2024-I-segunda-etapa.tex
+========================================
+Buscando preguntas...
+Total de líneas con \item: 1086
+0
+0
+13:\section*{Área: Ingenierías}
+16:\subsection*{Aritmética}
+153:\subsection*{Álgebra}
+310:\subsection*{Geometría}
+527:\subsection*{Trigonometría}
+739:\subsection*{Física}
+856:\subsection*{Química}
+1001:\subsection*{Biología y Anatomía}
+1039:\subsection*{Psicología y Filosofía}
+1111:\subsection*{Geografía}
+1150:\subsection*{Historia}
+1188:\subsection*{Educación Cívica}
+1226:\subsection*{Economía}
+1264:\subsection*{Comunicación}
+1334:\subsection*{Literatura}
+1372:\subsection*{Razonamiento Matemático}
+1612:\subsection*{Razonamiento Verbal}
+1746:\subsection*{Inglés}
+1849:\subsection*{Quechua y Aimara}
+1899:\section*{Área: Biomédicas}
+1904:\subsection*{Aritmética}
+2005:\subsection*{Álgebra}
+2143:\subsection*{Geometría}
+2390:\subsection*{Trigonometría}
+2453:\subsection*{Física}
+2540:  \subsection*{Química}
+2681:\subsection*{Biología y Anatomía}
+2785:\subsection*{Psicología y Filosofía}
+2855:\subsection*{Geografía}
+2893:\subsection*{Historia}
+2931:\subsection*{Educación Cívica}
+2969:\subsection*{Economía}
+3007:\subsection*{Comunicación}
+3081:\subsection*{Literatura}
+3119:\subsection*{Razonamiento Matemático}
+3340:\subsection*{Razonamiento Verbal}
+3477:\subsection*{Inglés}
+3526:\subsection*{Quechua y Aimara}
+3577:\section*{Área: Sociales}
+3580:\subsection*{Aritmética}
+3654:\subsection*{Álgebra}
+3728:\subsection*{Geometría}
+3814:\subsection*{Trigonometría}
+3903:\subsection*{Física}
+3963:\subsection*{Química}
+4023:\subsection*{Biología y Anatomía}
+4064:\subsection*{Psicología y Filosofía}
+4142:\subsection*{Geografía}
+4219:\subsection*{Historia}
+4297:\subsection*{Educación Cívica}
+4377:\subsection*{Economía}
+4455:\subsection*{Comunicación}
+4541:\subsection*{Literatura}
+4621:\subsection*{Razonamiento Matemático}
+4908:\subsection*{Razonamiento Verbal}
+5044:\subsection*{Inglés}
+5091:\subsection*{Quechua y Aimara}

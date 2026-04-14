@@ -6,7 +6,9 @@
       "Bash(grep -n \"Geometria\\\\|Trigonometria\\\\|Algebra\\\\|Aritmetica\\\\|Fisica\\\\|Quimica\\\\|Biologia\\\\|Educacion\\\\|Comunicacion\\\\|Ingles\\\\|Filosofia\\\\|Psicologia\" \"/d/aplications/librodad/libro-dad/examenes/2024\"/*.tex)",
       "Bash(grep -En \"\\\\\\\\\\\\\\\\textbf\\\\\\\\{Respuesta\" \"/d/aplications/librodad/libro-dad/examenes/2024\"/*.tex)",
       "Bash(grep:*)",
-      "Bash(file:*)"
+      "Bash(file:*)",
+      "Bash(cat)",
+      "Bash(node /tmp/debug_re.js)"
     ]
   }
 }
