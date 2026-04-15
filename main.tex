@@ -91,6 +91,28 @@
 	linkcolor=blue,
 	urlcolor=blue
 }
+
+% =====================================
+% Índice
+% =====================================
+\addto\captionsspanish{\renewcommand{\contentsname}{INDICE}}
+
+\makeatletter
+\renewcommand{\tableofcontents}{%
+	\clearpage
+	\thispagestyle{plain}
+	
+	\vspace*{8.5cm} % baja todo el bloque del título
+	
+	{\noindent\hfill\bfseries\Large \contentsname\par}
+	
+	\vspace{0.8cm} % separación pequeña entre INDICE y el contenido
+	
+	\@starttoc{toc}
+	
+	\clearpage
+}
+\makeatother
 % =====================================
 % Inicio del documento
 % =====================================
