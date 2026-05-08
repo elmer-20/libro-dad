@@ -31,10 +31,10 @@
 \usepackage{geometry}
 \geometry{
 	paper=a5paper,
-	inner=18mm,   % margen interior ligeramente mayor por encuadernación
-	outer=13mm,
-	top=18mm,
-	bottom=18mm
+	inner=13mm,   % margen interior ligeramente mayor por encuadernación 
+	outer=12mm,   %derecha
+	top=12mm,    %arriba
+	bottom=15mm   %abajo
 }
 % =====================================
 % Espaciado y párrafos
@@ -42,29 +42,29 @@
 \setlength{\parindent}{0pt}  % sin sangría
 \setlength{\parskip}{3pt}    % pequeño espacio entre párrafos
 % =====================================
+% =====================================
 % Encabezados y pies de página
 % =====================================
 \usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\fancyhead[L]{\textbf{\small UNA-Puno}}
-\fancyhead[R]{\textit{\small Dirección de Admisión}}
-\fancyfoot[L]{\small Compendio de Exámenes}
-\fancyfoot[C]{\thepage}
-\fancyfoot[R]{\small 2024-I}
-\renewcommand{\headrulewidth}{0.4pt}
-\renewcommand{\footrulewidth}{0.4pt}
 
+\pagestyle{fancy}
+\fancyhf{} % limpia encabezado y pie
+
+% Solo numeración centrada abajo
+\fancyfoot[C]{\thepage}
+
+% Sin líneas
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% También para páginas tipo plain
 \fancypagestyle{plain}{
 	\fancyhf{}
-	\fancyhead[L]{\textbf{\small UNA-Puno}}
-	\fancyhead[R]{\textit{\small Dirección de Admisión}}
-	\fancyfoot[L]{\small Compendio de Exámenes}
 	\fancyfoot[C]{\thepage}
-	\fancyfoot[R]{\small 2024-I}
-	\renewcommand{\headrulewidth}{0.4pt}
-	\renewcommand{\footrulewidth}{0.4pt}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
 }
+
 % =====================================
 % Formato de capítulos y secciones
 % =====================================
@@ -83,6 +83,7 @@
 {\Large}
 % Ajuste de espacio antes y después del capítulo
 \titlespacing*{\chapter}{0pt}{-5pt}{10pt}
+
 % =====================================
 % Hipervínculos
 % =====================================
