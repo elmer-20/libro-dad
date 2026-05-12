@@ -2,6 +2,14 @@
 \addcontentsline{toc}{chapter}{EXAMEN CEPREUNA 2024-I}
 \addcontentsline{toc}{section}{Primera Etapa}
 
+
+\newpage
+%\thispagestyle{empty} % Para que no tenga número de página
+\mbox{}               % Crea un objeto invisible
+\newpage
+
+
+
 \vspace*{\fill}
 \begin{center}
 	{\Huge\bfseries EXAMEN CEPREUNA }\\[10pt]
@@ -12,6 +20,11 @@
 \vspace*{\fill}
 
 \clearpage
+
+
+
+
+
 
 \section*{Área: Ingenierías}
 
@@ -29,7 +42,7 @@
 	% --- Pregunta 1 ---
 	\item Siendo $A = \{ 1, 1, \{1\}, \emptyset \}$, determinar el valor de verdad de las siguientes proposiciones:
 	\begin{itemize}
-		\item[I.] $P(A)$ tiene 4 elementos
+		\item[I.] $P(A)$ tiene cuatro elementos
 		\item[II.] $\{\emptyset\} \subset P(A)$
 		\item[III.] $\{\emptyset\} \in P(A)$
 		\item[IV.] $\emptyset \in P(P(A))$
@@ -53,16 +66,16 @@
 	$\{\emptyset\} \in P(A) \quad (V)$\\
 	$ \emptyset \in P(P(A)) \quad (V)$
 	
-	\vspace{6mm}
+	\vspace{5mm}
 	
 	% --- Pregunta 2 ---
-	\item Determine el equivalente a la proposición: "es falso que, hace calor y no estudié"
+	\item Determine el equivalente a la proposición: <<es falso que, hace calor y no estudié>>.
 	\begin{enumerate}[label=\alph*)]
-		\item hace calor o no estudié.
-		\item No hace calor o no estudié.
-		\item Hace calor y no estudié.
-		\item Si hace calor entonces estudié.
-		\item Estudio dado que hace calor.
+		\item Hace calor o no estudié
+		\item No hace calor o no estudié
+		\item Hace calor y no estudié
+		\item Si hace calor entonces estudié
+		\item Estudio dado que hace calor
 	\end{enumerate}
 	\textbf{Respuesta correcta:} e)
 	
@@ -78,7 +91,7 @@
 	\vspace{6mm}
 	
 	% --- Pregunta 3 ---
-	\item Ocho obreros realizan una obra en 20 días. Después de 5 días de trabajo, se retiran 3 obreros. ¿Con cuántos días de atraso se termina la obra?
+	\item Ocho obreros realizan una obra en 20 días. Después de 5 días de trabajo, se retiran tres obreros. ¿Con cuántos días de atraso se termina la obra?
 	\begin{enumerate}[label=\alph*)]
 		\item 24 días
 		\item 25 días
@@ -91,7 +104,7 @@
 	\vspace{2mm}
 	\textbf{Solucionario:}
 	
-	Como después de 5 días se retiraron 3 obreros $\Rightarrow 8$ obreros lo harán 15 días\\
+	Como después de 5 días se retiraron tres obreros $\Rightarrow $ ocho obreros lo harán 15 días.\\
 	
 	\begin{tabular}{|c|c|}
 		\hline
@@ -111,12 +124,12 @@
 	\\
 	
 	$X = \dfrac{(15)(8)}{5} = 24$ días.\\
-	$\leadsto$ retraso \fbox{$= 24 - 15 = 9$ }días 
+	$\leadsto$ retraso \fbox{$= 24 - 15 = 9$ días}
 	
 	\vspace{6mm}
 	
 	% --- Pregunta 4 ---
-	\item A una fiesta de promoción asistieron 140 alumnos entre hombres y mujeres. Por cada 3 mujeres hay 4 hombres. Si se retiran 20 parejas, ¿Cuál es la razón entre el número de mujeres y el número de hombres que se quedan en la fiesta?
+	\item A una fiesta de promoción asistieron 140 alumnos entre hombres y mujeres. Por cada tres mujeres hay cuatro hombres. Si se retiran 20 parejas, ¿Cuál es la razón entre el número de mujeres y el número de hombres que se quedan en la fiesta?
 	\begin{enumerate}[label=\alph*)]
 		\item $\dfrac{3}{4}$
 		\item $\dfrac{2}{3}$
@@ -135,7 +148,7 @@
 	
 	$\dfrac{M_0}{H_0} = \dfrac{3}{4} \Rightarrow \left. \begin{array}{l} M_0 = 3K \\ H_0 = 4K \end{array} \right\} (II)$\\
 	
-	Reemplazando (ii) en (1):\\
+	Reemplazando (II) en (1):\\
 	
 	$4K + 3K = 140 \Rightarrow K = 20$\\
 	
@@ -198,6 +211,9 @@
 	\vspace{2mm}
 	\textbf{Solucionario:}
 	
+	Utilizando la Regla de Ruffini para evaluar el polinomio.
+	
+	
 	\begin{tabular}{r|rrrr|c}
 		& 1 & $\sqrt{3}$ & $-1$ & $\sqrt{3}$ & 6 \\
 		$1-\sqrt{3}$ & $\downarrow$ & $1-\sqrt{3}$ & $1-\sqrt{3}$ & $-\sqrt{3}+3$ & $3-3\sqrt{3}$ \\ \hline
@@ -243,7 +259,9 @@
 	
 	% --- Pregunta 8 (Cociente notable) ---
 	\item En el desarrollo del cociente notable dado, indique el número de términos.
-	$$\dfrac{a^{5p-5} - b^{4p-4}}{a^{p-4} - b^{p-5}}$$
+	\[
+	\dfrac{a^{5p-5} - b^{4p-4}}{a^{p-4} - b^{p-5}}
+	\]
 	\begin{enumerate}[label=\alph*)]
 		\item 7
 		\item 8
@@ -276,7 +294,7 @@
 
 \begin{enumerate}[resume]
 
-\item En un terreno de cultivo de forma rectangular, se toma una porción de forma triangular para la siembra de maíz. En dicha porción, una de sus esquinas es el centro del terreno de cultivo. ¿Cuál es el ancho del terreno si su diagonal es 600 m?
+\item En un terreno de cultivo de forma rectangular, se toma una porción de forma triangular para la siembra de maíz. En dicha porción, una de sus esquinas  " O " es el centro del terreno de cultivo. ¿Cuál es el ancho del terreno si su diagonal es 600 m?
 
 % (Dejar aquí el gráfico)
 	\begin{center}
@@ -329,7 +347,7 @@
 
 
 
-\item Un poste está sujeto al suelo con dos cables tensores. Si el cable de mayor longitud con el poste forma un ángulo de $30^\circ$, calcule la medida del ángulo formado por los dos cables.
+\item Un poste está sujeto al suelo con dos cables tensores. Si el cable de mayor longitud con el poste forma un ángulo de $30^\circ$, calcule la medida del ángulo formado entre los dos cables.
 
 \begin{center}
 	\includegraphics[width=3.5cm]{imagenes/CEPRE-UNA2024-I/etapa1/ing/geo2c24-I.png}
@@ -469,7 +487,7 @@ Esto es:\quad $\dfrac{13}{8}AF=26$
 	\vspace{2mm}
 	\textbf{Solucionario:}
 	
-	$f(x)=\dfrac{2\cdot 2}{2\cdot \operatorname{Sen}x\,\operatorname{Cos}x}
+	$f(x)=\dfrac{2\cdot 2}{2\cdot \operatorname{Sen}x\,\cdot \operatorname{Cos}x}
 	=\dfrac{4}{\operatorname{Sen}(2x)}$
 	
 	$\operatorname{Dom}(f)=\left\{x\in\mathbb{R}\ /\ \operatorname{Sen}(2x)\neq 0\right\}$
@@ -483,7 +501,7 @@ Esto es:\quad $\dfrac{13}{8}AF=26$
 	$\boxed{\operatorname{Dom}(f)=\mathbb{R}-\left\{\dfrac{n\pi}{2},\ n\in\mathbb{Z}\right\}}$
 	
 	
-	\item En el gráfico, calcule $x$
+	\item En el gráfico, calcule $x$.
 	
 	% (Dejar aquí el gráfico)
 		\begin{center}
@@ -530,7 +548,7 @@ Esto es:\quad $\dfrac{13}{8}AF=26$
 		\begin{center}
 		\begin{minipage}{0.40\textwidth}
 			
-			$d(A,B)=\sqrt{(3-(-5))^{2}+(7-(-8))^{2}}$\\
+			$d(A,B)=\sqrt{[3-(-5)]^{2}+[7-(-8)]^{2}}$\\
 			
 			$=\sqrt{(3+5)^{2}+(7+8)^{2}}$\\
 			
@@ -539,6 +557,8 @@ Esto es:\quad $\dfrac{13}{8}AF=26$
 			$=\sqrt{64+225}$\\
 			
 			$=\sqrt{289}$\\
+			
+			$=17\,m$\\
 			
 			\fbox{$d(A,B)=17\,m$}
 				
@@ -555,9 +575,9 @@ Esto es:\quad $\dfrac{13}{8}AF=26$
 	\item El arco de un puente es semielíptico con eje mayor horizontal. Si la base mide $20\,m$ y su parte más alta con respecto al suelo es $6\,m$, determine la altura del arco trazado desde el foco de la elipse.
 	
 	\begin{enumerate}[label=\alph*)]
-		\item $2,4\,m$
-		\item $6,4\,m$
-		\item $3,6\,m$
+		\item $2.4\,m$
+		\item $6.4\,m$
+		\item $3.6\,m$
 		\item $6\,m$
 		\item $4\,m$
 	\end{enumerate}
@@ -585,11 +605,13 @@ Esto es:\quad $\dfrac{13}{8}AF=26$
 		
 		$\dfrac{h^{2}}{36}=\dfrac{100-64}{100}$\\
 		
+		$h^{2}=\left(\dfrac{36}{10}\right)^{2}$\\
+		
 		$h^{2}=\dfrac{36(36)}{100}$\\
 		
-		$h=\dfrac{36}{10}\Rightarrow \boxed{h=3,6\,m}$\\
+		$h=\dfrac{36}{10}\Rightarrow \boxed{h=3.6\,m}$\\
 		
-		$h=\dfrac{b^{2}}{a}=\dfrac{36}{10}=3,6$
+		$h=\dfrac{b^{2}}{a}=\dfrac{36}{10}=3.6$
 			
 			\vspace{6mm}
 	\end{minipage}
@@ -617,11 +639,11 @@ Esto es:\quad $\dfrac{13}{8}AF=26$
 \end{center}
 
 \begin{enumerate}[label=\alph*)]
-	\item $2,0\,m$
-	\item $3,0\,m$
-	\item $3,5\,m$
-	\item $3,6\,m$
-	\item $2,4\,m$
+	\item $2.0\,m$
+	\item $3.0\,m$
+	\item $3.5\,m$
+	\item $3.6\,m$
+	\item $2.4\,m$
 \end{enumerate}
 
 \textbf{Respuesta correcta:} c)
@@ -638,11 +660,11 @@ Esto es:\quad $\dfrac{13}{8}AF=26$
 		
 		$600(4-x)=200(x-2)$\\
 		
-		$2400-600x=200x-400$\\
+		$2,400-600x=200x-400$\\
 		
-		$2800=800x$\\
+		$2,800=800x$\\
 		
-		\fbox{$3,5m=x$}
+		\fbox{$3.5\,m=x$}
 
 		\vspace{6mm}
 	\end{minipage}
@@ -676,6 +698,16 @@ Esto es:\quad $\dfrac{13}{8}AF=26$
 \vspace{2mm}
 \textbf{Solucionario:}
 
+\textbf{Nota:}
+\begin{itemize}
+	\item $T$: tensión en la cuerda.
+	\item $P_B = Mg$: peso del bloque.
+	\item $m$: masa de la esfera.
+	\item $M$: masa del bloque.
+	\item $R$: radio de la trayectoria circular.
+	\item $\omega$: rapidez angular de la esfera.
+	\item $g$: aceleración de la gravedad.
+\end{itemize}
 
 $T=P_{B}$
 
@@ -690,7 +722,7 @@ $\omega=\sqrt{100}\ rad/s$
 $\omega=10\ rad/s$
 
 
-\item Un tronco de madera de $8\,m^{3}$ de volumen flota en agua salada de densidad $1200\,kg/m^{3}$. Si el volumen emergente es de $2\,m^{3}$, determine la densidad de la madera.
+\item Un tronco de madera de $8\,m^{3}$ de volumen flota en agua salada de densidad $1,200\,kg/m^{3}$. Si el volumen emergente es de $2\,m^{3}$, determine la densidad de la madera.
 
 	\begin{center}
 	\includegraphics[width=5.6cm]{imagenes/CEPRE-UNA2024-I/etapa1/ing/Fisica3c2024-I.png}
@@ -718,7 +750,7 @@ $\omega=10\ rad/s$
 
 		$E=P$\\
 		$m_{\ell}g=m_{m}g$\\
-		$\rho_{\ell}V_{\ell}g=\rho_{m}V_{m}g$\\
+		$\rho_{\ell}V_{\ell}\cancel{g} = \rho_{m}V_{m}\cancel{g}$\\
 		
 		$1200(6)=\rho_{m}(8)$\\
 		\fbox{$900\,kg/m^{3}=\rho_{madera}$}
@@ -754,6 +786,23 @@ $\omega=10\ rad/s$
 \vspace{2mm}
 \textbf{Solucionario:}
 
+$n_1=$ índice de refracción del aire.
+
+$n_2=$ índice de refracción del vidrio.
+
+$n_3=$ índice de refracción del agua.
+
+$\theta_1$: ángulo de incidencia en el aire.
+
+$\theta_2$: ángulo de refracción en el vidrio.
+
+$\theta_3=\theta$: ángulo de refracción en el agua.
+
+
+
+por la ley de snell 
+
+$\theta_1 = 90^\circ - 37^\circ =53^\circ $
 
 (1) Aire - Vidrio
 
@@ -765,7 +814,7 @@ $\dfrac{4}{5}\times\dfrac{2}{3}=\operatorname{sen}\theta_{2}$
 
 $n_{2}\operatorname{sen}\theta_{2}=n_{3}\operatorname{sen}\theta_{3}$
 
-$\dfrac{3}{2}\times\dfrac{4}{5}\times\dfrac{2}{3}=\dfrac{4}{3}\operatorname{sen}\theta_{3}$
+$\dfrac{\cancel{3}}{\cancel{2}}\times\dfrac{4}{5}\times\dfrac{\cancel{2}}{\cancel{3}}=\dfrac{4}{3}\operatorname{sen}\theta_{3}$
 
 $\dfrac{4}{5}\times\dfrac{3}{4}=\operatorname{sen}\theta_{3}$
 
@@ -789,10 +838,10 @@ $(m_{e^-}=m_{p}=9,1\times10^{-28}\,g)$
 
 \begin{enumerate}[label=\alph*)]
 	\item $164\times10^{18}\,Erg$
-	\item $16,38\times10^{-20}\,Erg$
+	\item $16.38\times10^{-20}\,Erg$
 	\item $164\times10^{10}\,J$
-	\item $163,8\times10^{-15}\,J$
-	\item $1,638\times10^{13}\,Erg$
+	\item $163.8\times10^{-15}\,J$
+	\item $1.638\times10^{13}\,Erg$
 \end{enumerate}
 
 \textbf{Respuesta correcta:} d)
@@ -802,15 +851,15 @@ $(m_{e^-}=m_{p}=9,1\times10^{-28}\,g)$
 
 $E=m_{total}\,c^{2}$ $\Longrightarrow$ $m_{total}=m_{e}+m_{p}=2(9,1\times10^{-28}\,g)$
 
-$E=2(9,1\times10^{-28}\,g)\,(3\times10^{10}\,cm/s)^{2}$
+$E=2(9.1\times10^{-28}\,g)\,(3\times10^{10}\,cm/s)^{2}$
 
-$E=(18,2\times10^{-28}\,g)\,(9\times10^{20}\,cm^{2}/s^{2})$
+$E=(18.2\times10^{-28}\,g)\,(9\times10^{20}\,cm^{2}/s^{2})$
 
-$E=163,8\times10^{-8}\,erg \times \dfrac{1J}{10^{7}\,erg}$
+$E=163.8\times10^{-8}\,erg \times \dfrac{1J}{10^{7}\,erg}$
 
-$E=163,8\times10^{-8}\times10^{-7}\,J$
+$E=163.8\times10^{-8}\times10^{-7}\,J$
 
-\fbox{$E=163,8\times10^{-15}\,J$}
+\fbox{$E=163.8\times10^{-15}\,J$}
 
 
 \item Al balancear la ecuación: \\
@@ -837,7 +886,7 @@ $1+6$\\
 \fbox{$7$}
 
 
-\item La ecuación de gases ideales se cumple estrictamente para casos ideales. Sin embargo, el comportamiento de los gases reales difiere del ideal a causa del tamaño de las moléculas y también porque existen fuerzas intermoleculares. No obstante, para calcular los gases reales estos se comportan como ideales especialmente a bajas presiones y elevadas temperaturas. ¿Cuántos gramos de gas Oxígeno hay en un recipiente de $82$ litros a $0,3$ atm y $27^\circ C$?
+\item La ecuación de gases ideales se cumple estrictamente para casos ideales. Sin embargo, el comportamiento de los gases reales difiere del ideal a causa del tamaño de las moléculas y también porque existen fuerzas intermoleculares. No obstante, para calcular los gases reales estos se comportan como ideales especialmente a bajas presiones y elevadas temperaturas. ¿Cuántos gramos de gas Oxígeno hay en un recipiente de $82$ litros a $0.3$ atm y $27^\circ C$?
 
 \begin{enumerate}[label=\alph*)]
 	\item $24\,g$
@@ -852,7 +901,7 @@ $1+6$\\
 \vspace{2mm}
 \textbf{Solucionario:}
 
-\quad $m=?$ \quad $P=0,3\,atm$ \quad $V=82\,L$ \quad $T^\circ=27^\circ C=300^\circ K$
+\quad $m=?$ \quad $P=0.3\,atm$ \quad $V=82\,L$ \quad $T^\circ=27^\circ C=300^\circ K$
 
 $PV=nRT$ \qquad $n=\dfrac{w}{Pm}$
 
@@ -860,7 +909,7 @@ $PV=\dfrac{w}{Pm}RT$ \qquad $w=\dfrac{PV\,Pm}{RT}$
 
 $Pm_{O_{2}}=32\,g/mol$
 
-$w=\dfrac{(0,3\,atm)(82\,L)(32\,g/mol)}{(0,082\,\dfrac{atm\cdot L}{mol\cdot {}^\circ K})(300^\circ K)}=$\fbox{$32\,g$}
+$w=\dfrac{(0.3\,atm)(82\,L)(32\,g/mol)}{\left(0.082\,\dfrac{atm\cdot L}{mol\cdot {}^\circ K}\right)(300^\circ K)}=$\fbox{$32\,g$}
 
 
 \item Indique el nombre del compuesto:
@@ -872,8 +921,8 @@ $w=\dfrac{(0,3\,atm)(82\,L)(32\,g/mol)}{(0,082\,\dfrac{atm\cdot L}{mol\cdot {}^\
 \begin{enumerate}[label=\alph*)]
 	\item $3$-isopropil-$7$-isobutil nonano
 	\item $7$-secbutil-$3$-isopropil undecano
-	\item $3$-etil-$2,8$-dimetil-$7$-propil decano
-	\item $8$-etil-$3,9$-dimetil-$4$-propildecano
+	\item $3$-etil-$2.8$-dimetil-$7$-propil decano
+	\item $8$-etil-$3.9$-dimetil-$4$-propildecano
 	\item $3$-etil-$7$-butildecano
 \end{enumerate}
 
@@ -887,7 +936,7 @@ $w=\dfrac{(0,3\,atm)(82\,L)(32\,g/mol)}{(0,082\,\dfrac{atm\cdot L}{mol\cdot {}^\
 \end{center}
 
 $3$-etil- $2,8$-dimetil-$7$-propil - decano\\
-$3$-etil-$2,8$-dimetil-$7$-propil decano
+\fbox{$3$-etil-$2,8$-dimetil-$7$-propil decano}
 
 
 
@@ -940,11 +989,11 @@ $3$-etil-$2,8$-dimetil-$7$-propil decano
 	
 	\item  En todo acto de conocer, se distinguen tres elementos esenciales que no pueden faltar:
 	\begin{enumerate}[label=\alph*)]
-		\item objeto -- idea -- memoria.
-		\item sujeto -- objeto -- idea.
-		\item sujeto -- inteligencia -- precepto.
-		\item sujeto -- imagen -- idea.
-		\item necesidad -- contingencia -- universalidad.
+		\item objeto -- idea -- memoria
+		\item sujeto -- objeto -- idea
+		\item sujeto -- inteligencia -- precepto
+		\item sujeto -- imagen -- idea
+		\item necesidad -- contingencia -- universalidad
 	\end{enumerate}
 	
 	\textbf{Respuesta correcta:} b)
@@ -956,11 +1005,11 @@ $3$-etil-$2,8$-dimetil-$7$-propil decano
 	
 	\item  Según Jean Piaget, la asimilación y acomodación son elementos determinantes de:
 	\begin{enumerate}[label=\alph*)]
-		\item conciencia.
-		\item desarrollo de esquemas motores.
-		\item nivel intelectual del individuo.
-		\item adaptación.
-		\item codificación de la conducta.
+		\item Conciencia
+		\item Desarrollo de esquemas motores
+		\item Nivel intelectual del individuo
+		\item Adaptación
+		\item Codificación de la conducta
 	\end{enumerate}
 	
 	\textbf{Respuesta correcta:} d)
@@ -972,11 +1021,11 @@ $3$-etil-$2,8$-dimetil-$7$-propil decano
 	
 	\item  Es el proceso por el cual el individuo adquiere conocimientos, destrezas y nuevos modos de comportamiento que le permiten alcanzar con mayor eficacia sus objetivos y satisfacer sus necesidades.
 	\begin{enumerate}[label=\alph*)]
-		\item La adaptación.
-		\item La sensación.
-		\item La atención.
-		\item La memoria.
-		\item El aprendizaje.
+		\item La adaptación
+		\item La sensación
+		\item La atención
+		\item La memoria
+		\item El aprendizaje
 	\end{enumerate}
 	
 	\textbf{Respuesta correcta:} e)
@@ -988,11 +1037,11 @@ $3$-etil-$2,8$-dimetil-$7$-propil decano
 	
 	\item  Cuando una persona tiene miedo y preocupación de padecer o tener una enfermedad grave a partir de la interpretación subjetiva que hace de uno o más síntomas o signos, se infiere que presenta un trastorno:
 	\begin{enumerate}[label=\alph*)]
-		\item depresivo.
-		\item hipocondríaco.
-		\item fóbico.
-		\item obsesivo compulsivo.
-		\item de ansiedad.
+		\item Depresivo
+		\item Hipocondríaco
+		\item Fóbico
+		\item Obsesivo compulsivo
+		\item De ansiedad
 	\end{enumerate}
 	
 	\textbf{Respuesta correcta:} b)
@@ -1045,7 +1094,7 @@ Los \textbf{parques nacionales} son áreas naturales protegidas \textbf{intangib
 \vspace{2mm}
 \textbf{Solucionario:}
 
-La definición corresponde a la \textbf{tasa bruta de natalidad}: nacimientos por cada 1000 habitantes en un año.
+La definición corresponde a la \textbf{tasa bruta de natalidad}: nacimientos por cada 1,000 habitantes en un año.
 
 
 
@@ -1118,7 +1167,7 @@ Paracas se ubica en el \textbf{Horizonte temprano} (transición formativa), y Wa
 
 El documento base que regula la organización y funcionamiento de una persona jurídica es el \textbf{estatuto}.
 
-\item  A consecuencia de un accidente de tránsito, el Presidente de la República y sus dos vicepresidentes sufrieron lesiones de consideración. Posteriormente, fueron evacuados a la ciudad de Piura donde fueron hospitalizados. Según las normas constitucionales, en un caso como este, la Presidencia de la República es asumida por el presidente:
+\item  A consecuencia de un accidente de tránsito, el Presidente de la República y sus dos vicepresidentes sufrieron lesiones de consideración. Posteriormente, fueron evacuados a la ciudad de Piura donde fueron hospitalizados. Según las normas constitucionales, en un caso como este, la Presidencia de la República es asumida por el presidente: ..........
 \begin{enumerate}[label=\alph*)]
 	\item de la Corte Suprema.
 	\item del Congreso de la República.
@@ -1160,7 +1209,7 @@ Si no pueden asumir el Presidente ni los vicepresidentes, la sucesión recae en 
 \vspace{2mm}
 \textbf{Solucionario:}
 
-El ISC grava bienes específicos (p.ej. combustibles). La \textbf{gasolina} está afecta al ISC.
+El ISC grava bienes específicos (por ejemplo combustibles). La \textbf{gasolina} está afecta al ISC.
 
 \item  Es el proceso de traslado e intercambio de mercancías (bienes, servicios y factores de producción) que permite la integración de la producción y el consumo.
 \begin{enumerate}[label=\alph*)]
@@ -1191,11 +1240,11 @@ El traslado e intercambio que conecta producción con consumo corresponde a la \
 \item  Más vale pájaro en mano ...\\
 Los puntos suspensivos de la frase indican que:
 \begin{enumerate}[label=\alph*)]
-	\item anuncia una serie de palabras.
-	\item se interrumpe una enumeración.
-	\item reitera un término.
-	\item el texto está incompleto.
-	\item el texto está completo.
+	\item Anuncia una serie de palabras
+	\item Se interrumpe una enumeración
+	\item Reitera un término
+	\item El texto está incompleto
+	\item El texto está completo
 \end{enumerate}
 
 \textbf{Respuesta correcta:} d)
@@ -1207,11 +1256,11 @@ Los puntos suspensivos indican \textbf{omisión} de una parte del enunciado (que
 
 \item Carlos abre las páginas de un periódico. Lee una columna periodística y toma conciencia de que está leyendo.
 \begin{enumerate}[label=\alph*)]
-	\item una sumilla.
-	\item un texto.
-	\item un párrafo.
-	\item un resumen.
-	\item una conclusión.
+	\item Una sumilla
+	\item Un texto
+	\item Un párrafo
+	\item Un resumen
+	\item Una conclusión
 \end{enumerate}
 
 \textbf{Respuesta correcta:} b)
@@ -1225,11 +1274,11 @@ Una columna periodística es un \textbf{texto} (unidad comunicativa completa).
 Tienden a agruparse formando moléculas.\\
 El enunciado utiliza el lenguaje:
 \begin{enumerate}[label=\alph*)]
-	\item coloquial o familiar.
-	\item protocolar o estándar.
-	\item técnico o especializado.
-	\item visual o pictórico.
-	\item jerga o parasitaria.
+	\item Coloquial o familiar
+	\item Protocolar o estándar
+	\item Técnico o especializado
+	\item Visual o pictórico
+	\item Jerga o parasitaria
 \end{enumerate}
 
 \textbf{Respuesta correcta:} c)
@@ -1241,11 +1290,11 @@ Usa terminología científica (\textbf{átomos}, \textbf{moléculas}), por eso e
 
 \item  Un alumno del CEPREUNA duda entre decir ``tú'' y ``usted'' para dirigirse a su docente de Lengua. En este acto, el alumno busca la:
 \begin{enumerate}[label=\alph*)]
-	\item cohesión del discurso.
-	\item adecuación del discurso.
-	\item información correspondiente.
-	\item identificación del discurso.
-	\item expresión de un punto de vista.
+	\item Cohesión del discurso.
+	\item Adecuación del discurso
+	\item Información correspondiente
+	\item Identificación del discurso
+	\item Expresión de un punto de vista
 \end{enumerate}
 
 \textbf{Respuesta correcta:} b)
@@ -1265,11 +1314,11 @@ Elegir entre ``tú''/``usted'' es ajustar el registro al contexto: \textbf{adecu
 
 \item  La obra de Garcilaso de la Vega, ``Comentarios reales de los Incas'', se clasifica como una:
 \begin{enumerate}[label=\alph*)]
-	\item novela.
-	\item cuento.
-	\item crónica.
-	\item epístola.
-	\item égloga.
+	\item Novela
+	\item Cuento
+	\item Crónica
+	\item Epístola
+	\item Égloga
 \end{enumerate}
 
 \textbf{Respuesta correcta:} c)
@@ -1281,11 +1330,11 @@ Es una obra historiográfica/testimonial, por ello se considera una \textbf{cró
 
 \item  En la ``Divina Comedia'', en el noveno círculo del Infierno, Dante se encuentra con Lucifer; quién posee tres cabezas: una roja, una amarilla y una negra, las cuales simbolizan respectivamente:
 \begin{enumerate}[label=\alph*)]
-	\item odio, impotencia e ignorancia.
-	\item avaricia, lujuria y soberbia.
-	\item impotencia, hambre y odio.
-	\item ignorancia, avaricia y soberbia.
-	\item pasión, debilidad y maldad.
+	\item Odio, impotencia e ignorancia
+	\item Avaricia, lujuria y soberbia
+	\item Impotencia, hambre y odio
+	\item Ignorancia, avaricia y soberbia
+	\item Pasión, debilidad y maldad
 \end{enumerate}
 
 \textbf{Respuesta correcta:} a)
@@ -1324,6 +1373,7 @@ en el mes de marzo tenemos,
 (años que tiene)$=X$
 
 $\Rightarrow\; 12X+Y-X=425$
+
 $11X+Y=425.$
 
 Tanto \quad $11X+Y=11(38)+7$
@@ -1344,8 +1394,8 @@ Como tiene $38$ años y $7$ meses
 	% marcas + meses (arriba)
 	\foreach \x/\lab in {
 		0/Ago,
-		1/set.,
-		2/oct.,
+		1/Set.,
+		2/Oct.,
 		3/Nov.,
 		4/Dic,
 		5/Ene,
@@ -1401,7 +1451,7 @@ El área del rectángulo es:
 $A = 5k(6-3k)$
 
 
-$= 15k(2-k)$\\
+$A = 15k(2-k)$\\
 
 Para que el área sea máxima,
 
@@ -1409,7 +1459,7 @@ $k = 2-k \Rightarrow k = 1$\\
 
 Luego, el área máxima es
 
-$A_{\max} = 15(1)(2-1) = $\fbox{$15$}
+$A_{\max} = 15(1)(2-1) = $\fbox{$15 u^2$}
 
 
 		
@@ -1465,7 +1515,7 @@ $
 	2x &= 12
 \end{aligned}
 $\\
-donde: $x=6$, $y=3$, el número será 63,
+Donde: $x=6$, $y=3$, el número será 63,
 
 entonces el producto es: $6 \times 3=$\fbox{$18$}
 
@@ -1566,11 +1616,12 @@ $\therefore\ \text{Suma de cifras: }1+5+2=$\fbox{$8$}
 
 
 
-\item En una mesa circular de 7 sillas se sientan a dialogar 4 obreros: $A,B,C,D$ y 3 empleados: $X,Y,Z$. Se sabe que:
-\begin{itemize}
-	\item Ningún empleado se sienta junto a otro empleado.
-	\item $B$ se sienta junto a $D$, pero $Z$ no se sienta junto a ellos.
-\end{itemize}
+\item En una mesa circular de siete sillas se sientan a dialogar cuatro obreros: $A,B,C,D$ y tres empleados: $X,Y,Z$. Se sabe que:
+
+a. Ningún empleado se sienta junto a otro empleado.
+
+b. $B$ se sienta junto a $D$, pero $Z$ no se sienta junto a ellos.
+
 Determine cuál afirmación es siempre verdadera.
 \begin{enumerate}[label=\Roman*.]
 	\item Entre $D$ y $Z$ hay por lo menos 2 asientos.
@@ -1593,12 +1644,6 @@ Determine cuál afirmación es siempre verdadera.
 \textbf{Obreros:} $A,B,C,D$\qquad \textbf{Empleados:} $X,Y,Z$\\[1mm]
 
 
-
-
-
-
-
-
 \begin{center}
 	\includegraphics[width=3cm]{imagenes/CEPRE-UNA2024-I/etapa1/ing/rm6c24-I.png}
 \end{center}
@@ -1606,21 +1651,7 @@ Determine cuál afirmación es siempre verdadera.
 
 
 
-
-
 \end{enumerate}
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1633,11 +1664,11 @@ Determine cuál afirmación es siempre verdadera.
 
 \item Persona que camina y realiza actividades de noche se denomina:
 \begin{enumerate}[label=\alph*)]
-	\item sonámbulo.
-	\item noctámbulo.
-	\item nefando.
-	\item cicatero.
-	\item nocturno.
+	\item Sonámbulo
+	\item Noctámbulo
+	\item Nefando
+	\item Cicatero
+	\item Nocturno
 \end{enumerate}
 
 \textbf{Respuesta correcta:} b)
@@ -1645,7 +1676,7 @@ Determine cuál afirmación es siempre verdadera.
 \vspace{2mm}
 \textbf{Solucionario:}
 
-\textbf{Noctámbulo} es la persona que \textbf{acostumbra estar despierta durante la noche} y realizar actividades en ese horario (por ejemplo, trabajar o caminar de madrugada). 
+\textbf{Noctámbulo} es la persona que \textbf{acostumbra estar despierta durante la noche} y realiza actividades en ese horario (por ejemplo, trabajar o caminar de madrugada). 
 En cambio, \textbf{sonámbulo} es quien camina o actúa mientras duerme (sonambulismo), \textbf{nocturno} suele usarse como adjetivo (actividad nocturna), y \textbf{nefando} / \textbf{cicatero} no se relacionan con el hábito de estar activo en la noche.
 
 \item Complete la oración:
@@ -1677,11 +1708,11 @@ Así, la oración queda natural y con sentido completo, alternando explicación,
 
 \item En el gentilicio ``bonaerense'', se ha utilizado el sufijo:
 \begin{enumerate}[label=\alph*)]
-	\item aerense
-	\item erense
-	\item rense
-	\item ense
-	\item se
+	\item Aerense
+	\item Erense
+	\item Rense
+	\item Ense
+	\item Se
 \end{enumerate}
 
 \textbf{Respuesta correcta:} d)
@@ -1695,11 +1726,12 @@ El sufijo es la parte final que se añade para formar la palabra y, en este caso
 % -------------------------
 
 \item El término OCÉANO incluye:
+
 \begin{enumerate}[label=\alph*)]
-	\item montaña, valle, cañón
-	\item costa, ola, marea
-	\item barco, velero, submarino
-	\item isla, archipiélago, embarcación
+	\item Montaña, valle, cañón
+	\item Costa, ola, marea
+	\item Barco, velero, submarino
+	\item Isla, archipiélago, embarcación
 	\item Pez, delfín, ballena
 \end{enumerate}
 
@@ -1710,12 +1742,12 @@ El sufijo es la parte final que se añade para formar la palabra y, en este caso
 
 La pregunta apunta a elementos que se asocian directamente con el \textbf{océano} como \textbf{cuerpo de agua} y sus fenómenos:
 \textbf{costa} (límite entre mar y tierra), \textbf{ola} (movimiento del agua) y \textbf{marea} (subida y bajada periódica del nivel del mar).
-Las otras alternativas contienen: relieve terrestre (A), medios de transporte (C), mezcla de accidentes geográficos y objetos (D), o fauna marina (E), que pueden existir en el océano, pero no “definen” mejor el término como fenómeno geográfico.
+Las otras alternativas contienen: relieve terrestre (a), medios de transporte (c), mezcla de accidentes geográficos y objetos (d), o fauna marina (e), que pueden existir en el océano, pero no “definen” mejor el término como fenómeno geográfico.
 
 % -------------------------
 
 \item Resuelva la analogía:\\
-TUNGSTENO: Tg.
+TUNGSTENO: Tg
 \begin{enumerate}[label=\alph*)]
 	\item \makebox[2cm][l]{Fósforo} : \makebox[1.2cm][l]{P}
 	\item \makebox[2cm][l]{Calcio}  : \makebox[1.2cm][l]{Cl}
@@ -1730,10 +1762,11 @@ TUNGSTENO: Tg.
 \vspace{2mm}
 \textbf{Solucionario:}
 
-La relación es \textbf{Elemento químico : símbolo químico}. 
-Entre las opciones, la única pareja correctamente formada es \textbf{Fósforo : P}. 
-Las demás tienen símbolos incorrectos (por ejemplo, el calcio es \textbf{Ca}, la plata es \textbf{Ag}, el oro es \textbf{Au}, y el rutenio es \textbf{Ru}). 
-Por eso, la alternativa que mantiene la misma relación es la \textbf{a)}.
+La relación es \textbf{Elemento químico : Símbolo químico}.
+
+Entre las opciones, \textbf{Calcio : Cl} es incorrecto, porque su símbolo es \textbf{Ca}; \textbf{Rutenio : Rt} es incorrecto, porque su símbolo es \textbf{Ru}; \textbf{Plata : Og} es incorrecto, porque su símbolo es \textbf{Ag}; y \textbf{Oro : Ou} es incorrecto, porque su símbolo es \textbf{Au}.
+
+Por lo tanto, la única pareja correctamente formada es \textbf{Fósforo : P}, de modo que la alternativa que mantiene la misma relación es la \textbf{a)}.
 
 \item \textbf{COMPRENSIÓN DE TEXTO}\\
 ``Por eso se mueren los hombres; porque no son capaces de enlazar el principio con el fin''\\
@@ -1771,11 +1804,11 @@ How is the weather in Puno?
 \end{center}
 
 \begin{enumerate}[label=\alph*)]
-	\item It is windy.
-	\item it is hot.
-	\item it is raining.
-	\item It is cold.
-	\item It is sunny.
+	\item It is windy
+	\item It is hot
+	\item It is raining
+	\item It is cold
+	\item It is sunny
 \end{enumerate}
 
 \textbf{Respuesta correcta:} c)
@@ -1792,10 +1825,10 @@ Estas señales indican que el clima está lluvioso.
 \item Answer the question.\\
 Which sentence has a possessive adjective?
 \begin{enumerate}[label=\alph*)]
-	\item They are engineers.
-	\item Their names are Peter and Thomas.
-	\item They are from Australia.
-	\item They have modern computers.
+	\item They are engineers
+	\item Their names are Peter and Thomas
+	\item They are from Australia
+	\item They have modern computers
 	\item They work for ``Air France''
 \end{enumerate}
 
@@ -1914,7 +1947,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	$(\text{N}^\circ \text{ días})(\text{N}^\circ \text{ albañiles})(\text{N}^\circ \text{ h/d})= (36)(25)(8)=x(18)(10)$
 	
-	\fbox{$x=40$}
+	\fbox{$x=40 \, días$}
 	
 	\vspace{6mm}
 	
@@ -2035,14 +2068,42 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	\vspace{2mm}
 	\textbf{Solucionario:}
 	
-	$2x^2+2(a+1)x+a^2-1\leq 0$
 	
-	$\Delta=4(a^2+2a+1)-4(2a^2-2)=0$
+	
+	Usamos la condición:
+	
+	$Ax^2+Bx+C \leq 0$
+	
+	$x^2+(x^2+2ax+a^2)+2x \leq 1$
+
+	$(x^2+x^2)+(2ax+2x)+a^2-1 \leq 0$
+	
+	$2x^2+2(a+1)x+a^2-1 \leq 0$
+	
+	Para que tenga una única solución, se debe cumplir:
+	
+	$\Delta = 0$
+	
+	Entonces:
+	
+	$\Delta = [2(a+1)]^2 - 4(2)(a^2-1)$
+	
+	$\Delta = 4(a^2+2a+1)-8(a^2-1)$
+	
+	$\Delta = 4(a^2+2a+1)-8a^2+8$
+	
+	$-4a^2+8a+12=0$
 	
 	$a^2-2a-3=0$
-	$(a-3) y (a+1)$
 	
-	$\therefore$ Suma $=3+(-1)=$\fbox{$2$.}
+	$(a-3)(a+1)=0$
+	
+	$a=3$ o $a=-1$
+	
+	Por lo tanto, la suma de los valores de $a$ es:
+	
+	$3+(-1)=\boxed{2}$
+	
 	
 	\vspace{6mm}
 	
@@ -2206,7 +2267,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	\end{center}
 
 	
-	\item La imagen muestra un croquis de un determinado lugar. Si la Av. El Sol y la Av. La Torre son paralelas, la Av. Daniel y la Av. Francisco son paralelas, calcule $2x$.
+	\item La imagen muestra un croquis de un determinado lugar. Si la av. El Sol y la av. La Torre son paralelas, la av. Daniel y la av. Francisco son paralelas, calcule $2x$.
 	
 	\begin{center}
 		\includegraphics[width=4.3cm]{imagenes/CEPRE-UNA2024-I/etapa1/bio/geo3c24-I.png}
@@ -2228,7 +2289,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 		\begin{minipage}{0.45\textwidth}
 			Pide ``x''.
 			
-			Según el gráfico, la Av. Daniel y la Av. Francisco son paralelas.
+			Según el gráfico, la av. Daniel y la av. Francisco son paralelas.
 			
 			Del gráfico:
 			
@@ -2259,7 +2320,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 
 \begin{enumerate}[resume]
 	
-	\item En el gráfico, $ABCD$ y $AEFG$ son cuadrados, calcule $\tan\alpha+\tan\theta$
+	\item En el gráfico, $ABCD$ y $AEFG$ son cuadrados. Calcule $\tan\alpha+\tan\theta$
 	
 	\begin{center}
 		\includegraphics[width=3cm]{imagenes/CEPRE-UNA2024-I/etapa1/bio/trigo1c24-I.png}
@@ -2309,17 +2370,31 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	\textbf{Solucionario:}
 	
 	
+	\textit{Nota:}
+	
+	Grados sexagesimales $(^\circ)$:
+	
+	$360^\circ = 1$ vuelta
+	
+	Grados centesimales $(g)$:
+	
+	$400^g = 1$ vuelta
+	
+	$360^\circ = 400^g$
+	
+	$1^g = \dfrac{360^\circ}{400} = \dfrac{9^\circ}{10}$
+	
 	Determinamos el error cometido:
 	
-	$E_{\text{error}}=\theta_{\text{verdad}}-\theta_{\text{falso}}$
+	$E_{\text{error}}=\theta_{\text{verdadero}}-\theta_{\text{falso}}$
 	
-	$=40^\circ-40^g\cdot\dfrac{9^\circ}{10^g}$
+	$E_{\text{error}}=40^\circ-40^g$
 	
-	$=40^\circ-4(9^\circ)$
+	$E_{\text{error}}=40^\circ-40\left(\dfrac{9^\circ}{10}\right)$
 	
-	$=40^\circ-36^\circ$
+	$E_{\text{error}}=40^\circ-36^\circ$
 	
-	$E_{\text{error}}=$\fbox{$4^\circ$}
+	$E_{\text{error}}=\boxed{4^\circ}$
 	
 	\vspace{6mm}
 	
@@ -2361,13 +2436,13 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	Perímetro:
 	
-	$13k+12k+5k=210$
+	$13k+12k+5k=210 \, m$
 	
-	$30k=210$
+	$30k=210 \, m$
 	
-	$k=7$
+	$k=7 \, m$
 	
-	Cateto menor $=5(7)$
+	Cateto menor $=5(7)\, m$
 	
 	\fbox{$=35\ m$}
 	
@@ -2404,7 +2479,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\begin{center}
 		\begin{minipage}{0.45\textwidth}
-			$M=\dfrac{6}{5}(100)\ \text{Nm}-50\ \text{Nm}$\\
+			$M=\dfrac{6}{5}(100\ \text{Nm})-50\ \text{Nm}$\\
 			
 			$M=\dfrac{600}{5}\ \text{Nm}-50\ \text{Nm}$\\
 			
@@ -2488,7 +2563,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	$\sum V=30V-10V$
 	
-	$V=20V$
+	\fbox{$V=20V$}
 	
 	Hallamos la lectura del amperímetro ideal.
 	
@@ -2499,6 +2574,8 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	$\dfrac{20V}{5\Omega}=I$
 	
 	\fbox{$4A=I$}
+	
+	\fbox{V = 20V  , I = 4A}
 	
 	\vspace{6mm}
 	
@@ -2539,7 +2616,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\vspace{6mm}
 	
-	\item Los alquimistas perseguían 2 propósitos: Obtener el elixir de vida (panacea) y obtener oro a partir de los elementos más baratos, los cuales no fueron logrados. Pero, ya en tiempos de la química reciente el segundo propósito se hizo realidad cuando se obtuvo el radioisótopo de oro inestable $Au-198\ (Z=79)$ a partir del bombardeo de un núcleo con 1 neutrón. Si al obtener este isótopo de oro inestable se libera un protón ¿Cuál es el núcleo bombardeado?
+	\item Los alquimistas perseguían dos propósitos: Obtener el elixir de vida (panacea) y obtener oro a partir de los elementos más baratos, los cuales no fueron logrados. Pero, ya en tiempos de la química reciente el segundo propósito se hizo realidad cuando se obtuvo el radioisótopo de oro inestable $Au-198\ (Z=79)$ a partir del bombardeo de un núcleo con 1 neutrón. Si al obtener este isótopo de oro inestable se libera un protón ¿Cuál es el núcleo bombardeado?
 	
 	\begin{enumerate}[label=\alph*)]
 		\item $_{77}Ir$
@@ -2561,7 +2638,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\vspace{6mm}
 	
-	\item Al introducir una moneda de aluminio en una solución de $HCl_{(ac)}$. Se observa que se libera calor y se producen burbujas, este fenómeno se representa con la ecuación química
+	\item Al introducir una moneda de aluminio en una solución de $HCl_{(ac)}$. Se observa que se libera calor y se producen burbujas, este fenómeno se representa con la ecuación química:
 	
 	$Al_{(s)}+HCl_{(ac)}\rightarrow AlCl_{3(ac)}+H_{2(g)}$
 	
@@ -2589,16 +2666,24 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	$AB+C\Rightarrow AC+B$
 	
+	$I.$ Se libera calor $\Rightarrow$ Verdadero
+	
+	$II.$ No es una reacción de descomposición $\Rightarrow$ Falso
+	
+	$III.$ Corresponde a una reacción de simple desplazamiento $\Rightarrow$ Verdadero
+	
+	$\therefore$ \fbox{VFV}
+	
 	\vspace{6mm}
 	
-	\item ¿Cuál es la densidad del aire $(g/L)$ en la Rinconada (Puno) si la temperatura es $2^\circ C$ y la presión aproximada es $50\ cm$ de Hg? $(PM_{aire}=28,97\ g/mol\ promedio)$
+	\item ¿Cuál es la densidad del aire $(g/L)$ en la Rinconada (Puno) si la temperatura es $2^\circ C$ y la presión aproximada es $50\ cm$ de Hg? $(PM_{aire}=28.97\ g/mol\ promedio)$
 	
 	\begin{enumerate}[label=\alph*)]
-		\item $1,1\ g/L$
-		\item $0,8\ g/L$
-		\item $1,0\ g/L$
-		\item $0,6\ g/L$
-		\item $2,0\ g/L$
+		\item $1.1\ g/L$
+		\item $0.8\ g/L$
+		\item $1.0\ g/L$
+		\item $0.6\ g/L$
+		\item $2.0\ g/L$
 	\end{enumerate}
 	\textbf{Respuesta correcta:} b)
 	
@@ -2609,7 +2694,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	$T=2^\circ C=275^\circ K$
 	
-	$PM_{aire}=28,97\ g/mol$
+	$PM_{aire}=28.97\ g/mol$
 	
 	$P=50\ cm\ de\ Hg=500\ mm\ de\ Hg$
 	
@@ -2623,7 +2708,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	$\rho=\dfrac{P\,PM}{RT}$
 	
-	$\rho=\dfrac{(500\ mmHg)(28,97\ g/mol)}{(62,4\ mmHg\cdot L/mol\cdot K)(275^\circ K)}=$\fbox{$0,8\ g/L$}
+	$\rho=\dfrac{(500\ mmHg)(28.97\ g/mol)}{(62.4\ mmHg\cdot L/mol\cdot K)(275^\circ K)}=$\fbox{$0.8\ g/L$}
 	
 	\vspace{6mm}
 	
@@ -2673,7 +2758,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	$C_3+C_4=0+3$
 	
-	$C_3+C_4=3$
+	$C_3+C_4= \fbox{3}$
 	\vspace{6mm}
 	
 \end{enumerate}
@@ -2690,28 +2775,28 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item El tejido óseo presenta células grandes y multinucleadas en una cavidad llamada Laguna de Howship. Estas células, que realizan la resorción ósea y sintetizan fosfatasa ácida, se denominan:
 	\begin{enumerate}[label=\alph*)]
-		\item células osteoprogenitoras.
-		\item osteoclastos.
-		\item osteoblastos.
-		\item osteocitos.
-		\item queratinocitos.
+		\item Células osteoprogenitoras
+		\item Osteoclastos
+		\item Osteoblastos
+		\item Osteocitos
+		\item Queratinocitos
 	\end{enumerate}
 	\textbf{Respuesta correcta:} b)
 	
 	\vspace{2mm}
 	\textbf{Solucionario:}
 	
-	Las células que realizan la resorción ósea se ubican en las lagunas de Howship. Además, son grandes, multinucleadas y secretan enzimas como la fosfatasa ácida. Esas características corresponden a los \textbf{osteoclastos}.
+	Las células que realizan la resorción ósea, se ubican en las lagunas de Howship. Además, son grandes, multinucleadas y secretan enzimas como la fosfatasa ácida. Esas características corresponden a los \textbf{osteoclastos}.
 	
 	\vspace{6mm}
 	
 	\item Las meninges son membranas conectivas que envuelven y protegen al encéfalo y la médula espinal. Estas, de afuera hacia adentro, son:
 	\begin{enumerate}[label=\alph*)]
-		\item piamadre, duramadre y aracnoides.
-		\item seno sagital, ventrículo y duramadre.
-		\item duramadre, aracnoides y piamadre.
-		\item capa cerebral, cubierta y aracnoides.
-		\item duramadre, cuerpo calloso y seno sagital superior.
+		\item Piamadre, duramadre y aracnoides
+		\item Seno sagital, ventrículo y duramadre
+		\item Duramadre, aracnoides y piamadre
+		\item Capa cerebral, cubierta y aracnoides
+		\item Duramadre, cuerpo calloso y seno sagital superior
 	\end{enumerate}
 	\textbf{Respuesta correcta:} c)
 	
@@ -2727,11 +2812,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item El ingreso del material líquido realizado por ciertos tipos de células especializadas se denomina:
 	\begin{enumerate}[label=\alph*)]
-		\item exocitosis.
-		\item fagocitosis.
-		\item pinocitosis.
-		\item ciclosis.
-		\item tixotropía.
+		\item Exocitosis
+		\item Fagocitosis
+		\item Pinocitosis
+		\item Ciclosis
+		\item Tixotropía
 	\end{enumerate}
 	\textbf{Respuesta correcta:} c)
 	
@@ -2806,29 +2891,29 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item En un inicio, las escuelas psicológicas asumieron una postura radical sobre el objeto de estudio de la psicología, el método que deberían usar y también contribuyeron de manera notoria en su avance. Sobre el segundo punto, podemos afirmar que la Escuela Estructuralista propuso como método:
 	\begin{enumerate}[label=\alph*)]
-		\item la introspección.
-		\item la extrospección.
-		\item el condicionamiento.
-		\item los test psicológicos.
-		\item el estudio de casos.
+		\item La introspección
+		\item La extrospección
+		\item El condicionamiento
+		\item Los test psicológicos
+		\item El estudio de casos
 	\end{enumerate}
 	\textbf{Respuesta correcta:} a)
 	
 	\vspace{2mm}
 	\textbf{Solucionario:}
 	
-	La escuela estructuralista buscaba analizar la conciencia en sus elementos básicos, para lo cual empleó la \textbf{introspección}.  
+	La Escuela Estructuralista buscaba analizar la conciencia en sus elementos básicos, para lo cual empleó la \textbf{introspección}.  
 	Ese fue su método principal.
 	
 	\vspace{6mm}
 	
 	\item Juan Carlos se siente muy contento porque ingresó a la universidad; por otro lado se siente triste por sus amigos que no ingresaron. Esto refleja claramente la característica de la afectividad denominada:
 	\begin{enumerate}[label=\alph*)]
-		\item amplitud.
-		\item intensidad.
-		\item polaridad.
-		\item intimidad.
-		\item profundidad.
+		\item Amplitud
+		\item Intensidad
+		\item Polaridad
+		\item Intimidad
+		\item Profundidad
 	\end{enumerate}
 	\textbf{Respuesta correcta:} c)
 	
@@ -2858,13 +2943,13 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\vspace{6mm}
 	
-	\item Después de varios años, Rosalia vuelve a la Universidad Nacional del Altiplano, pero manifiesta que nunca ha estado en aquel lugar. El texto mencionado refiere una anomalía de memoria denominada:
+	\item Después de varios años, Rosalia vuelve a la Universidad Nacional del Altiplano de Puno, pero manifiesta que nunca ha estado en aquel lugar. El texto mencionado refiere una anomalía de memoria denominada:
 	\begin{enumerate}[label=\alph*)]
-		\item hipermnesia.
-		\item agnosia.
-		\item amnesia.
-		\item hipomnesia.
-		\item paramnesia.
+		\item Hipermnesia
+		\item Agnosia
+		\item Amnesia
+		\item Hipomnesia
+		\item Paramnesia
 	\end{enumerate}
 	\textbf{Respuesta correcta:} e)
 	
@@ -2885,11 +2970,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item El río fronterizo que limita entre Perú y Colombia es:
 	\begin{enumerate}[label=\alph*)]
-		\item Putumayo.
-		\item Tumbes.
-		\item Chira.
-		\item Amazonas.
-		\item Zarumilla.
+		\item Putumayo
+		\item Tumbes
+		\item Chira
+		\item Amazonas
+		\item Zarumilla
 	\end{enumerate}
 	\textbf{Respuesta correcta:} a)
 	
@@ -2901,20 +2986,20 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\vspace{6mm}
 	
-	\item La región natural comprendida entre los $2300$ a $3500$ m.s.n.m. se denomina:
+	\item La región natural comprendida entre los $2,300$ a $3,500$ m s.n.m. se denomina:
 	\begin{enumerate}[label=\alph*)]
-		\item Yunga.
-		\item Chala.
-		\item Suni.
-		\item Puna.
-		\item Quechua.
+		\item Yunga
+		\item Chala
+		\item Suni
+		\item Puna
+		\item Quechua
 	\end{enumerate}
 	\textbf{Respuesta correcta:} e)
 	
 	\vspace{2mm}
 	\textbf{Solucionario:}
 	
-	Según la clasificación de Javier Pulgar Vidal, la región \textbf{Quechua} se ubica aproximadamente entre los $2300$ y $3500$ m.s.n.m.
+	Según la clasificación de Javier Pulgar Vidal, la región \textbf{Quechua} se ubica aproximadamente entre los $2,300$ y $3,500$ m s.n.m.
 	
 	\vspace{6mm}
 	
@@ -2927,11 +3012,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item La participación política de la mujer en el Perú se estableció con el derecho al sufragio en el gobierno de:
 	\begin{enumerate}[label=\alph*)]
-		\item Alan García Pérez.
-		\item José Luis Bustamante y Rivero.
-		\item Manuel Arturo Odría Amoretti.
-		\item Fernando Belaunde Terry.
-		\item Ricardo Pérez Godoy.
+		\item Alan García Pérez
+		\item José Luis Bustamante y Rivero
+		\item Manuel Arturo Odría Amoretti
+		\item Fernando Belaunde Terry
+		\item Ricardo Pérez Godoy
 	\end{enumerate}
 	\textbf{Respuesta correcta:} c)
 	
@@ -2942,13 +3027,13 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\vspace{6mm}
 	
-	\item El sacrificio de Titu Kusi Huallpa, conocido como Cahuide, está relacionado con la rebelión de:
+	\item El sacrificio de \textit{Titu Kusi Huallpa}, conocido como Cahuide, está relacionado con la rebelión de:
 	\begin{enumerate}[label=\alph*)]
-		\item Manco Cápac.
-		\item Calcu Chímac.
-		\item Quisquis y Rumi Ñahui.
-		\item Manco Inca.
-		\item Quisu Yupanqui.
+		\item Manco Cápac
+		\item Calcu Chímac
+		\item Quisquis y Rumi Ñahui
+		\item Manco Inca
+		\item Quisu Yupanqui
 	\end{enumerate}
 	\textbf{Respuesta correcta:} d)
 	
@@ -2968,11 +3053,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item El registro de organizaciones políticas está a cargo de:
 	\begin{enumerate}[label=\alph*)]
-		\item la Oficina Nacional de Procesos Electorales.
-		\item el Registro Nacional de Identificación y Estado Civil.
-		\item el Jurado Nacional de Elecciones.
-		\item los Jurados Electorales Especiales.
-		\item el Parlamento Andino.
+		\item La Oficina Nacional de Procesos Electorales
+		\item El Registro Nacional de Identificación y Estado Civil
+		\item El Jurado Nacional de Elecciones
+		\item Los Jurados Electorales Especiales
+		\item El Parlamento Andino
 	\end{enumerate}
 	\textbf{Respuesta correcta:} c)
 	
@@ -2983,7 +3068,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\vspace{6mm}
 	
-	\item Dina y Martín son cuñados. ¿Cuál es el parentesco que se establece entre ellos?
+	\item Dina y Martín son cuñados ¿Cuál es el parentesco que se establece entre ellos?
 	\begin{enumerate}[label=\alph*)]
 		\item Segundo grado de afinidad
 		\item Primer grado de afinidad
@@ -3008,7 +3093,7 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 \begin{enumerate}[resume]
 	
 	
-	\item El pan es un bien con pocos sustitutos. ¿Cómo se clasifica generalmente su elasticidad?
+	\item El pan es un bien con pocos sustitutos ¿Cómo se clasifica generalmente su elasticidad?
 	\begin{enumerate}[label=\alph*)]
 		\item Demanda unitaria
 		\item Demanda elástica
@@ -3028,18 +3113,18 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item Los tributos en el Perú se clasifican en:
 	\begin{enumerate}[label=\alph*)]
-		\item tasas, contribuciones y licencias.
-		\item contribuciones, tasas y derechos.
-		\item arbitrios, impuestos y contribuciones.
-		\item impuestos, contribuciones y tasas.
-		\item licencias, contribuciones y arbitrios.
+		\item Tasas, contribuciones y licencias
+		\item Contribuciones, tasas y derechos
+		\item Arbitrios, impuestos y contribuciones
+		\item Impuestos, contribuciones y tasas
+		\item Licencias, contribuciones y arbitrios
 	\end{enumerate}
 	\textbf{Respuesta correcta:} d)
 	
 	\vspace{2mm}
 	\textbf{Solucionario:}
 	
-	La clasificación general de los tributos en el Perú es:
+	La clasificación general de los tributos en el Perú son:
 	
 	$ \text{impuestos}, \text{contribuciones} \text{ y } \text{tasas} $
 	
@@ -3056,11 +3141,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	En el acto, los estudiantes plasmaron un texto:
 	\begin{enumerate}[label=\alph*)]
-		\item narrativo.
-		\item expositivo.
-		\item argumentativo.
-		\item descriptivo.
-		\item dialógico.
+		\item Narrativo
+		\item Expositivo
+		\item Argumentativo
+		\item Descriptivo
+		\item Dialógico
 	\end{enumerate}
 	\textbf{Respuesta correcta:} b)
 	
@@ -3074,11 +3159,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item Un alumno comenta a su maestra sobre las dificultades que tuvo para llegar a la universidad a raíz de la inundación en algunas calles de la ciudad. El alumno, en este comentario, generó un texto narrativo de tipo:
 	\begin{enumerate}[label=\alph*)]
-		\item fáctico.
-		\item cotidiano.
-		\item ficticio.
-		\item onírico.
-		\item fantástico.
+		\item Fáctico
+		\item Cotidiano
+		\item Ficticio
+		\item Onírico
+		\item Fantástico
 	\end{enumerate}
 	\textbf{Respuesta correcta:} b)
 	
@@ -3109,11 +3194,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item Señale la alternativa que presenta coma elíptica.
 	\begin{enumerate}[label=\alph*)]
-		\item Compré chicles, caramelos, cigarrillos y chocolates.
-		\item Madre, mañana viajamos.
-		\item Ayer, mis padres llegaron.
-		\item Mario estudia en San Ignacio de Loyola; Luis, en César Vallejo.
-		\item Grau, el Héroe de los Mares, se inmoló en el Combate de Angamos.
+		\item Compré chicles, caramelos, cigarrillos y chocolates
+		\item Madre, mañana viajamos
+		\item Ayer, mis padres llegaron
+		\item Mario estudia en San Ignacio de Loyola; Luis, en César Vallejo
+		\item Grau, el Héroe de los Mares, se inmoló en el Combate de Angamos
 	\end{enumerate}
 	\textbf{Respuesta correcta:} d)
 	
@@ -3140,11 +3225,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	En los versos de José Santos Chocano, se aprecia como tema:
 	
 	\begin{enumerate}[label=\alph*)]
-		\item la identidad andina.
-		\item el sincretismo cultural.
-		\item el destino inevitable.
-		\item el elogio a la naturaleza.
-		\item la vieja oligarquía.
+		\item La identidad andina
+		\item El sincretismo cultural
+		\item El destino inevitable
+		\item El elogio a la naturaleza
+		\item La vieja oligarquía
 	\end{enumerate}
 	\textbf{Respuesta correcta:} d)
 	
@@ -3158,11 +3243,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item En la obra \textit{Divina Comedia}, Dante se pierde en una selva oscura y se enfrenta a una loba, una pantera y un león, que simbolizan respectivamente:
 	\begin{enumerate}[label=\alph*)]
-		\item codicia, lujuria y soberbia.
-		\item pecado, maldad y orgullo.
-		\item egoísmo, ociosidad e ira.
-		\item codicia, pasión y cólera.
-		\item codicia, egoísmo y pasión.
+		\item Codicia, lujuria y soberbia
+		\item Pecado, maldad y orgullo
+		\item Egoísmo, ociosidad e ira
+		\item Codicia, pasión y cólera
+		\item Codicia, egoísmo y pasión
 	\end{enumerate}
 	\textbf{Respuesta correcta:} a)
 	
@@ -3171,9 +3256,9 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	En la interpretación alegórica clásica de la obra:
 	\begin{itemize}
-		\item la loba representa la codicia,
-		\item la pantera representa la lujuria,
-		\item el león representa la soberbia.
+		\item La loba representa la codicia
+		\item La pantera representa la lujuria
+		\item El león representa la soberbia
 	\end{itemize}
 	
 	\vspace{6mm}
@@ -3496,11 +3581,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item El término excluido de QUIRÓFANO es:
 	\begin{enumerate}[label=\alph*)]
-		\item bisturí.
-		\item tenaza.
-		\item pinza.
-		\item gasa.
-		\item túnica.
+		\item Bisturí
+		\item Tenaza
+		\item Pinza
+		\item Gasa
+		\item Túnica
 	\end{enumerate}
 	\textbf{Respuesta correcta:} e)
 	
@@ -3514,11 +3599,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	\item El antónimo de la palabra CAMELAR es:
 	\begin{enumerate}[label=\alph*)]
-		\item seducir.
-		\item galantear.
-		\item conquistar.
-		\item execrar.
-		\item arrullar.
+		\item Seducir
+		\item Galantear
+		\item Conquistar
+		\item Execrar
+		\item Arrullar
 	\end{enumerate}
 	\textbf{Respuesta correcta:} d)
 	
@@ -3534,11 +3619,11 @@ Así, la alternativa que coincide con 24 horas es \textbf{Iskay chunka tawayuq /
 	
 	VEGETAL : AUTÓTROFO ::
 	\begin{enumerate}[label=\alph*)]
-		\item sapo : batracio.
-		\item animal : herbívoro.
-		\item hombre : omnívoro.
-		\item caníbal : antropófago.
-		\item pez : acuático.
+		\item Sapo : Batracio
+		\item Animal : Herbívoro
+		\item Hombre : Omnívoro
+		\item Caníbal : Antropófago
+		\item Pez : Acuático
 	\end{enumerate}
 	\textbf{Respuesta correcta:} c)
 	
